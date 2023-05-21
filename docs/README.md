@@ -20,14 +20,14 @@ features:
   - title: 十全十美史俊威
     icon: drum
     details: 123
-  - title: 公事公办龚钰祺
-    icon: keyboard
+  - title: 何德何能何景扬
+    icon: guitar
     details: 123
   - title: 流里流气刘家凯
     icon: e-guitar
     details: 123
-  - title: 何德何能何景扬
-    icon: guitar
+  - title: 公事公办龚钰祺
+    icon: keyboard
     details: 123
 ---
 
