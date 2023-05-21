@@ -8,7 +8,7 @@ actions:
   - text: 开始🎸
     link: /start/
     type: primary
-  - text: 绿团百科📚
+  - text: 苏打百科📚
     link: /wiki/
 features:
   - title: 无忧无虑吴青峰
