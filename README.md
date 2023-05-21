@@ -1,2 +1,2 @@
 # sodaguide
-Sodaguide - Sodagreen Unofficial Tour Map
+Sodaguide - Sodagreen Tourist Guide Map

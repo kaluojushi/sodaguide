@@ -1,0 +1,15 @@
+# 关于本站 project
+dist
+package-lock.json
+
+# Editor directories and files
+.vscode
+.vs
+.idea
+
+# node_modules
+node_modules
+*/node_modules/
+.temp
+.cache
+

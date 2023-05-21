@@ -1,0 +1,27 @@
+{
+  "name": "sodaguide",
+  "version": "1.0.0",
+  "description": "Sodagreen Tourist Guide Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "sh deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaluojushi/sodaguide.git"
+  },
+  "author": "Carlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaluojushi/sodaguide/issues"
+  },
+  "homepage": "https://github.com/kaluojushi/sodaguide#readme",
+  "devDependencies": {
+    "vuepress": "2.0.0-beta.62",
+    "vuepress-theme-hope": "^2.0.0-beta.211",
+    "vuepress-theme-reco": "2.0.0-beta.62"
+  }
+}
