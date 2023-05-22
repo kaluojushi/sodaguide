@@ -17,6 +17,10 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
     },
+    comment: {
+      provider: "Waline",
+      serverURL: "https://comments.sodaguide.cn/",
+    },
     components: {
       components: [
         "BiliBili",
