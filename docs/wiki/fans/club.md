@@ -13,7 +13,7 @@ title: 后援会
 
 ![《歌手》中的徐文博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/xuwenbo.png)
 
-2009 年，苏打绿第一次上《快乐大本营》节目时，「苏打绿游乐园」成员“牛奶很白”在节目中唱了一首原创歌曲《写给绿的情书》。
+2009 年，苏打绿第一次上《快乐大本营》节目时，「苏打绿游乐园」成员“牛奶很白”在节目中唱了一首原创歌曲〈写给绿的情书〉。
 
 随着 2019 年 9 月微博对“饭圈”的治理，「苏打绿游乐园」更名为「苏打绿_aka_鱼丁糸官方后援会」。
 
@@ -51,6 +51,6 @@ title: 后援会
 - [「吴青峰新人站」抖音](https://www.douyin.com/user/MS4wLjABAAAA0dSF2BAErm_iQ5uD0S-r2OdRf96CXMrkx5Iv6REyu7g)
 - [「吴青峰新人站」小红书](https://www.xiaohongshu.com/user/profile/5d3804950000000011021658)
 
-## 其他
+## 其他购买专辑的方式
 
 如果你不想通过团购的方式购买专辑，你可以在台湾的 [「五大唱片」](https://www.5music.com.tw/) 或 [「博客来」](https://www.books.com.tw/) 网站购买到苏打绿的专辑。当然，你要想办法解决访问及支付的问题。

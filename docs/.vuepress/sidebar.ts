@@ -5,11 +5,51 @@ export default {
       text: "苏打绿 aka 鱼丁糸",
       icon: "band",
       prefix: "sodagreen",
-      collapsible: true,
+      collapsible: false,
       children: [
         "",
       ],
-    }
+    },
+    {
+      text: "吴青峰",
+      icon: "microphone",
+      prefix: "wuqingfeng",
+      collapsible: false,
+      children: [
+        "",
+      ],
+    },
+  ],
+  "/members": [
+    "",
+    {
+      text: "绿团/鱼团成员",
+      icon: "band",
+      prefix: "sodagreen",
+      collapsible: false,
+      children: [
+        "wuqingfeng",
+        "xiexinyi",
+        "shijunwei",
+        "hejingyang",
+        "liujiakai",
+        "gongyuqi",
+      ],
+    },
+    {
+      text: "打绿合作伙伴",
+      icon: "partner",
+      prefix: "partner",
+      collapsible: false,
+      children: [],
+    },
+    {
+      text: "峰峰战队",
+      icon: "team",
+      prefix: "team",
+      collapsible: false,
+      children: [],
+    },
   ],
   "/wiki/": [
     "",
@@ -20,6 +60,8 @@ export default {
       collapsible: true,
       children: [
         "vivaldi",
+        "haowuqing",
+        "favorite",
       ],
     },
     {
