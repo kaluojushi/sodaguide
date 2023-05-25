@@ -20,7 +20,7 @@ export default {
       ],
     },
   ],
-  "/members": [
+  "/members/": [
     "",
     {
       text: "绿团/鱼团成员",
@@ -41,7 +41,9 @@ export default {
       icon: "partner",
       prefix: "partner",
       collapsible: false,
-      children: [],
+      children: [
+        "zhongchengyang",
+      ],
     },
     {
       text: "峰峰战队",
@@ -75,4 +77,7 @@ export default {
       ],
     },
   ],
+  "/resources/": [
+    "",
+  ]
 };

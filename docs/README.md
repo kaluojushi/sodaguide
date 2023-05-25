@@ -13,21 +13,27 @@ actions:
 features:
   - title: 无忧无虑吴青峰
     icon: microphone
+    link: /members/sodagreen/wuqingfeng
     details: 123
   - title: 谢天谢地谢馨仪
     icon: bass
+    link: /members/sodagreen/xiexinyi
     details: 123
   - title: 十全十美史俊威
     icon: drum
+    link: /members/sodagreen/shijunwei
     details: 123
   - title: 何德何能何景扬
     icon: guitar
+    link: /members/sodagreen/hejingyang
     details: 123
   - title: 流里流气刘家凯
     icon: e-guitar
+    link: /members/sodagreen/liujiakai
     details: 123
   - title: 公事公办龚钰祺
     icon: keyboard
+    link: /members/sodagreen/gongyuqi
     details: 123
 ---
 
