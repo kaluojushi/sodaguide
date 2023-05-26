@@ -31,8 +31,20 @@ export default [
   },
   {
     text: '资源',
-    link: '/resources/',
+    prefix: '/resources/',
     icon: 'resource',
+    children: [
+      {
+        text: '打绿资源库',
+        icon: 'resource',
+        link: '',
+      },
+      {
+        text: '苏打志 Sodazine',
+        icon: 'magazine',
+        link: 'sodazine',
+      },
+    ],
   },
   {
     text: '社交网站',

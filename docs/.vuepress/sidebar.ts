@@ -79,5 +79,17 @@ export default {
   ],
   "/resources/": [
     "",
+    {
+      text: "苏打志 Sodazine",
+      icon: "magazine",
+      prefix: "sodazine",
+      collapsible: true,
+      children: [
+        "",
+        "sodazine1",
+        "sodazine2",
+        "sodazine3",
+      ],
+    },
   ]
 };

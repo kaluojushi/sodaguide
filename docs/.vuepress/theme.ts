@@ -5,11 +5,14 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   logo: "/images/favicon.ico",
   navbar,
+  repo: "kaluojushi/sodaguide",
+  repoLabel: "GitHub",
+  repoDisplay: true,
   sidebar,
   footer: `Together With <a href="https://sodagreen.com" target="_blank">Sodagreen</a> 💚💚💚💚💚💚`,
   copyright: "Copyright © Carlo 2023-",
   displayFooter: true,
-  iconAssets: "//at.alicdn.com/t/c/font_4078802_6qd9wtb3jaw.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4078802_k4xny0u2xan.css",
   fullscreen: true,
   plugins: {
     mdEnhance: {
