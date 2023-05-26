@@ -10,36 +10,38 @@ actions:
     type: primary
   - text: 苏打百科📚
     link: /wiki/
+  - text: 打绿资源库📦
+    link: /resources/
 features:
   - title: 无忧无虑吴青峰
     icon: microphone
     link: /members/sodagreen/wuqingfeng
-    details: 123
+    details: 请带着我一起飞
   - title: 谢天谢地谢馨仪
     icon: bass
     link: /members/sodagreen/xiexinyi
-    details: 123
+    details: 患难见真情
   - title: 十全十美史俊威
     icon: drum
     link: /members/sodagreen/shijunwei
-    details: 123
+    details: 我希望我是神灯精灵
   - title: 何德何能何景扬
     icon: guitar
     link: /members/sodagreen/hejingyang
-    details: 123
+    details: 永远扮演你的角色<br>你想成为什么人就成为什么人
   - title: 流里流气刘家凯
     icon: e-guitar
     link: /members/sodagreen/liujiakai
-    details: 123
+    details: 看着变宽广的海岸线<br>阳光再次轻抚我的脸
   - title: 公事公办龚钰祺
     icon: keyboard
     link: /members/sodagreen/gongyuqi
-    details: 123
+    details: 工作与游乐都能忘却烦恼地哼着歌
 ---
 
 ## 苏打盖 Sodaguide 是什么？
 
-苏打盖（Sodaguide）是苏打绿第六张专辑《你在烦恼什么》的台版预购礼。全称为：
+苏打盖（Sodaguide）是苏打绿第 8 张专辑《你在烦恼什么》的台版预购礼。全称为：
 
 ::: tip Sodazine 苏打志番外特刊之 Sodaguide 苏打盖（听苏打绿臭盖）观光导览地图
 

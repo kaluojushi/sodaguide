@@ -89,6 +89,13 @@ export default {
         "sodazine1",
         "sodazine2",
         "sodazine3",
+        "sodazine4",
+        "sodazine5",
+        "sodazine6",
+        "sodazine7",
+        "sodaguide",
+        "sodazine8",
+        "sodazine9",
       ],
     },
   ]
