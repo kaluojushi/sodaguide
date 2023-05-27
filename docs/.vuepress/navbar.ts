@@ -42,7 +42,12 @@ export default [
       {
         text: '苏打志 Sodazine',
         icon: 'magazine',
-        link: 'sodazine',
+        link: 'sodazine/',
+      },
+      {
+        text: '故事与文字',
+        icon: 'story',
+        link: 'story-and-text/',
       },
     ],
   },

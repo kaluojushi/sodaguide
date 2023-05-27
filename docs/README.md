@@ -28,7 +28,7 @@ features:
   - title: 何德何能何景扬
     icon: guitar
     link: /members/sodagreen/hejingyang
-    details: 永远扮演你的角色<br>你想成为什么人就成为什么人
+    details: 永远扮你的角色<br>你想成为什么人就成什么人
   - title: 流里流气刘家凯
     icon: e-guitar
     link: /members/sodagreen/liujiakai

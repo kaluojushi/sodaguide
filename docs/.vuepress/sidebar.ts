@@ -98,5 +98,16 @@ export default {
         "sodazine9",
       ],
     },
+    {
+      text: "故事与文字",
+      icon: "story",
+      prefix: "story-and-text",
+      collapsible: true,
+      children: [
+        "",
+        "concert-notes",
+        "lyric-imagery",
+      ],
+    },
   ]
 };
