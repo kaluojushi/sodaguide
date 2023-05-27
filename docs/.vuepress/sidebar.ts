@@ -8,6 +8,7 @@ export default {
       collapsible: false,
       children: [
         "",
+        "oaeen",
       ],
     },
     {
@@ -79,6 +80,7 @@ export default {
   ],
   "/resources/": [
     "",
+    "music",
     {
       text: "苏打志 Sodazine",
       icon: "magazine",

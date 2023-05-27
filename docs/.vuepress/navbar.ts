@@ -40,6 +40,11 @@ export default [
         link: '',
       },
       {
+        text: '音乐资源',
+        icon: 'music',
+        link: 'music/',
+      },
+      {
         text: '苏打志 Sodazine',
         icon: 'magazine',
         link: 'sodazine/',

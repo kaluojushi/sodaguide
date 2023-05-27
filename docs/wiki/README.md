@@ -14,6 +14,13 @@ title: 苏打百科
 - 为什么青峰的粉丝叫作 [「啵啵鲨」](/wiki/fans/fans#善心人士以及其他称呼)？
 - 在哪里可以进行专辑的 [团购](/wiki/fans/club)？
 
+其实，很多梗其实藏在本站的各个角落里，比如：
+
+- 苏打绿和 [鱼丁糸](/start/sodagreen/oaeen) 是什么关系？
+- [苏打志](/resources/sodazine/) 是什么？
+
+更多内容，你可以在右上角的搜索框中搜索。欢迎探索！
+
 ## 目录
 
 ### <FontIcon icon="album" /> 作品相关
