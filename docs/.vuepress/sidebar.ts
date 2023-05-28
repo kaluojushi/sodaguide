@@ -60,18 +60,19 @@ export default {
       text: "作品相关",
       icon: "album",
       prefix: "works",
-      collapsible: true,
+      collapsible: false,
       children: [
         "vivaldi",
         "haowuqing",
         "favorite",
+        "GMA",
       ],
     },
     {
       text: "粉丝相关",
       icon: "fans",
       prefix: "fans",
-      collapsible: true,
+      collapsible: false,
       children: [
         "fans",
         "club",

@@ -8,7 +8,7 @@ actions:
   - text: 开始🎸
     link: /start/
     type: primary
-  - text: 苏打百科📚
+  - text: 打绿百科📚
     link: /wiki/
   - text: 打绿资源库📦
     link: /resources/
