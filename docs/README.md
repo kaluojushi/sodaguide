@@ -71,11 +71,9 @@ features:
 
 ## 需要你的帮助！
 
-苏打盖资料搜集自网络，难免有错误和疏漏。
-
 苏打盖是一个 **开源项目**，你可以在 [GitHub](https://github.com/kaluojushi/sodaguide) 上（或点击右上角的小猫图标）找到它的源代码。
 
-如果你也喜欢苏打绿并且熟悉 Git 和 Markdown（会一点前端开发更好！），欢迎你来完善这个项目。
+苏打盖资料搜集自网络，难免有错误和疏漏。如果你也喜欢苏打绿并且熟悉 Git 和 Markdown（会一点前端开发更好！），欢迎你来完善这个项目。
 
 我们推荐你通过 GitHub 的 [Issues](https://github.com/kaluojushi/sodaguide/issues) 和 [Pull Request](https://github.com/kaluojushi/sodaguide/pulls) 来提交你的建议和修改。
 
