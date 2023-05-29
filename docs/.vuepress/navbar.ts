@@ -35,7 +35,7 @@ export default [
     icon: 'resource',
     children: [
       {
-        text: '打绿资源库',
+        text: '苏打资源库',
         icon: 'resource',
         link: '',
       },

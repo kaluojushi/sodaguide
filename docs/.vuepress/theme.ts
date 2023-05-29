@@ -10,7 +10,7 @@ export default hopeTheme({
   repoDisplay: true,
   sidebar,
   footer: `Together With <a href="https://sodagreen.com" target="_blank">Sodagreen</a> 💚💚💚💚💚💚`,
-  copyright: "Copyright © Carlo 2023-",
+  copyright: "Copyright © Carlo 2023-now",
   displayFooter: true,
   iconAssets: "//at.alicdn.com/t/c/font_4078802_9qpzfh2iui.css",
   fullscreen: true,
