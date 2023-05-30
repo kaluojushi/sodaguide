@@ -11,13 +11,13 @@ title: 论吴青峰歌词意象的构建策略
 
 吴青峰是台湾著名的词作家和音乐人，他的歌词表达了对时代和人性的思考，具有深厚的人文关怀。在表现手法上他将中国传统手法与西方现代主义手法相结合，内容上善于融合中西方古典意象和典故，歌词中兼容蕴含古典智慧与先锋精神。本文拟分析其歌词中蕴藏的文学价值与社会价值，探讨他的歌词对当代中国乐坛歌词的价值和意义。
 
-关键词：吴青峰歌词；人文关怀；先锋精神；古典意象；价值
+**关键词：** 吴青峰歌词；人文关怀；先锋精神；古典意象；价值
 
 ## Abstract
 
 Greeny is a famous lyric writer and musician in Taiwan, his lyrics express his reflection on the times and human nature, with profound humanistic care. In the expression, he combines Chinese traditional techniques with western modernism In content, he is good at integrating Chinese and western classical images and allusions, and the lyrics are compatible with classical wisdom and pioneer spirit. This paper is intended to analyze the literary value and social value of his lyrics to discuss the value and significance of his lyrics to contemporary Chinese music.
 
-Keywords: Greeny's lyrics; Humane care; Pioneer spirit; Classic image; Value
+**Keywords:** Greeny's lyrics; Humane care; Pioneer spirit; Classic image; Value
 
 ## 绪论
 
@@ -80,7 +80,7 @@ Keywords: Greeny's lyrics; Humane care; Pioneer spirit; Classic image; Value
 
 **独特的时间观。** 如 “我们被困在/格林威治的规则里”、“放开时间空间而存在”、“就算只有片刻我也不害怕/是片刻组成永恒啊”、歌名“相对论IV”等，青峰不照着人类的规则走，有自己的一套时间。这种独特的时间观也是其豁达超脱人生观的写照，如此才可以做到不为了烦恼事而烦恼，伤心事而伤心，真正自由。[^13]
 
-**豁达的生命观。** 吴青峰从未停止关于“存在”这个基本命题的探索与思考，除了《各站停靠》中的“蝶梦庄生”，还有“他入睡时/缩成种子/埋葬斋戒/忘川宇宙”关于人的意识与需求的探讨。作家刘慈欣说过最小即最大，“所有的雨/即一滴雨”即在表达这种无尽的循环概念。“天地/不慢不快/不好不坏/专心而澎湃”传达出顺应自然的生命观与对死亡的豁达，类似顾城的“人时已尽/人世很长”[^14]
+**豁达的生命观。** 吴青峰从未停止关于“存在”这个基本命题的探索与思考，除了《各站停靠》中的“蝶梦庄生”，还有“他入睡时/缩成种子/埋葬斋戒/忘川宇宙”关于人的意识与需求的探讨。作家刘慈欣说过最小即最大，“所有的雨/即一滴雨”即在表达这种无尽的循环概念。“天地/不慢不快/不好不坏/专心而澎湃”传达出顺应自然的生命观与对死亡的豁达，类似顾城的“人时已尽/人世很长”。[^14]
 
 **辩证智慧。** 青峰认为真正的出世是不怕入世，高级的雅是不避俗，歌词也常渗透辩证智慧如“骄傲的自卑作祟”、“沉淀出所有残缺的不可或缺”、“不完美的完美”、“必须悲哀快乐所带来的更悲哀”、“只有死亡不会死亡”、“有过悲伤才甘心快乐”、“降落练习同时，也属於上升的飞行”……可能一部分灵感来源于夏宇诗如“拥有足够经验还不够还必须没有经验”、“给时间以时间”等。
 
@@ -183,11 +183,11 @@ Keywords: Greeny's lyrics; Humane care; Pioneer spirit; Classic image; Value
 
 （8）苏打绿.苏打志vol.01[J].台湾：林暐哲音乐社,2005
 
-（9）李延刚.论林夕歌词中的时间意识[J].现代中国文化与文 学诗词研究（2012年01期）.
+（9）李延刚.论林夕歌词中的时间意识[J].现代中国文化与文学诗词研究（2012年01期）.
 
 （10）梁艳.方文山“中国风”歌词的语言风格研究[J].湖北： 华中师范大学研究所，2012.
 
-（11）王姝一.古诗词传统的承传与现代转化——浅析方文山歌 词的开拓价值[J].乐山师范学院学报文学研究2010（01）机构：西南大学文学院.
+（11）王姝一.古诗词传统的承传与现代转化——浅析方文山歌词的开拓价值[J].乐山师范学院学报文学研究2010（01）机构：西南大学文学院.
 
 （12）张丽娜.流行与经典的碰撞——析方文山歌词创作的古诗情结[J].安阳师范学院学报 历史•文学•语言 2011（01）机构：西南大学新诗研究所.
 
@@ -210,6 +210,10 @@ Keywords: Greeny's lyrics; Humane care; Pioneer spirit; Classic image; Value
 在此，特别感谢彭卫红老师对我的毕业论文进行多次指导修改，谢谢大学四年中给过我知识和启发的老师们：孙华娟、谢荣娥、胡江波、涂波等，谢谢我的室友和朋友们——刘苗、刘庆、陈格格、郭阳、张海容、曾荣等，感谢中南民族大学。
 
 最后，谢谢我的偶像吴青峰和他的歌声给我的力量。
+
+## 参考资料
+
+- [论吴青峰歌词意象的构建策略](https://www.douban.com/note/621568248/)
 
 ## 注释
 

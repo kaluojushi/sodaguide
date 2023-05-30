@@ -7,7 +7,7 @@ title: 歌迷
 
 **「打粉」** 是苏打绿歌迷的自称，据传是「苏打粉」（也是一种化学品）的简称。
 
-![生活处处有打粉](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dafen.jpg =300x400)
+![生活处处有打粉](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dafen.jpg =300x)
 
 ## 打粉老师 / dfls
 
@@ -17,7 +17,7 @@ title: 歌迷
 
 其实是因为苏打绿的粉丝遍布各行各业，大家都很厉害，所以才会有这个称号～
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dfls.jpg =300x300)
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dfls.jpg =300x)
 
 ## 浮萍 / 池堂
 
@@ -35,7 +35,7 @@ title: 歌迷
 
 > 我是一个没有感情的吹峰机！！！
 
-同年春节期间，王源晒出包含最近歌单，包含青峰在《歌手》节目中唱的〈我们〉，青峰本人评论表示开心。然后王源用了「吹峰机」这个梗，青峰表示不可思议。
+同年春节期间，王源晒出了最近的歌单，包含青峰在《歌手》节目中唱的〈我们〉，青峰本人评论表示开心。然后王源用了「吹峰机」这个梗，青峰表示不可思议。
 
 ![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/chuifengji.jpg)
 
