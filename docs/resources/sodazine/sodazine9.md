@@ -3,13 +3,9 @@ icon: snow
 title: 苏打志 9
 ---
 
-::: note Sorry!
+<PDF url="/pdf/sodazine9.pdf" />
 
-很遗憾，苏打志 9 还没有资源。
-
-如果你有苏打志 9 的资源，欢迎告诉我们！
-
-:::
+如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](/pdf/sodazine9.pdf) 查看或下载。
 
 ## 简介
 

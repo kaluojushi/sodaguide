@@ -54,6 +54,22 @@ export default {
       children: [],
     },
   ],
+  "/concerts/": [
+    "",
+    {
+      text: "演唱会指南",
+      icon: "guide",
+      prefix: "guide",
+      collapsible: true,
+      children: [
+        "",
+        "scalped-ticket",
+        "photo",
+        "song-interact",
+        "song-request",
+      ],
+    }
+  ],
   "/wiki/": [
     "",
     {
