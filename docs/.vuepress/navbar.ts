@@ -82,7 +82,12 @@ export default [
             text: 'Instagram',
             icon: 'instagram',
             link: 'https://www.instagram.com/sodagreen_aka_oaeen/',
-          }
+          },
+          {
+            text: 'YouTube',
+            icon: 'youtube',
+            link: 'https://www.youtube.com/@sodagreenofficial',
+          },
         ],
       },
       {

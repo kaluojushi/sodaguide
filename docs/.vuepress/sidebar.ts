@@ -54,6 +54,10 @@ export default {
       children: [],
     },
   ],
+  "/works/": [
+    "",
+    "english",
+  ],
   "/concerts/": [
     "",
     {
@@ -68,7 +72,16 @@ export default {
         "song-interact",
         "song-request",
       ],
-    }
+    },
+    {
+      text: "苏打绿／鱼丁糸演唱会列表",
+      icon: "band",
+      prefix: "sodagreen",
+      collapsible: true,
+      children: [
+        "",
+      ],
+    },
   ],
   "/wiki/": [
     "",

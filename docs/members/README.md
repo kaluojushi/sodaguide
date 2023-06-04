@@ -5,7 +5,7 @@ title: 成员
 
 ## 目录
 
-### <FontIcon icon="band" /> 绿团/鱼团成员
+### <FontIcon icon="band" /> 绿团／鱼团成员
 
 [<FontIcon icon="microphone" /> 吴青峰（青峰，日出）](/members/sodagreen/wuqingfeng)
 

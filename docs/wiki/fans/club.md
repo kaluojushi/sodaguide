@@ -3,7 +3,7 @@ icon: fans-club
 title: 后援会
 ---
 
-## 苏打绿游乐园 / 苏打绿_aka_鱼丁糸官方后援会
+## 苏打绿游乐园／苏打绿_aka_鱼丁糸官方后援会
 
 ![「苏打绿游乐园」 logo](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/youleyuan.jpg =200x200)
 

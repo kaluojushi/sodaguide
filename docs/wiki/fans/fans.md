@@ -3,13 +3,13 @@ icon: fans
 title: 歌迷
 ---
 
-## 打粉 / df
+## 打粉／df
 
 **「打粉」** 是苏打绿歌迷的自称，据传是「苏打粉」（也是一种化学品）的简称。
 
 ![生活处处有打粉](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dafen.jpg =300x)
 
-## 打粉老师 / dfls
+## 打粉老师／dfls
 
 据称是有一次吴青峰发了一条微博询问一个数学题，粉丝给出了解答。又因娱乐圈兴起了称呼对方为老师，以显示自己的尊重，因此粉丝群体们兴起了 **「打粉老师」**（简称 dfls）这个称号。
 
@@ -19,7 +19,7 @@ title: 歌迷
 
 ![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dfls.jpg =300x)
 
-## 浮萍 / 池堂
+## 浮萍／池堂
 
 **「浮萍」** 是鱼丁糸粉丝的官方名称。2020 年，苏打绿以「鱼丁糸」身份回归时，为歌迷们取好了新的代号为「浮萍」，而歌迷会叫作「池堂」。
 
