@@ -22,6 +22,6 @@
   "devDependencies": {
     "vuepress": "2.0.0-beta.62",
     "vuepress-plugin-search-pro": "^2.0.0-beta.211",
-    "vuepress-theme-hope": "^2.0.0-beta.211"
+    "vuepress-theme-hope": "^2.0.0-beta.222"
   }
 }

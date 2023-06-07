@@ -1,9 +1,14 @@
 ---
+containerClass: home
 home: true
 heroText: 苏打盖 Sodaguide
 tagline: 苏打绿 aka 鱼丁糸、吴青峰的观光导览地图🧭
 heroImage: /images/logo.jpg
 heroAlt: 苏打绿 aka 鱼丁糸、吴青峰的观光导览地图
+bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/4-light.svg
+bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/4-dark.svg
+bgImageStyle:
+  background-attachment: fixed
 actions:
   - text: 开始🎸
     link: /start/
@@ -12,32 +17,52 @@ actions:
     link: /wiki/
   - text: 苏打资源库📦
     link: /resources/
-features:
-  - title: 无忧无虑吴青峰
-    icon: microphone
-    link: /members/sodagreen/wuqingfeng
-    details: 请带着我一起飞
-  - title: 谢天谢地谢馨仪
-    icon: bass
-    link: /members/sodagreen/xiexinyi
-    details: 患难见真情
-  - title: 十全十美史俊威
-    icon: drum
-    link: /members/sodagreen/shijunwei
-    details: 我希望我是神灯精灵
-  - title: 何德何能何景扬
-    icon: guitar
-    link: /members/sodagreen/hejingyang
-    details: 永远扮你的角色<br>你想成为什么人就成什么人
-  - title: 流里流气刘家凯
-    icon: e-guitar
-    link: /members/sodagreen/liujiakai
-    details: 看着变宽广的海岸线<br>阳光再次轻抚我的脸
-  - title: 公事公办龚钰祺
-    icon: keyboard
-    link: /members/sodagreen/gongyuqi
-    details: 工作与游乐都能忘却烦恼地哼着歌
+highlights:
+  - header: 认识苏打绿团员
+    description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-dark.svg
+    features:
+      - title: 无忧无虑吴青峰
+        icon: microphone
+        link: /members/sodagreen/wuqingfeng
+        details: 请带着我一起飞
+      - title: 谢天谢地谢馨仪
+        icon: bass
+        link: /members/sodagreen/xiexinyi
+        details: 患难见真情
+      - title: 十全十美史俊威
+        icon: drum
+        link: /members/sodagreen/shijunwei
+        details: 我希望我是神灯精灵
+      - title: 何德何能何景扬
+        icon: guitar
+        link: /members/sodagreen/hejingyang
+        details: 永远扮你的角色<br>你想成为什么人就成什么人
+      - title: 流里流气刘家凯
+        icon: e-guitar
+        link: /members/sodagreen/liujiakai
+        details: 看着变宽广的海岸线<br>阳光再次轻抚我的脸
+      - title: 公事公办龚钰祺
+        icon: keyboard
+        link: /members/sodagreen/gongyuqi
+        details: 工作与游乐都能忘却烦恼地哼着歌
+  - header: 认识吴青峰
+    description: 从这里开始了解 <a href="/start/wuqingfeng/"><b>吴青峰</b></a>
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/6-light.svg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/6-dark.svg
+    features:
+      - title: 吴青峰
+        icon: microphone
+        link: /start/wuqingfeng
+        details: 或许我们会再相遇，<br>当你鼓起勇气飞行。
+      - title: 峰峰战队
+        icon: team
+        link: /members/feng-team
+        details: 太空伙伴
 ---
+
+<div style="margin: 20px 0"></div>
 
 ## 苏打盖 Sodaguide 是什么？
 
