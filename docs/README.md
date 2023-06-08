@@ -1,6 +1,8 @@
 ---
 containerClass: home
 home: true
+title: 首页
+icon: home
 heroText: 苏打盖 Sodaguide
 tagline: 苏打绿 aka 鱼丁糸、吴青峰的观光导览地图🧭
 heroImage: /images/logo.jpg

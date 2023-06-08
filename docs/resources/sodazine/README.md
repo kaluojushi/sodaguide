@@ -17,7 +17,7 @@ title: 苏打志 Sodazine
 
 快速阅读：
 
-[<FontIcon icon="soda-drink" /> 苏打志 1](/resources/sodazine/sodazine1)；[<FontIcon icon="universe" /> 苏打志 2](/resources/sodazine/sodazine2)；[<FontIcon icon="butterfly" /> 苏打志 3](/resources/sodazine/sodazine3)；[<FontIcon icon="sleep" /> 苏打志 4](/resources/sodazine/sodazine4)；[<FontIcon icon="sapling" /> 苏打志 5](/resources/sodazine/sodazine5)；[<FontIcon icon="icecream" /> 苏打志 6](/resources/sodazine/sodazine6)；[<FontIcon icon="mask" /> 苏打志 7](/resources/sodazine/sodazine7)；[<FontIcon icon="sad" /> 苏打盖观光导览地图](/resources/sodazine/sodazine7)；[<FontIcon icon="leaf" /> 苏打志 8](/resources/sodazine/sodazine8)；[<FontIcon icon="snow" /> 苏打志 9](/resources/sodazine/sodazine9)
+[<FontIcon icon="soda-drink" /> 苏打志 1](sodazine1)；[<FontIcon icon="universe" /> 苏打志 2](sodazine2)；[<FontIcon icon="butterfly" /> 苏打志 3](sodazine3)；[<FontIcon icon="sleep" /> 苏打志 4](sodazine4)；[<FontIcon icon="sapling" /> 苏打志 5](sodazine5)；[<FontIcon icon="icecream" /> 苏打志 6](sodazine6)；[<FontIcon icon="mask" /> 苏打志 7](sodazine7)；[<FontIcon icon="sad" /> 苏打盖观光导览地图](sodaguide)；[<FontIcon icon="leaf" /> 苏打志 8](sodazine8)；[<FontIcon icon="snow" /> 苏打志 9](sodazine9)
 
 ## <FontIcon icon="soda-drink" /> 苏打志 1
 
@@ -25,7 +25,7 @@ title: 苏打志 Sodazine
 
 苏打志 1 于 2005 年 9 月 3 日随苏打绿第 1 张专辑《苏打绿》（同名专辑）预购发行。
 
-点击 [这里](/resources/sodazine/sodazine1) 阅读苏打志 1。
+点击 [这里](sodazine1) 阅读苏打志 1。
 
 ## <FontIcon icon="universe" /> 苏打志 2
 
@@ -35,7 +35,7 @@ title: 苏打志 Sodazine
 
 由于该书内容刊载有误，因此以索取方式送出。
 
-点击 [这里](/resources/sodazine/sodazine2) 阅读苏打志 2。
+点击 [这里](sodazine2) 阅读苏打志 2。
 
 ## <FontIcon icon="butterfly" /> 苏打志 3
 
@@ -45,7 +45,7 @@ title: 苏打志 Sodazine
 
 随书附赠《无与伦比的美丽 absolutely beautiful version》单曲一张。
 
-点击 [这里](/resources/sodazine/sodazine3) 阅读苏打志 3。
+点击 [这里](sodazine3) 阅读苏打志 3。
 
 ## <FontIcon icon="sleep" /> 苏打志 4
 
@@ -61,7 +61,7 @@ title: 苏打志 Sodazine
 
 :::
 
-点击 [这里](/resources/sodazine/sodazine4) 阅读苏打志 4。
+点击 [这里](sodazine4) 阅读苏打志 4。
 
 ## <FontIcon icon="sapling" /> 苏打志 5
 
@@ -69,7 +69,7 @@ title: 苏打志 Sodazine
 
 苏打志 5 于 2009 年 5 月 8 日随苏打绿第 5 张专辑《春·日光》预购发行。
 
-点击 [这里](/resources/sodazine/sodazine5) 阅读苏打志 5。
+点击 [这里](sodazine5) 阅读苏打志 5。
 
 ## <FontIcon icon="icecream" /> 苏打志 6
 
@@ -77,7 +77,7 @@ title: 苏打志 Sodazine
 
 苏打志 6 于 2009 年 9 月 11 日随苏打绿第 6 张专辑《夏／狂热》预购发行。
 
-点击 [这里](/resources/sodazine/sodazine6) 阅读苏打志 6。
+点击 [这里](sodazine6) 阅读苏打志 6。
 
 ## <FontIcon icon="mask" /> 苏打志 7
 
@@ -85,7 +85,7 @@ title: 苏打志 Sodazine
 
 苏打志 7 于 2010 年 8 月 27 日随苏打绿第 7 张专辑《十年一刻》预购发行。
 
-点击 [这里](/resources/sodazine/sodazine7) 阅读苏打志 7。
+点击 [这里](sodazine7) 阅读苏打志 7。
 
 ## <FontIcon icon="sad" /> 苏打盖观光导览地图
 
@@ -95,7 +95,7 @@ title: 苏打志 Sodazine
 
 该书被定义为苏打志的番外特刊，内附一张专辑导听 CD（粉丝一般称之为「导听 CD 超好笑电台」或「【好美丽频道】无烦恼节目」）。
 
-点击 [这里](/resources/sodazine/sodaguide) 阅读苏打盖观光导览地图。
+点击 [这里](sodaguide) 阅读苏打盖观光导览地图。
 
 ## <FontIcon icon="leaf" /> 苏打志 8
 
@@ -103,7 +103,7 @@ title: 苏打志 Sodazine
 
 苏打志 8 于 2013 年 9 月 18 日随苏打绿第 9 张专辑《秋：故事》预购发行。
 
-点击 [这里](/resources/sodazine/sodazine8) 阅读苏打志 8。
+点击 [这里](sodazine8) 阅读苏打志 8。
 
 ## <FontIcon icon="snow" /> 苏打志 9
 
@@ -111,4 +111,4 @@ title: 苏打志 Sodazine
 
 苏打志 9 于 2015 年 11 月 4 日随苏打绿第 10 张专辑《冬　未了》预购发行。
 
-点击 [这里](/resources/sodazine/sodazine9) 阅读苏打志 9。
+点击 [这里](sodazine9) 阅读苏打志 9。

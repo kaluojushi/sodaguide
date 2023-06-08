@@ -24,5 +24,5 @@ title: 开始认识他们
 
 请让我在你身边，一起纪念每一天。
 
-- [苏打绿 aka 鱼丁糸](/start/sodagreen/)
-- [吴青峰](/start/wuqingfeng/)
+- [苏打绿 aka 鱼丁糸](sodagreen/)
+- [吴青峰](wuqingfeng/)

@@ -11,6 +11,6 @@ title: 故事与文字
 
 来吧！
 
-[<FontIcon icon="notes" /> 演唱会纸条](/resources/story-and-text/concert-notes)
+[<FontIcon icon="notes" /> 演唱会纸条](concert-notes)
 
-[<FontIcon icon="lyric" /> 论吴青峰歌词意象的构建策略](/resources/story-and-text/lyric-imagery)
+[<FontIcon icon="lyric" /> 论吴青峰歌词意象的构建策略](lyric-imagery)
