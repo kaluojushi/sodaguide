@@ -20,6 +20,21 @@ actions:
   - text: 苏打资源库📦
     link: /resources/
 highlights:
+  - header: 2023 毕业歌《我们都拥有海洋》｜bilibili×吴青峰
+    description: bilibili 联合吴青峰发布哔哩哔哩 2023 毕业歌《我们都拥有海洋》，献给即将或已经毕业的人们，让我们一起告别标准答案，去做我喜欢的自己！
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/biye.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/biye.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 在哔哩哔哩打开
+        icon: bilibili
+        link: https://www.bilibili.com/video/BV1BN411C73S/
+      - title: 在 QQ 音乐打开
+        icon: qq-music
+        link: https://y.qq.com/n/ryqq/albumDetail/0017bJsO4WFcVw
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
@@ -61,7 +76,7 @@ highlights:
       - title: 峰峰战队
         icon: team
         link: /members/feng-team
-        details: 太空伙伴
+        details: 青峰的太空伙伴
 ---
 
 <div style="margin: 20px 0"></div>
