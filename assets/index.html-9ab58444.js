@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as c}from"./app-46d6f74d.js";const n={},s=c("p",null,"这里介绍的是苏打绿／鱼丁糸的售票演唱会，不包含跨年表演、签唱会、Livehouse 等。",-1),_=[s];function r(a,i){return o(),t("div",null,_)}const f=e(n,[["render",r],["__file","index.html.vue"]]);export{f as default};
