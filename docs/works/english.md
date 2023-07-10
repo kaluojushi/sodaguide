@@ -739,33 +739,33 @@ title: 歌名的英文
 
 ## 《册叶一：一与一》 Leaflet One: One and One
 
-〈费洛蒙小姐〉 Miss Pheromone
+〈费洛蒙小姐〉 Ms. Pheromone
 
 〈我会我会〉 I will I will
 
 〈沙滩上的佛洛一德〉 Floyd on the Beach
 
-〈最难的是相遇〉 The Hardest Thing is to Meet
+〈最难的是相遇〉 The Hardest Thing of All is Meeting You
 
-〈阿兹海默〉 Alzheimer
+〈阿兹海默〉 Alzheimer's
 
-〈穿墙人〉 The Wall Passer
+〈穿墙人〉 The Man Who Could Walk Through Walls
 
-〈柔软〉 Soft
+〈柔软〉 Softly Softly
 
-〈低低星垂〉 Low Star Drop
+〈低低星垂〉 The Stars Hang Low
 
-〈宁静海〉 Tranquil Sea
+〈宁静海〉 Sea of Tranquillity
 
-〈等〉 Wait
+〈等〉 Waiting
 
-〈年轮说〉 The Story of Tree Rings
+〈年轮说〉 Murmur of the Tree Rings
 
-〈困在〉 Trapped
+〈困在〉 Imprisoned
 
-〈一点点〉 A Little Bit
+〈一点点〉 Bit by bit
 
-〈迷幻〉 Psychedelic
+〈迷幻〉 Hallucination
 
 〈月亮河〉 Moon River
 
@@ -773,7 +773,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译除〈沙滩上的佛洛一德〉外，由 [维基百科](https://zh.wikipedia.org/wiki/%E5%86%8A%E8%91%89%E4%B8%80%EF%BC%9A%E4%B8%80%E8%88%87%E4%B8%80) 给出。根据歌曲信息，部分歌词翻译由 Steve Bradbury、Hazel Chang 完成。
 
 :::
 
@@ -793,7 +793,7 @@ title: 歌名的英文
 
 :::
 
-## 《池堂怪谈》 Strange Poll
+## 《池堂怪谈》 Strange Pool
 
 〈起点终点〉 Once Upon a Pool……
 
@@ -841,40 +841,37 @@ title: 歌名的英文
 
 :::
 
-## 《马拉美的星期二》 Tuesday of Mallarme
+## 《马拉美的星期二》 Mallarme's Tuesdays
 
-〈（……小小牧羊人）〉 (……Little Shepherd)
+〈（……小小牧羊人）〉 (……The Little Shepherd)
 
 〈（……海妖沙龙）〉 (……Siren Salon)
 
-〈（……催眠大师）〉 (……Hypnotist)
+〈（……催眠大师）〉 (……The Great Hypnotist)
 
-〈（……恋人絮语）〉 (……Lover Whisper)
+〈（……恋人絮语）〉 (……Fragments d'un Discours Amoureux)
 
 〈（……千与千寻）〉 (……Spirited Away)
 
-〈（……老顽固博士）〉 (……Doctor Gradus ad Parnassum)
+〈（……老顽固博士）〉 (……Doctor Headstrong)
 
-〈（……当幽灵失灵）〉 (……When Ghosts Malfunction)
+〈（……当幽灵失灵）〉 (……When the Ghost Got Lost)
 
-〈（……醉鬼阿Q）〉 (……Drunkard A Q)
+〈（……醉鬼阿Q）〉 (……Drunkard Ah Q)
 
-〈（……棕发少女）〉 (……The Girl with Linen Hair)
+〈（……棕发少女）〉 (……Brown Haired Girl)
 
-〈（……侏儒之舞）〉 (……Dwarf Dance)
+〈（……侏儒之舞）〉 (……Dance of the Gnomes)
 
-〈（……小王子）〉 (……The Little Prince)
+〈（……小王子）〉 (……Le Petit Prince)
 
 〈（……睡美人）〉 (……Sleeping Beauty)
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译由 [维基百科](https://zh.wikipedia.org/wiki/%E9%A6%AC%E6%8B%89%E7%BE%8E%E7%9A%84%E6%98%9F%E6%9C%9F%E4%BA%8C) 给出。
 
-我们可以从德彪西的相关作品找到一些线索：
-
-- 〈（……老顽固博士）〉取自德彪西的钢琴曲《博士练习曲》（Doctor Gradus ad Parnassum）。
-- 〈（……棕发少女）〉取自德彪西的钢琴曲《亚麻色头发的少女》（La fille aux cheveux de lin），翻译为英文为 The Girl with Linen Hair。
+〈（……恋人絮语）〉和〈（……小王子）〉官方使用的是法语翻译，因为它们取材于法国作家罗兰·巴特的《恋人絮语》和安托万·德·圣-埃克苏佩里的《小王子》。此处保留法语翻译。
 
 :::
 
@@ -883,3 +880,5 @@ title: 歌名的英文
 - [如果把苏打绿的歌翻译成英文……_苏打绿吧_百度贴吧](https://tieba.baidu.com/p/786871111)
 - [Sodagreen (蘇打綠)](https://www.onedayinmay.net/Other/Sodagreen/index.html)
 - [sodagreen_aka_oaeen - YouTube](https://www.youtube.com/@sodagreenofficial)
+
+**特别感谢 @孤独的太空人 提供的翻译修改意见！**

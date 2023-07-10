@@ -107,7 +107,12 @@ export default [
             text: 'Instagram',
             icon: 'instagram',
             link: 'https://www.instagram.com/imqingfeng/',
-          }
+          },
+          {
+            text: 'YouTube',
+            icon: 'youtube',
+            link: 'https://www.youtube.com/@WuQingFeng',
+          },
         ],
       },
     ],
