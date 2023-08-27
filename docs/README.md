@@ -20,21 +20,18 @@ actions:
   - text: 苏打资源库📦
     link: /resources/
 highlights:
-  - header: 2023 毕业歌《我们都拥有海洋》｜bilibili×吴青峰
-    description: bilibili 联合吴青峰发布哔哩哔哩 2023 毕业歌《我们都拥有海洋》，献给即将或已经毕业的人们，让我们一起告别标准答案，去做我喜欢的自己！
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/biye.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/biye.jpg
+  - header: 第一届浪潮音乐大赏
+    description: 吴青峰凭借《马拉美的星期二》获得最佳男歌手奖！鱼丁糸凭借《小宇宙（鱼版）》《鱼丁糸不同名专辑》获得最佳团体／组合奖！
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/langchao2023.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/langchao2023.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 在哔哩哔哩打开
+      - title: 颁奖典礼
         icon: bilibili
-        link: https://www.bilibili.com/video/BV1BN411C73S/
-      - title: 在 QQ 音乐打开
-        icon: qq-music
-        link: https://y.qq.com/n/ryqq/albumDetail/0017bJsO4WFcVw
+        link: https://www.bilibili.com/video/BV1w8411X74c/
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
