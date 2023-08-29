@@ -20,6 +20,26 @@ actions:
   - text: 苏打资源库📦
     link: /resources/
 highlights:
+  - header: 【近期演出消息】
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 【2023-09-16】上海春浪音乐节 - 吴青峰
+        icon: microphone
+        details: <b>直接点击卡片进入大麦购票页面</b><br><b>类型：</b>音乐节<br><b>时间：</b>2023 年 9 月 16 日<br><b>地点：</b><a href="https://surl.amap.com/fVPzv11agMz" target="_blank"><b>上海国际音乐村</b></a><br><b>演出信息：</b>19:50-20:35 晴空舞台<br><b>开票时间：</b>已开票<br><b>票价：</b>498-698，强实名条件退<br><b>购票平台：</b><a href="https://detail.damai.cn/item.htm?id=734829605237" target="_blank"><b>大麦</b></a><br><b>相关消息：</b><a href="https://mp.weixin.qq.com/s/2JxaeokfY0KsilRiN-kBVg" target="_blank"><b>官宣</b></a>、<a href="https://mp.weixin.qq.com/s/qelHJamP7Z6dbPDUZcgLvg" target="_blank"><b>开票</b></a>
+        link: https://detail.damai.cn/item.htm?id=734829605237
+      - title: 【2023-10-02】镇江泡泡岛音乐与艺术节 - 鱼丁糸
+        icon: band
+        details: <b>直接点击卡片进入大麦购票页面</b><br><b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 2 日<br><b>地点：</b><a href="https://surl.amap.com/hXU2ngv1m7dw" target="_blank"><b>镇江新区心湖公园广场</b></a><br><b>演出信息：</b>未公布<br><b>开票时间：</b>已开票<br><b>票价：</b>360-880，弱实名不退<br><b>购票平台：</b><a href="https://detail.damai.cn/item.htm?id=734211393774" target="_blank"><b>大麦</b></a>、<a href="https://wap.showstart.com/pages/activity/detail/detail?ssfrom=user-11482324&activityId=206167" target="_blank"><b>秀动</b></a>、<a href="https://www.gewara.com/detail/275388" target="_blank"><b>猫眼</b></a>、<a href="https://m.piaoxingqiu.com/content/64dd97b1d7fdb20001d55b69" target="_blank"><b>票星球</b></a><br><b>相关消息：</b><a href="https://mp.weixin.qq.com/s/PAs6GwmcsIFau_jHHRGhsA" target="_blank"><b>官宣</b></a>、<a href="https://mp.weixin.qq.com/s/wfNvYfbfqJbOdR4TxnNAKA" target="_blank"><b>开票</b></a>、<a href="https://mp.weixin.qq.com/s/EGaQzunVGZ9Ei3i3bo3esQ" target="_blank"><b>交通 Q&A</b></a>
+        link: https://detail.damai.cn/item.htm?id=734211393774
+      - title: 【2023-10-04】常州太湖湾音乐节 - 吴青峰
+        icon: microphone
+        details: <b>直接点击卡片进入大麦购票页面</b><br><b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 4 日<br><b>地点：</b><a href="https://surl.amap.com/eMMKug1nemu" target="_blank"><b>常州嬉戏谷</b></a><br><b>演出信息：</b>未公布<br><b>开票时间：</b>已开票<br><b>票价：</b>399-799，电子票条件退<br><b>购票平台：</b><a href="https://detail.damai.cn/item.htm?id=727393226154" target="_blank"><b>大麦</b></a>、<a href="https://wap.showstart.com/pages/activity/detail/detail?activityId=202197" target="_blank"><b>秀动</b></a>、<a href="https://www.gewara.com/detail/267549" target="_blank"><b>猫眼</b></a>、<a href="http://s.xingyeshow.com/weixin/qlhzmr/products/47?share_code=16887009526147&type=scan&code=0618btFa1VOPVF0EnoFa1o2ZYV08btFk&state=1" target="_blank"><b>星野</b></a><br><b>相关消息：</b><a href="https://mp.weixin.qq.com/s/PGskakP2hLqq7qm4Jn5sGA" target="_blank"><b>官宣</b></a>、<a href="https://mp.weixin.qq.com/s/9tj5VG7sOP2xqkFtjZceIw"><b>开票</b></a>
+        link: https://detail.damai.cn/item.htm?id=727393226154
   - header: 第一届浪潮音乐大赏
     description: 吴青峰凭借《马拉美的星期二》获得最佳男歌手奖！鱼丁糸凭借《小宇宙（鱼版）》《鱼丁糸不同名专辑》获得最佳团体／组合奖！
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/langchao2023.jpg
