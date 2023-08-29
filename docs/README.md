@@ -20,6 +20,23 @@ actions:
   - text: 苏打资源库📦
     link: /resources/
 highlights:
+  - header: 太空人 4 周年生日快乐！
+    description: 或许我们会再相遇，当你鼓起勇气飞行。
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/taikongren.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/taikongren.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 太空人的诞生
+        link: https://weibo.com/1822796164/I4wkBhwA8
+      - title: 太空人的歌词
+        link: https://weibo.com/1822796164/I4DcND65o
+      - title: 太空人的专辑
+        link: https://weibo.com/1822796164/I5Ak4DIpn
+      - title: 太空人的故事
+        link: https://weibo.com/1822796164/I6J1OqvTa
   - header: 【近期演出消息】
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
