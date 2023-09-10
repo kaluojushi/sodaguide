@@ -121,7 +121,7 @@ highlights:
         details: 青峰的太空伙伴
 ---
 
-<div style="margin: 20px 0"></div>
+---
 
 ## 苏打盖 Sodaguide 是什么？
 
