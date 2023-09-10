@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/kaluojushi/sodaguide#readme",
   "devDependencies": {
+    "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.67",
-    "vuepress-plugin-search-pro": "^2.0.0-beta.211",
-    "vuepress-theme-hope": "^2.0.0-beta.222"
+    "@vuepress/client": "2.0.0-beta.67",
+    "vuepress-plugin-search-pro": "^2.0.0-beta.237",
+    "vuepress-theme-hope": "^2.0.0-beta.237"
   }
 }

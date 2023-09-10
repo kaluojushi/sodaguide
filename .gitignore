@@ -1,6 +1,7 @@
 # 关于本站 project
 dist
 package-lock.json
+pnpm-lock.yaml
 
 # Editor directories and files
 .vscode
