@@ -20,29 +20,8 @@ actions:
   - text: 苏打资源库📦
     link: /resources/
 highlights:
-  - header: 太空人 4 周年生日快乐！
-    description: 或许我们会再相遇，当你鼓起勇气飞行。
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/taikongren.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/taikongren.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 太空人的诞生
-        icon: birthday-cake
-        link: https://weibo.com/1822796164/I4wkBhwA8
-      - title: 太空人的歌词
-        icon: lyric
-        link: https://weibo.com/1822796164/I4DcND65o
-      - title: 太空人的专辑
-        icon: album
-        link: https://weibo.com/1822796164/I5Ak4DIpn
-      - title: 太空人的故事
-        icon: story
-        link: https://weibo.com/1822796164/I6J1OqvTa
   - header: 【近期演出消息】
-    description: 直接点击卡片进入大麦购票页面
+    description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
     bgImageStyle:
@@ -50,34 +29,26 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2023-09-16】上海春浪音乐节 - 吴青峰
+      - title: 【2023-09-29】湖南卫视中秋之夜 - 鱼丁糸
         icon: square-one
-        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 9 月 16 日<br><b>地点：</b>上海国际音乐村<br><b>演出信息：</b>19:50-20:35 晴空舞台<br><b>开票时间：</b>已二次开票<br><b>票价：</b>498-698，强实名条件退<br><b>购票平台：</b>大麦
-        link: https://detail.damai.cn/item.htm?id=734829605237
+        details: <b>类型：</b>电视演出<br><b>时间：</b>2023 年 9 月 29 日<br><b>演出信息：</b>19:30 湖南卫视、芒果 TV 直播
+        link: /news/perform#【2023-09-29】湖南卫视中秋之夜-鱼丁糸
       - title: 【2023-09-30】北京宇宙岛音乐节 - 吴青峰
         icon: square-two
-        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 9 月 30 日<br><b>地点：</b>北京世园公园飞行营地<br><b>演出信息：</b>19:20-20:10<br><b>开票时间：</b>9 月 12 日 12:55 优先购，13:00 正式开售<br><b>票价：</b>328-649，电子票不退<br><b>购票平台：</b>大麦、秀动、猫眼、票星球
-        link: https://detail.damai.cn/item.htm?id=737474673632
-      - title: 【2023-10-02】镇江泡泡岛音乐与艺术节 - 鱼丁糸
+        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 9 月 30 日<br><b>地点：</b>北京世园公园飞行营地<br><b>演出信息：</b>19:20-20:10<br><b>开票时间：</b>已开票<br><b>票价：</b>328-649，电子票不退（可转赠）<br><b>购票平台：</b>大麦、秀动、猫眼、票星球
+        link: /news/perform#【2023-09-30】北京宇宙岛音乐节-吴青峰
+      - title: 【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸
         icon: square-three
         details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 2 日<br><b>地点：</b>镇江新区心湖公园广场<br><b>演出信息：</b>21:00-21:50 BUBBLING STAGE<br><b>开票时间：</b>已开票<br><b>票价：</b>360-880，弱实名不退<br><b>购票平台：</b>大麦、秀动、猫眼、票星球
-        link: https://detail.damai.cn/item.htm?id=734211393774
+        link: /news/perform#【2023-10-02】镇江长江·泡泡岛音乐与艺术节-鱼丁糸
       - title: 【2023-10-04】常州太湖湾音乐节 - 吴青峰
         icon: square-four
-        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 4 日<br><b>地点：</b>常州嬉戏谷<br><b>演出信息：</b>未公布<br><b>开票时间：</b>已开票<br><b>票价：</b>399-799，电子票条件退<br><b>购票平台：</b>大麦、秀动、猫眼、星野
-        link: https://detail.damai.cn/item.htm?id=727393226154
-  - header: 第一届浪潮音乐大赏
-    description: 吴青峰凭借《马拉美的星期二》获得最佳男歌手奖！鱼丁糸凭借《小宇宙（鱼版）》《鱼丁糸不同名专辑》获得最佳团体／组合奖！
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/langchao2023.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/langchao2023.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 颁奖典礼
-        icon: bilibili
-        link: https://www.bilibili.com/video/BV1w8411X74c/
+        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 4 日<br><b>地点：</b>常州嬉戏谷<br><b>演出信息：</b>19:55-20:35<br><b>开票时间：</b>已开票<br><b>票价：</b>399-799，电子票条件退（可转赠）<br><b>购票平台：</b>大麦、秀动、猫眼、星野
+        link: /news/perform#【2023-10-04】常州太湖湾音乐节-吴青峰
+      - title: 【2023-10-15】我们在此相遇演唱会 - 吴青峰
+        icon: square-five
+        details: <b>类型：</b>拼盘演唱会<br><b>时间：</b>2023 年 10 月 15 日<br><b>地点：</b>河南省体育场馆中心<br><b>演出信息：</b>20:00-22:00（8 人总时间）<br><b>开票时间：</b>已开票<br><b>票价：</b>288-1288，电子票不退（有团票）<br><b>购票平台：</b>大麦、猫眼、演出FAN
+        link: /news/perform#【2023-10-15】我们在此相遇演唱会-吴青峰
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg

@@ -141,5 +141,9 @@ export default {
         "lyric-imagery",
       ],
     },
-  ]
+  ],
+  "/news/": [
+    "",
+    "perform",
+  ],
 };

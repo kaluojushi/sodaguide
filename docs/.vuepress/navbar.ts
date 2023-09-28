@@ -57,6 +57,17 @@ export default [
     ],
   },
   {
+    text: '资讯',
+    icon: 'news',
+    children: [
+      {
+        text: '演出',
+        icon: 'perform',
+        link: '/news/perform/',
+      }
+    ]
+  },
+  {
     text: '社交网站',
     icon: 'social',
     children: [
