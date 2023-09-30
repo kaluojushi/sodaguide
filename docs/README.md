@@ -29,26 +29,22 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2023-09-29】湖南卫视中秋之夜 - 鱼丁糸
-        icon: square-one
-        details: <b>类型：</b>电视演出<br><b>时间：</b>2023 年 9 月 29 日<br><b>演出信息：</b>19:30 湖南卫视、芒果 TV 直播
-        link: /news/perform#【2023-09-29】湖南卫视中秋之夜-鱼丁糸
-      - title: 【2023-09-30】北京宇宙岛音乐节 - 吴青峰
-        icon: square-two
-        details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 9 月 30 日<br><b>地点：</b>北京世园公园飞行营地<br><b>演出信息：</b>19:20-20:10<br><b>开票时间：</b>已开票<br><b>票价：</b>328-649，电子票不退（可转赠）<br><b>购票平台：</b>大麦、秀动、猫眼、票星球
-        link: /news/perform#【2023-09-30】北京宇宙岛音乐节-吴青峰
       - title: 【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸
-        icon: square-three
+        icon: square-one
         details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 2 日<br><b>地点：</b>镇江新区心湖公园广场<br><b>演出信息：</b>21:00-21:50 BUBBLING STAGE<br><b>开票时间：</b>已开票<br><b>票价：</b>360-880，弱实名不退<br><b>购票平台：</b>大麦、秀动、猫眼、票星球
         link: /news/perform#【2023-10-02】镇江长江·泡泡岛音乐与艺术节-鱼丁糸
       - title: 【2023-10-04】常州太湖湾音乐节 - 吴青峰
-        icon: square-four
+        icon: square-two
         details: <b>类型：</b>音乐节<br><b>时间：</b>2023 年 10 月 4 日<br><b>地点：</b>常州嬉戏谷<br><b>演出信息：</b>19:55-20:35<br><b>开票时间：</b>已开票<br><b>票价：</b>399-799，电子票条件退（可转赠）<br><b>购票平台：</b>大麦、秀动、猫眼、星野
         link: /news/perform#【2023-10-04】常州太湖湾音乐节-吴青峰
       - title: 【2023-10-15】我们在此相遇演唱会 - 吴青峰
-        icon: square-five
+        icon: square-three
         details: <b>类型：</b>拼盘演唱会<br><b>时间：</b>2023 年 10 月 15 日<br><b>地点：</b>河南省体育场馆中心<br><b>演出信息：</b>20:00-22:00（8 人总时间）<br><b>开票时间：</b>已开票<br><b>票价：</b>288-1288，电子票不退（有团票）<br><b>购票平台：</b>大麦、猫眼、演出FAN
         link: /news/perform#【2023-10-15】我们在此相遇演唱会-吴青峰
+      - title: 【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸
+        icon: square-four
+        details: <b>类型：</b>演唱会（快闪演出）<br><b>时间：</b>2023 年 10 月 26 日、2023 年 10 月 30 日<br><b>地点：</b>The Wall（台北市文山区罗斯福路四段 200 号 B1）<br><b>演出信息：</b>10 月 26 日 20:00；10 月 30 日 20:00<br><b>开票时间：</b>10 月 7 日 12:00<br><b>票价：</b>NT$1600（合 ￥362.24）<br><b>购票平台：</b>KKTIX
+        link: /news/perform#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg

@@ -5,52 +5,20 @@ title: 演出
 
 这个页面列举了关于近期苏打绿、鱼丁糸、吴青峰演出的资讯，包括已官宣和未官宣的演出信息。
 
-当相关信息更新不及时时，你可以在团员们或是 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
-
-**此页面最后更新于：2023 年 9 月 29 日。** 如果我太长时间没有更新此页面，你可以在评论里催更。
+**此页面最后更新于：2023 年 10 月 1 日。** 如果我太长时间没有更新此页面，你可以在评论里催更，或是去团员们以及 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
 
 如果你是第一次看他们的演唱会，这份 [演唱会指南](/concerts/guide/) 将会帮助你更好地享受演唱会。
 
 近期演出消息：
 
 - 已官宣
-  - [【2023-09-29】湖南卫视中秋之夜 - 鱼丁糸](#【2023-09-29】湖南卫视中秋之夜-鱼丁糸)
-  - [【2023-09-30】北京宇宙岛音乐节 - 吴青峰](#【2023-09-30】北京宇宙岛音乐节-吴青峰)
   - [【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸](#【2023-10-02】镇江长江·泡泡岛音乐与艺术节-鱼丁糸)
   - [【2023-10-04】常州太湖湾音乐节 - 吴青峰](#【2023-10-04】常州太湖湾音乐节-吴青峰)
   - [【2023-10-15】我们在此相遇演唱会 - 吴青峰](#【2023-10-15】我们在此相遇演唱会-吴青峰)
+  - [【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸](#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸)
 - [未官宣](#未官宣)
   - 【2023-10-21】贵阳草莓音乐节 - *~~吴青峰~~*
   - 【2023-10-22】贵阳草莓音乐节 - *~~鱼丁糸~~*
-
-## 【2023-09-29】湖南卫视中秋之夜 - 鱼丁糸
-
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20230929-hntv-midautumn.jpg =500x)
-
-- **类型：** 电视演出
-- **时间：** 2023 年 9 月 29 日
-- **演出信息：** 19:30 湖南卫视、芒果 TV 直播
-- **相关消息：**
-  - 官宣：[全宇宙的觀眾朋友們，追著月光去見你，一起定格團圓。](https://weibo.com/1717748707/NkTViyAJo)
-
-## 【2023-09-30】北京宇宙岛音乐节 - 吴青峰
-
-戳 [**这里**](https://detail.damai.cn/item.htm?id=737474673632) 直达大麦购票页面！
-
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20230930-yzd.png =500x)
-
-- **类型：** 音乐节
-- **时间：** 2023 年 9 月 30 日
-- **地点：** [北京世园公园飞行营地](https://surl.amap.com/dEEZWc71n9H0)
-- **演出信息：** 19:20-20:10
-- **开票时间：** 已开票
-- **票价：** 328-649，电子票不退（可转赠）
-- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=737474673632)、[秀动](https://wap.showstart.com/pages/activity/detail/detail?activityId=207874)、[猫眼](https://www.gewara.com/detail/275388)、[票星球](https://m.piaoxingqiu.com/content/64f813e39f7b6000016e7131)
-- **相关消息：**
-  - 官宣：[9月12日开票 | 首届宇宙岛音乐节·全阵容官宣 邀你登岛](https://mp.weixin.qq.com/s/FmKTHDUJrqQW9oApiW2BZw)
-  - 开票：[今日开票｜ 首届航天音乐节·COSMIC ECHO宇宙岛音乐节](https://mp.weixin.qq.com/s/H69CDQDsxb-ddjivT7wvnA)
-  - 交通方案：[COSMIC ECHO宇宙岛音乐节｜交通方案&官方乐迷大巴](https://mp.weixin.qq.com/s/zaAAyR3JoIDCsDsyvo2eIQ)
-  - 总攻略：[宇宙岛最终招募｜现场总攻略](https://mp.weixin.qq.com/s/2rV5bG0tvTLTAo9uPjZoAg)
 
 ## 【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸
 
@@ -70,7 +38,13 @@ title: 演出
   - 开票：[今日开票｜长江·泡泡岛音乐与艺术节 江浙沪站 乐迷疑问解答](https://mp.weixin.qq.com/s/wfNvYfbfqJbOdR4TxnNAKA)
   - 场地区位：[江浙沪站｜关于镇江场地区位介绍及部分交通Q&A](https://mp.weixin.qq.com/s/EGaQzunVGZ9Ei3i3bo3esQ)
   - 交通攻略：[江浙沪站｜详细交通攻略来啦，一站式直达现场](https://mp.weixin.qq.com/s/PWYKsjGH5QDZ-LELZkbR1w)
-  - 新增公交专线：[泡泡岛最新事件大公告！](https://mp.weixin.qq.com/s/SndHV55r-5FU9n7pGRXccg)
+  - 公交专线：[泡泡岛最新事件大公告！](https://mp.weixin.qq.com/s/SndHV55r-5FU9n7pGRXccg)；[【直达现场】点击查看10.1-2镇江市内公交大巴音乐节专属定制路线](https://mp.weixin.qq.com/s/onhK15ikf-j__Z2rHSTZDA)
+  - **总攻略：** [**江浙沪站总攻略来啦，期待大家在泡泡岛「完美降落」**](https://mp.weixin.qq.com/s/8h_sX8BaatTz_qQvuFtLSg)
+  - 路线指引：[泡泡岛入场路线指引｜江浙沪站倒计时1天！](https://mp.weixin.qq.com/s/IfW3P58cvT5_3BF9eFCMJg)
+
+更多消息请关注：
+- 微信公众号：创娱无界 SPARKLE LIVE
+- 新浪微博：[SPARKLE_LIVE创娱无界](https://weibo.com/u/7840752727)；[BUBBLING_BOILING_泡泡岛](https://weibo.com/u/7840847235)
 
 ## 【2023-10-04】常州太湖湾音乐节 - 吴青峰
 
@@ -89,8 +63,12 @@ title: 演出
   - 官宣：[你可以永远相信太湖湾！阵容看图说话！](https://mp.weixin.qq.com/s/PGskakP2hLqq7qm4Jn5sGA)
   - 开票：[早鸟&预售票7月14日11:18开抢！内含抢票秘籍~](https://mp.weixin.qq.com/s/9tj5VG7sOP2xqkFtjZceIw)
   - 交通攻略：[第七届太湖湾音乐节 | 交通攻略篇](https://mp.weixin.qq.com/s/ODuTX70-DHV_ztN99Ol9Yw)
-  - 全攻略：[第七届太湖湾音乐节全攻略来咯！](https://mp.weixin.qq.com/s/2Zuk7A2MHxQX5RNtbeGODA)
+  - **全攻略：** [**第七届太湖湾音乐节全攻略来咯！**](https://mp.weixin.qq.com/s/2Zuk7A2MHxQX5RNtbeGODA)
   - 酒店攻略：[速速收藏！第七届太湖湾酒店攻略来！](https://mp.weixin.qq.com/s/0HgD29BDZ4l2AQjoDiuxYw)
+
+更多消息请关注：
+- 微信公众号：太湖湾音乐节
+- 新浪微博：[太湖湾音乐节](https://weibo.com/u/7314727257)
 
 ## 【2023-10-15】我们在此相遇演唱会 - 吴青峰
 
@@ -106,6 +84,22 @@ title: 演出
 - **票价：** 288-1288，电子票不退（有团票）
 - **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=738630625561)、[猫眼](https://www.gewara.com/detail/279921)、演出FAN
 - **团票消息：** [团票公告](https://weibo.com/6552585714/NkbDqr830)
+
+## 【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸
+
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231026-yqww.png)
+
+戳 [**这里（需翻墙，活动暂未上线）**](https://kktix.com/) 直达 KKTIX 购票页面！
+
+- **类型：** 演唱会（快闪演出）
+- **时间：** 2023 年 10 月 26 日、2023 年 10 月 30 日
+- **地点：** [The Wall（台北市文山区罗斯福路四段 200 号 B1）](https://surl.amap.com/U69HQL1b4Pq)
+- **演出信息：** 10 月 26 日 20:00；10 月 30 日 20:00
+- **开票时间：** 10 月 7 日 12:00
+- **票价：** NT$1600（合 ￥362.24）
+- **购票平台：** [KKTIX（需翻墙）](https://kktix.com/)
+- **相关消息：**
+  - 官宣：[繼2016年快閃演出 時隔7年 重返這牆 魚丁糸 { 一起Wall Wall }（需翻墙）](https://www.instagram.com/p/CxxtFPWPv2x/)
 
 ## 未官宣
 
