@@ -5,70 +5,18 @@ title: 演出
 
 这个页面列举了关于近期苏打绿、鱼丁糸、吴青峰演出的资讯，包括已官宣和未官宣的演出信息。
 
-**此页面最后更新于：2023 年 10 月 1 日。** 如果我太长时间没有更新此页面，你可以在评论里催更，或是去团员们以及 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
+**此页面最后更新于：2023 年 10 月 6 日。** 如果我太长时间没有更新此页面，你可以在评论里催更，或是去团员们以及 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
 
 如果你是第一次看他们的演唱会，这份 [演唱会指南](/concerts/guide/) 将会帮助你更好地享受演唱会。
 
 近期演出消息：
 
 - 已官宣
-  - [【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸](#【2023-10-02】镇江长江·泡泡岛音乐与艺术节-鱼丁糸)
-  - [【2023-10-04】常州太湖湾音乐节 - 吴青峰](#【2023-10-04】常州太湖湾音乐节-吴青峰)
   - [【2023-10-15】我们在此相遇演唱会 - 吴青峰](#【2023-10-15】我们在此相遇演唱会-吴青峰)
   - [【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸](#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸)
 - [未官宣](#未官宣)
   - 【2023-10-21】贵阳草莓音乐节 - *~~吴青峰~~*
   - 【2023-10-22】贵阳草莓音乐节 - *~~鱼丁糸~~*
-
-## 【2023-10-02】镇江长江·泡泡岛音乐与艺术节 - 鱼丁糸
-
-戳 [**这里**](https://detail.damai.cn/item.htm?id=734211393774) 直达大麦购票页面！
-
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231002-ppd.jpg =500x)
-
-- **类型：** 音乐节
-- **时间：** 2023 年 10 月 2 日
-- **地点：** [镇江新区心湖公园广场](https://surl.amap.com/hXU2ngv1m7dw)
-- **演出信息：** 21:00-21:50 BUBBLING STAGE
-- **开票时间：** 已开票
-- **票价：** 360-880，弱实名不退
-- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=734211393774)、[秀动](https://wap.showstart.com/pages/activity/detail/detail?activityId=206167)、[猫眼](https://www.gewara.com/detail/275388)、[票星球](https://m.piaoxingqiu.com/content/64dd97b1d7fdb20001d55b69)
-- **相关消息：**
-  - 官宣：[8月22日开票｜长江·泡泡岛音乐与艺术节·江浙沪站 首批阵容官宣](https://mp.weixin.qq.com/s/PAs6GwmcsIFau_jHHRGhsA)
-  - 开票：[今日开票｜长江·泡泡岛音乐与艺术节 江浙沪站 乐迷疑问解答](https://mp.weixin.qq.com/s/wfNvYfbfqJbOdR4TxnNAKA)
-  - 场地区位：[江浙沪站｜关于镇江场地区位介绍及部分交通Q&A](https://mp.weixin.qq.com/s/EGaQzunVGZ9Ei3i3bo3esQ)
-  - 交通攻略：[江浙沪站｜详细交通攻略来啦，一站式直达现场](https://mp.weixin.qq.com/s/PWYKsjGH5QDZ-LELZkbR1w)
-  - 公交专线：[泡泡岛最新事件大公告！](https://mp.weixin.qq.com/s/SndHV55r-5FU9n7pGRXccg)；[【直达现场】点击查看10.1-2镇江市内公交大巴音乐节专属定制路线](https://mp.weixin.qq.com/s/onhK15ikf-j__Z2rHSTZDA)
-  - **总攻略：** [**江浙沪站总攻略来啦，期待大家在泡泡岛「完美降落」**](https://mp.weixin.qq.com/s/8h_sX8BaatTz_qQvuFtLSg)
-  - 路线指引：[泡泡岛入场路线指引｜江浙沪站倒计时1天！](https://mp.weixin.qq.com/s/IfW3P58cvT5_3BF9eFCMJg)
-
-更多消息请关注：
-- 微信公众号：创娱无界 SPARKLE LIVE
-- 新浪微博：[SPARKLE_LIVE创娱无界](https://weibo.com/u/7840752727)；[BUBBLING_BOILING_泡泡岛](https://weibo.com/u/7840847235)
-
-## 【2023-10-04】常州太湖湾音乐节 - 吴青峰
-
-戳 [**这里**](https://detail.damai.cn/item.htm?id=727393226154) 直达大麦购票页面！
-
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231004-thw.jpg =500x)
-
-- **类型：** 音乐节
-- **时间：** 2023 年 10 月 4 日
-- **地点：** [常州嬉戏谷](https://surl.amap.com/eMMKug1nemu)
-- **演出信息：** 19:55-20:35
-- **开票时间：** 已开票
-- **票价：** 399-799，电子票条件退（可转赠）
-- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=727393226154)、[秀动](https://wap.showstart.com/pages/activity/detail/detail?activityId=202197)、[猫眼](https://www.gewara.com/detail/278682)、[星野](http://s.xingyeshow.com/weixin/qlhzmr/products/47?share_code=16887009526147&type=scan&code=0618btFa1VOPVF0EnoFa1o2ZYV08btFk&state=1)
-- **相关消息：**
-  - 官宣：[你可以永远相信太湖湾！阵容看图说话！](https://mp.weixin.qq.com/s/PGskakP2hLqq7qm4Jn5sGA)
-  - 开票：[早鸟&预售票7月14日11:18开抢！内含抢票秘籍~](https://mp.weixin.qq.com/s/9tj5VG7sOP2xqkFtjZceIw)
-  - 交通攻略：[第七届太湖湾音乐节 | 交通攻略篇](https://mp.weixin.qq.com/s/ODuTX70-DHV_ztN99Ol9Yw)
-  - **全攻略：** [**第七届太湖湾音乐节全攻略来咯！**](https://mp.weixin.qq.com/s/2Zuk7A2MHxQX5RNtbeGODA)
-  - 酒店攻略：[速速收藏！第七届太湖湾酒店攻略来！](https://mp.weixin.qq.com/s/0HgD29BDZ4l2AQjoDiuxYw)
-
-更多消息请关注：
-- 微信公众号：太湖湾音乐节
-- 新浪微博：[太湖湾音乐节](https://weibo.com/u/7314727257)
 
 ## 【2023-10-15】我们在此相遇演唱会 - 吴青峰
 
@@ -126,6 +74,10 @@ title: 演出
   - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
   - *~~网传吴青峰、鱼丁糸将在下一批阵容公布时官宣~~*
 
+更多消息请关注：
+- 微信公众号：摩登天空
+- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
+
 ### 【2023-10-22】贵阳草莓音乐节 - *~~鱼丁糸~~*
 
 戳 [**这里**](https://detail.damai.cn/item.htm?id=740088717977) 直达大麦购票页面！
@@ -140,3 +92,7 @@ title: 演出
 - **相关消息：**
   - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
   - *~~网传吴青峰、鱼丁糸将在下一批阵容公布时官宣~~*
+
+更多消息请关注：
+- 微信公众号：摩登天空
+- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
