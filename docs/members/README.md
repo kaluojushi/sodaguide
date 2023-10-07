@@ -23,4 +23,6 @@ title: 成员
 
 [<FontIcon icon="e-guitar" /> 钟承洋（小洋）](partner/zhongchengyang)
 
+[<FontIcon icon="guitar" /> 石博元（赤木）](partner/shiboyuan)
+
 ### <FontIcon icon="team" /> 峰峰战队

@@ -44,6 +44,7 @@ export default {
       collapsible: false,
       children: [
         "zhongchengyang",
+        "shiboyuan",
       ],
     },
     {
@@ -51,7 +52,9 @@ export default {
       icon: "team",
       prefix: "team",
       collapsible: false,
-      children: [],
+      children: [
+        "huangjiewei",
+      ],
     },
   ],
   "/works/": [
