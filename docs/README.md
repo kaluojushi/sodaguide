@@ -19,6 +19,8 @@ actions:
     link: /wiki/
   - text: 苏打资源库📦
     link: /resources/
+  - text: 苏打资讯📰
+    link: /news/
 highlights:
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
@@ -35,7 +37,7 @@ highlights:
         link: /news/perform#【2023-10-15】我们在此相遇演唱会-吴青峰
       - title: 【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸
         icon: square-two
-        details: <b>类型：</b>演唱会（快闪演出）<br><b>时间：</b>2023 年 10 月 26 日、2023 年 10 月 30 日<br><b>地点：</b>The Wall（台北市文山区罗斯福路四段 200 号 B1）<br><b>演出信息：</b>10 月 26 日 20:00；10 月 30 日 20:00<br><b>开票时间：</b>10 月 7 日 12:00<br><b>票价：</b>NT$1600（合 ￥362.24）<br><b>购票平台：</b>KKTIX
+        details: <b>类型：</b>演唱会（快闪演出）<br><b>时间：</b>2023 年 10 月 26 日、2023 年 10 月 30 日<br><b>地点：</b>The Wall（台北市文山区罗斯福路四段 200 号 B1）<br><b>演出信息：</b>10 月 26 日 20:00；10 月 30 日 20:00<br><b>开票时间：</b>10 月 7 日 12:00<br><b>票价：</b>NT$1600（合 ￥362.24），两日票均已售罄<br><b>购票平台：</b>KKTIX
         link: /news/perform#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
