@@ -31,14 +31,14 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2023-10-15】我们在此相遇演唱会 - 吴青峰
-        icon: square-one
-        details: <b>类型：</b>拼盘演唱会<br><b>时间：</b>2023 年 10 月 15 日<br><b>地点：</b>河南省体育场馆中心<br><b>演出信息：</b>20:00-22:00（8 人总时间）<br><b>开票时间：</b>已开票<br><b>票价：</b>288-1288，电子票不退（有团票）<br><b>购票平台：</b>大麦、猫眼、演出FAN
-        link: /news/perform#【2023-10-15】我们在此相遇演唱会-吴青峰
       - title: 【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸
-        icon: square-two
+        icon: square-one
         details: <b>类型：</b>演唱会（快闪演出）<br><b>时间：</b>2023 年 10 月 26 日、2023 年 10 月 30 日<br><b>地点：</b>The Wall（台北市文山区罗斯福路四段 200 号 B1）<br><b>演出信息：</b>10 月 26 日 20:00；10 月 30 日 20:00<br><b>开票时间：</b>10 月 7 日 12:00<br><b>票价：</b>NT$1600（合 ￥362.24），两日票均已售罄<br><b>购票平台：</b>KKTIX
         link: /news/perform#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸
+      - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
+        icon: square-two
+        details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
+        link: /news/perform#【延期】我们在此相遇演唱会-吴青峰
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
