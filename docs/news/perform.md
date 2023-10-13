@@ -5,18 +5,62 @@ title: 演出
 
 这个页面列举了关于近期苏打绿、鱼丁糸、吴青峰演出的资讯，包括已官宣和未官宣的演出信息。
 
-**此页面最后更新于：2023 年 10 月 10 日。** 如果我太长时间没有更新此页面，你可以在评论里催更，或是去团员们以及 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
+**此页面最后更新于：2023 年 10 月 14 日。** 如果我太长时间没有更新此页面，你可以在评论里催更，或是去团员们以及 [后援会](/wiki/fans/club) 的社交账号中获取最新消息。
 
 如果你是第一次看他们的演唱会，这份 [演唱会指南](/concerts/guide/) 将会帮助你更好地享受演唱会。
 
 近期演出消息：
 
 - 已官宣
+  - [【2023-10-21】贵阳草莓音乐节 - 吴青峰](#【2023-10-21】贵阳草莓音乐节-吴青峰)
+  - [【2023-10-22】贵阳草莓音乐节 - 鱼丁糸](#【2023-10-22】贵阳草莓音乐节-鱼丁糸)
   - [【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸](#【2023-10-26、2023-10-30】一起-wall-wall-鱼丁糸)
   - ~~[【延期】我们在此相遇演唱会 - 吴青峰](#【延期】我们在此相遇演唱会-吴青峰)~~
 - [未官宣](#未官宣)
-  - 【2023-10-21】贵阳草莓音乐节 - *~~吴青峰~~*
-  - 【2023-10-22】贵阳草莓音乐节 - *~~鱼丁糸~~*
+
+## 【2023-10-21】贵阳草莓音乐节 - 吴青峰
+
+戳 [**这里**](https://detail.damai.cn/item.htm?id=740088717977) 直达大麦购票页面！
+
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231021-gycm-time.jpg =500x)
+
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231021-gycm.jpg =500x)
+
+- **类型：** 音乐节
+- **时间：** 2023 年 10 月 21 日
+- **地点：** [贵阳观山湖公园民族大联欢广场](https://surl.amap.com/7H8gpdh1z4Do)
+- **演出信息：** 21:00-22:00
+- **开票时间：** 已开票
+- **票价：** 299-620（单日）；680（两日连票），电子票条件退
+- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=740088717977)、[正在现场](https://m.zhengzai.tv/#/ticket/detail?id=2966919800911585288379381)
+- **相关消息：**
+  - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
+  - 二批官宣：[2023贵阳草莓音乐节·10组艺人新公布 | 鱼丁糸、吴青峰压轴](https://mp.weixin.qq.com/s/TUGj1qG8HvlJydzX-Lbmmg)
+
+更多消息请关注：
+- 微信公众号：摩登天空
+- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
+
+## 【2023-10-22】贵阳草莓音乐节 - 鱼丁糸
+
+戳 [**这里**](https://detail.damai.cn/item.htm?id=740088717977) 直达大麦购票页面！
+
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231022-gycm.jpg =500x)
+
+- **类型：** 音乐节
+- **时间：** 2023 年 10 月 22 日
+- **地点：** [贵阳观山湖公园民族大联欢广场](https://surl.amap.com/7H8gpdh1z4Do)
+- **演出信息：** 21:20-22:20
+- **开票时间：** 已开票
+- **票价：** 299-620（单日）；680（两日连票），电子票条件退
+- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=740088717977)、[正在现场](https://m.zhengzai.tv/#/ticket/detail?id=2966919800911585288379381)
+- **相关消息：**
+  - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
+  - 二批官宣：[2023贵阳草莓音乐节·10组艺人新公布 | 鱼丁糸、吴青峰压轴](https://mp.weixin.qq.com/s/TUGj1qG8HvlJydzX-Lbmmg)
+
+更多消息请关注：
+- 微信公众号：摩登天空
+- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
 
 ## 【2023-10-26、2023-10-30】一起 Wall Wall - 鱼丁糸
 
@@ -38,7 +82,7 @@ title: 演出
 
 ::: danger 注意
 
-此演出已 [延期](https://weibo.com/7869174949/NnbOFfxDM)，请谨慎购票，已购票的粉丝请注意 [官方退票信息](https://weibo.com/7869174949/NmLR0qf0J)。
+此演出已 [延期](https://mp.weixin.qq.com/s/VaCPDVV3EzNrFeBZkRyLKA)，请谨慎购票，已购票的粉丝请注意 [官方退票信息](https://weibo.com/7869174949/NmLR0qf0J)。
 
 :::
 
@@ -54,13 +98,14 @@ title: 演出
 - **票价：** ~~288-1288，电子票可退（有团票）~~
 - **购票平台：** ~~[大麦](https://detail.damai.cn/item.htm?id=738630625561)、[猫眼](https://www.gewara.com/detail/279921)、演出FAN~~
 - **相关消息：**
-  - ~~官宣：[10月15日，河南省体育场馆中心，#我们在此相遇#  与青春一道，万人合唱…](https://weibo.com/7869174949/NjnY2hAc0)~~
-  - ~~开票：[我们在此相遇·郑州 开票倒计时三天！](https://weibo.com/7869174949/Nku2naXxq)~~
+  - ~~官宣：[官宣！我们在此相遇，奔赴一场青春的演唱会](https://mp.weixin.qq.com/s/5NMnasMzwsp2ZRvzr6mrrg)~~
+  - ~~开票：[我们在此相遇·郑州 开票倒计时两天！](https://mp.weixin.qq.com/s/phwI0Xpu_rspFoa6pTmLsw)~~
   - **开放退票：[开放退票绿色通道，有退票需求的观众可通过原购票平台进行退票。](https://weibo.com/7869174949/NmLR0qf0J)**
-  - **延期：[我们在此相遇郑州演唱会的公告](https://weibo.com/7869174949/NnbOFfxDM)**
+  - **延期：[《我们在此相遇》郑州演唱会延期公告](https://mp.weixin.qq.com/s/VaCPDVV3EzNrFeBZkRyLKA)**
 - **团票消息：** ~~[团票公告](https://weibo.com/6552585714/NkbDqr830)~~
 
 更多消息请关注：
+- 微信公众号：我们在此相遇演唱会
 - 新浪微博：[我们在此相遇演唱会](https://weibo.com/7869174949)
 
 ## 未官宣
@@ -73,42 +118,4 @@ title: 演出
 
 :::
 
-### 【2023-10-21】贵阳草莓音乐节 - *~~吴青峰~~*
-
-戳 [**这里**](https://detail.damai.cn/item.htm?id=740088717977) 直达大麦购票页面！
-
-![图片来自网络](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231021-gycm-demo.JPG)
-
-- **类型：** 音乐节
-- **时间：** 2023 年 10 月 21 日
-- **地点：** [贵阳观山湖公园民族大联欢广场](https://surl.amap.com/7H8gpdh1z4Do)
-- **演出信息：** *~~21:00-22:00（网传）~~*
-- **开票时间：** 已开票
-- **票价：** 299-620（单日）；680（两日连票），电子票条件退
-- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=740088717977)、[正在现场](https://m.zhengzai.tv/#/ticket/detail?id=2966919800911585288379381)
-- **相关消息：**
-  - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
-  - *~~网传吴青峰、鱼丁糸将在下一批阵容公布时官宣~~*
-
-更多消息请关注：
-- 微信公众号：摩登天空
-- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
-
-### 【2023-10-22】贵阳草莓音乐节 - *~~鱼丁糸~~*
-
-戳 [**这里**](https://detail.damai.cn/item.htm?id=740088717977) 直达大麦购票页面！
-
-- **类型：** 音乐节
-- **时间：** 2023 年 10 月 22 日
-- **地点：** [贵阳观山湖公园民族大联欢广场](https://surl.amap.com/7H8gpdh1z4Do)
-- **演出信息：** *~~21:20-22:20（网传）~~*
-- **开票时间：** 已开票
-- **票价：** 299-620（单日）；680（两日连票），电子票条件退
-- **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=740088717977)、[正在现场](https://m.zhengzai.tv/#/ticket/detail?id=2966919800911585288379381)
-- **相关消息：**
-  - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
-  - *~~网传吴青峰、鱼丁糸将在下一批阵容公布时官宣~~*
-
-更多消息请关注：
-- 微信公众号：摩登天空
-- 新浪微博：[摩登天空](https://weibo.com/u/1643986137)
+**近期已没有未官宣演出信息。吴青峰、鱼丁糸均已表示，上述演出结束后，2023 年不再有演出。**
