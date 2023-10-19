@@ -36,6 +36,7 @@ title: 演出
 - **相关消息：**
   - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
   - 二批官宣：[2023贵阳草莓音乐节·10组艺人新公布 | 鱼丁糸、吴青峰压轴](https://mp.weixin.qq.com/s/TUGj1qG8HvlJydzX-Lbmmg)
+  - 全攻略：[倒计时两天｜2023贵阳草莓音乐节全攻略](https://mp.weixin.qq.com/s/MT_Qx5mcwiHqMnm8r_pp5w)
 
 更多消息请关注：
 - 微信公众号：摩登天空
@@ -57,6 +58,7 @@ title: 演出
 - **相关消息：**
   - 官宣：[2023贵阳草莓音乐节，首批阵容公布！](https://mp.weixin.qq.com/s/-BMDCTjUJ3wVEIF5zZaKCQ)
   - 二批官宣：[2023贵阳草莓音乐节·10组艺人新公布 | 鱼丁糸、吴青峰压轴](https://mp.weixin.qq.com/s/TUGj1qG8HvlJydzX-Lbmmg)
+  - 全攻略：[倒计时两天｜2023贵阳草莓音乐节全攻略](https://mp.weixin.qq.com/s/MT_Qx5mcwiHqMnm8r_pp5w)
 
 更多消息请关注：
 - 微信公众号：摩登天空
