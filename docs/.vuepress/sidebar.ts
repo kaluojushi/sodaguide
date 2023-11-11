@@ -85,6 +85,17 @@ export default {
         "",
       ],
     },
+    {
+      text: "答题",
+      icon: "exam",
+      prefix: "answer",
+      collapsible: true,
+      children: [
+        "",
+        "yqww",
+        "myrdxqs",
+      ],
+    },
   ],
   "/wiki/": [
     "",
