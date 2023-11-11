@@ -34,7 +34,7 @@ jobs:
           user_email=`git log -1 --pretty=format:'%ae'`
           deploy_branch=gh-pages
           npm install
-          npm docs:build
+          npm run docs:build
           cd docs/.vuepress/dist
           echo 'sodaguide.cn' > CNAME
           git config --global init.defaultBranch $deploy_branch
