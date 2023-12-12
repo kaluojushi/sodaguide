@@ -30,7 +30,7 @@ export default hopeTheme({
       components: [
         "BiliBili",
         "PDF",
-        "VideoPlayer",
+        "VidStack",
       ],
     },
   }

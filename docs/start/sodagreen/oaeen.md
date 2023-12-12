@@ -80,7 +80,7 @@ title: 关于鱼丁糸
 
 :::
 
-::: danger 注意！
+::: caution 注意！
 
 鱼丁糸出道并不意味着 **「苏打绿解散」** 或 **「苏打绿改名鱼丁糸」**，苏打绿仍然是苏打绿，鱼丁糸是苏打绿的分身。
 
@@ -132,7 +132,7 @@ title: 关于鱼丁糸
 
 ![苏打绿版](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg)
 
-::: danger 注意！
+::: caution 注意！
 
 虽然「苏打绿」的名字已由苏打绿取得，但原来的歌曲录音母带仍在前经纪人林暐哲手中。2023 年 3 月 4 日，吴青峰在 Facebook 发文呼吁大家，不要听苏打绿的歌。
 

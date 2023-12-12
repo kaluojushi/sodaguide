@@ -55,7 +55,7 @@ title: 歌迷
 
 - **啵啵鲨**：2020 年 1 月 10 日，吴青峰「太空备忘记」演唱会深圳场中，偷拍的观众很多，青峰当晚很不开心，少唱了一首歌并在微博发了 [长文](https://weibo.com/1822796164/IoTLF2nuQ)。1 月 11 日的演唱会开场前观众入座时，粉丝们自发提醒大家不要拍照。青峰在后台听见了，并在演唱会 talking 时讲到大家母爱爆棚，赞赏大家是彪悍的「啵啵鲨」，说感觉要是有人偷拍会不会被大家丢出去。
 
-  <VideoPlayer src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/bobosha.mp4" width="75%" />
+  <VidStack src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/bobosha.mp4" title="演唱会开场前观众入座时"/>
 
 - **倾听者**、**聆听者**：青峰在 2019 年发表了〈歌颂者〉，歌词中说“我想我很值得，当一个歌颂者”，之后青峰在微博简介中称自己是「歌颂者」。因此粉丝们自称为「倾听者」或「聆听者」。
 

@@ -34,7 +34,7 @@ title: 演出
 
 ## 【延期】~~我们在此相遇演唱会 - 吴青峰~~
 
-::: danger 注意
+::: caution 注意
 
 此演出已 [延期](https://mp.weixin.qq.com/s/VaCPDVV3EzNrFeBZkRyLKA)，请谨慎购票，已购票的粉丝请注意 [官方退票信息](https://weibo.com/7869174949/NmLR0qf0J)。
 
