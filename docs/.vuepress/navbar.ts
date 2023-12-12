@@ -126,6 +126,26 @@ export default [
           },
         ],
       },
+      {
+        text: '苏打绿二十年一刻巡回演唱会',
+        children: [
+          {
+            text: '微博',
+            icon: 'weibo',
+            link: 'https://weibo.com/u/7889590866',
+          },
+          {
+            text: 'Facebook',
+            icon: 'facebook',
+            link: 'https://www.facebook.com/20thSG.Tour',
+          },
+          {
+            text: 'Instagram',
+            icon: 'instagram',
+            link: 'https://www.instagram.com/sodagreen.20th/',
+          }
+        ],
+      },
     ],
   },
 ];

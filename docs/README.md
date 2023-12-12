@@ -22,6 +22,45 @@ actions:
   - text: 苏打资讯📰
     link: /news/
 highlights:
+  - header: 【苏打绿二十年一刻巡回演唱会】
+    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 微博
+        icon: weibo
+        link: https://weibo.com/u/7889590866
+      - title: Facebook
+        icon: facebook
+        link: https://www.facebook.com/20thSG.Tour
+      - title: Instagram
+        icon: instagram
+        link: https://www.instagram.com/sodagreen.20th/
+  - header: 【复刻计划全面正名：苏打绿版】
+    description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen#复刻计划"><b>什么是复刻计划？</b></a>
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: QQ 音乐
+        icon: qq-music
+        link: https://y.qq.com/m/act/sodagreen/index.html?&channelid=200501158&ADTAG=hz_wb_neirong72keep_cid=1
+      - title: 网易云音乐
+        icon: wangyiyun
+        link: https://music.163.com/#/artist?id=12707
+      - title: 酷狗音乐
+        icon: kugou
+        link: https://www.kugou.com/songlist/gcid_3zj3706pz7cz0a7/?src_cid=3zj3706pz7cz0a7&chl=link&kgsscty1=link
+      - title: 酷我音乐
+        icon: kuwo
+        link: https://www.kuwo.cn/playlist_detail/3520999728?continueFlag=71a4366dbfa42f32ca48461ec1db7a1d
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
@@ -31,10 +70,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2023-11-15、2023-11-22、2023-11-29、2023-12-06】牧羊人的星期三 - 吴青峰
+      - title: 【2023-12-16】“宇宙无尽，青春无尽”动感地带20周年音乐盛典 - 吴青峰
         icon: square-one
-        details: <b>类型：</b>Livehouse<br><b>时间：</b>2023 年 11 月 15 日、2023 年 11 月 22 日、2023 年 11 月 29 日、2023 年 12 月 06 日<br><b>地点：</b>女巫店（台北市大安区新生南路三段 56 巷 7 号 1 楼）<br><b>演出信息：</b>11 月 15 日、11 月 22 日、11 月 29 日、12 月 06 日每晚 19:00<br><b>开票时间：</b>【已开票】11 月 11 日 11:00<br><b>票价：</b>NT$1200（合 ￥270.36）含饮，四日票均已售罄<br><b>购票平台：</b>Ticket Plus 远大售票系统
-        link: /news/perform#【2023-11-15、2023-11-22、2023-11-29、2023-12-06】牧羊人的星期三-吴青峰
+        details: <b>类型：</b>商演<br><b>时间：</b>2023 年 12 月 16 日<br><b>地点：</b>长沙国际会展中心<br><b>演出信息：</b>19:30（有现场直播）<br><b>票务信息：</b>无售票，仅抽奖赠票
+        link: /news/perform#【2023-12-16】-宇宙无尽-青春无尽-动感地带20周年音乐盛典-吴青峰
       - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
         icon: square-two
         details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
