@@ -153,6 +153,7 @@ export default {
         "",
         "concert-notes",
         "lyric-imagery",
+        "lyric-evaluation",
       ],
     },
   ],
