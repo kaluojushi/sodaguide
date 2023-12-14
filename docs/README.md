@@ -22,6 +22,21 @@ actions:
   - text: 苏打资讯📰
     link: /news/
 highlights:
+  - header: 【苏打绿〈十年一刻（苏打绿版）〉单曲上线！】
+    description: 二十年执着，欢庆我们这一刻<br>2023 年 12 月 15 日 10:00 单曲、MV 同步上线
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+        - title: 音频收听（链接待更新）
+          icon: qq-music
+          details: QQ 音乐
+        - title: MV 收看（链接待更新）
+          icon: bilibili
+          details: Bilibili
   - header: 【苏打绿二十年一刻巡回演唱会】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
@@ -33,12 +48,15 @@ highlights:
     features:
       - title: 微博
         icon: weibo
+        details: 蘇打綠二十年一刻巡迴演唱會
         link: https://weibo.com/u/7889590866
       - title: Facebook
         icon: facebook
+        details: 蘇打綠二十年一刻巡迴演唱會
         link: https://www.facebook.com/20thSG.Tour
       - title: Instagram
         icon: instagram
+        details: 蘇打綠二十年一刻巡迴演唱會
         link: https://www.instagram.com/sodagreen.20th/
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen#复刻计划"><b>什么是复刻计划？</b></a>
