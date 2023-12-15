@@ -31,12 +31,14 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-        - title: 音频收听（链接待更新）
+        - title: 音频收听
           icon: qq-music
           details: QQ 音乐
-        - title: MV 收看（链接待更新）
+          link: https://y.qq.com/n/ryqq/songDetail/457250902
+        - title: MV 收看
           icon: bilibili
           details: Bilibili
+          link: https://www.bilibili.com/video/BV16C4y1u7Zf/
   - header: 【苏打绿二十年一刻巡回演唱会】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
