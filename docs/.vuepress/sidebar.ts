@@ -9,6 +9,8 @@ export default {
       children: [
         "",
         "oaeen",
+        "copyright",
+        "trademark",
       ],
     },
     {

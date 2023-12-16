@@ -13,7 +13,7 @@ export default hopeTheme({
   footer: `Together With <a href="https://sodagreen.com" target="_blank">Sodagreen</a> 💚💚💚💚💚💚`,
   copyright: "Copyright © Carlo 2023-now",
   displayFooter: true,
-  iconAssets: "//at.alicdn.com/t/c/font_4078802_tgprzr5jpb.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4078802_hrgu6nvucw5.css",
   fullscreen: true,
   plugins: {
     mdEnhance: {
