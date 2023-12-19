@@ -19,6 +19,9 @@ title: 苏打百科
 
 - 苏打绿和 [鱼丁糸](/start/sodagreen/oaeen) 是什么关系？
 - [苏打志](/resources/sodazine/) 是什么？
+- 鱼丁糸为什么要 [复刻专辑](/start/sodagreen/oaeen#复刻计划)？
+- 吴青峰 [还能唱自己写的歌吗？](/start/sodagreen/copyright)
+- 苏打绿为什么在 [商标权纠纷](/start/sodagreen/trademark) 中败诉？他们又是怎么拿回团名的？
 
 更多内容，你可以在右上角的搜索框中搜索。欢迎探索！
 
