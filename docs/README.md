@@ -22,8 +22,41 @@ actions:
   - text: 苏打资讯📰
     link: /news/
 highlights:
+  - header: 【苏打绿《十年一刻（苏打绿版）》复刻专辑即将开始预购！】
+    description: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>2023.12.22</b> 开始预购
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 预购链接 1（待更新）
+        icon: square-one
+        details: 预购链接 1
+      - title: 预购链接 2（待更新）
+        icon: square-two
+        details: 预购链接 2
+  - header: 【苏打绿《你在烦恼什么（苏打绿版）》复刻专辑即将开始预购！】
+    description: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 惊喜重制演唱会经典曲目<br>预购超值赠品：20 周年苏打志 Vol. 2<br><b>2023.12.22</b> 开始预购
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 预购链接 1（待更新）
+        icon: square-one
+        details: 预购链接 1
+      - title: 预购链接 2（待更新）
+        icon: square-two
+        details: 预购链接 2
   - header: 【苏打绿〈十年一刻（苏打绿版）〉单曲上线！】
     description: 二十年执着，欢庆我们这一刻<br>2023 年 12 月 15 日 10:00 单曲、MV 同步上线
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-single-cover.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
     bgImageStyle:
@@ -90,10 +123,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2023-12-16】“宇宙无尽，青春无尽”动感地带20周年音乐盛典 - 吴青峰
+      - title: 【2023-12-21】抖音看见音乐计划盛典 - 吴青峰
         icon: square-one
-        details: <b>类型：</b>商演<br><b>时间：</b>2023 年 12 月 16 日<br><b>地点：</b>长沙国际会展中心<br><b>演出信息：</b>19:30（有现场直播）<br><b>票务信息：</b>无售票，仅抽奖赠票
-        link: /news/perform#【2023-12-16】-宇宙无尽-青春无尽-动感地带20周年音乐盛典-吴青峰
+        details: <b>类型：</b>综艺晚会<br><b>时间：</b>2023 年 12 月 21 日<br><b>地点：</b>广州花都区（具体地点待定）<br><b>演出信息：</b>19:00 开始（直播链接待定）<br><b>票务信息：</b>无售票，仅有粉丝福利票
+        link: /news/perform#【2023-12-21】抖音看见音乐计划盛典-吴青峰
       - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
         icon: square-two
         details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
