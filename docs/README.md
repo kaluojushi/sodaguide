@@ -32,9 +32,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 预购链接 1（待更新）
+      - title: 预购链接 1
         icon: square-one
-        details: 预购链接 1
+        details: Universal Music Group
+        link: https://umg.lnk.to/GBEETuEo
       - title: 预购链接 2（待更新）
         icon: square-two
         details: 预购链接 2
@@ -48,9 +49,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 预购链接 1（待更新）
+      - title: 预购链接 1
         icon: square-one
-        details: 预购链接 1
+        details: Universal Music Group
+        link: https://umg.lnk.to/wyuaQGGV
       - title: 预购链接 2（待更新）
         icon: square-two
         details: 预购链接 2
