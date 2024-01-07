@@ -21,61 +21,12 @@ actions:
     link: /resources/
   - text: 苏打资讯📰
     link: /news/
+  - text: 演唱会香港站🎤
+    link: /news/20yike
 highlights:
-  - header: 【苏打绿《十年一刻（苏打绿版）》复刻专辑即将开始预购！】
-    description: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>2023.12.22</b> 开始预购
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-cover.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 预购链接 1
-        icon: square-one
-        details: Universal Music Group
-        link: https://umg.lnk.to/GBEETuEo
-      - title: 预购链接 2（待更新）
-        icon: square-two
-        details: 预购链接 2
-  - header: 【苏打绿《你在烦恼什么（苏打绿版）》复刻专辑即将开始预购！】
-    description: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 惊喜重制演唱会经典曲目<br>预购超值赠品：20 周年苏打志 Vol. 2<br><b>2023.12.22</b> 开始预购
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/nizaifannaoshenme-cover.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 预购链接 1
-        icon: square-one
-        details: Universal Music Group
-        link: https://umg.lnk.to/wyuaQGGV
-      - title: 预购链接 2（待更新）
-        icon: square-two
-        details: 预购链接 2
-  - header: 【苏打绿〈十年一刻（苏打绿版）〉单曲上线！】
-    description: 二十年执着，欢庆我们这一刻<br>2023 年 12 月 15 日 10:00 单曲、MV 同步上线
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike-single-cover.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/shinianyike.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-        - title: 音频收听
-          icon: qq-music
-          details: QQ 音乐
-          link: https://y.qq.com/n/ryqq/songDetail/457250902
-        - title: MV 收看
-          icon: bilibili
-          details: Bilibili
-          link: https://www.bilibili.com/video/BV16C4y1u7Zf/
-  - header: 【苏打绿二十年一刻巡回演唱会】
-    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会
+  - header: 【苏打绿二十年一刻巡回演唱会消息合集】
+    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImageStyle:
@@ -83,20 +34,55 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 微博
-        icon: weibo
-        details: 蘇打綠二十年一刻巡迴演唱會
-        link: https://weibo.com/u/7889590866
-      - title: Facebook
-        icon: facebook
-        details: 蘇打綠二十年一刻巡迴演唱會
-        link: https://www.facebook.com/20thSG.Tour
-      - title: Instagram
-        icon: instagram
-        details: 蘇打綠二十年一刻巡迴演唱會
-        link: https://www.instagram.com/sodagreen.20th/
+      - title: 【香港站】专栏
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日<br><b>地点：</b>香港红磡体育馆<br><b>演出信息：</b>03 月 22 日、03 月 23 日、03 月 24 日每晚 20:15 开始<br><b>开票时间：</b>2024 年 01 月 23 日 10:00<br><b>票价：</b>HKD$980/$680/$380（合￥895.92/￥621.66/￥347.40，汇率请以实际支付时为准）<br><b>购票平台：</b>城市售票网 URBTIX（暂无演出链接）
+        link: /news/20yike
+  - header: 【近期演出消息】
+    description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 【2024-03-22、2024-03-23、2024-03-24】苏打绿二十年一刻巡回演唱会香港站 - 苏打绿
+        icon: square-one
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日<br><b>地点：</b>香港红磡体育馆<br><b>演出信息：</b>03 月 22 日、03 月 23 日、03 月 24 日每晚 20:15 开始<br><b>开票时间：</b>2024 年 01 月 23 日 10:00<br><b>票价：</b>HKD$980/$680/$380（合￥895.92/￥621.66/￥347.40，汇率请以实际支付时为准）<br><b>购票平台：</b>城市售票网 URBTIX（暂无演出链接）
+        link: /news/perform#【2024-03-22、2024-03-23、2024-03-24】苏打绿二十年一刻巡回演唱会香港站-苏打绿
+      - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
+        icon: square-two
+        details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
+        link: /news/perform#【延期】我们在此相遇演唱会-吴青峰
+  - header: 【复刻 5、6 消息合集】
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
+    bgImageStyle:
+      opacity: 0.3
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑火热预购中！
+        icon: mask
+        details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>2023.12.22</b> 开始预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
+        link: https://umg.lnk.to/GBEETuEo
+      - title: 苏打绿《你在烦恼什么（苏打绿版）》复刻专辑火热预购中！
+        icon: sad
+        details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 惊喜重制演唱会经典曲目<br>预购超值赠品：20 周年苏打志 Vol. 2<br><b>2023.12.22</b> 开始预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
+        link: https://umg.lnk.to/wyuaQGGV
+      - title: 苏打绿〈十年一刻（苏打绿版）〉单曲上线！
+        icon: music
+        details: 二十年执着，欢庆我们这一刻<br><b>2023 年 12 月 15 日 10:00</b><br>单曲、MV 同步上线<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/songDetail/457250902
+      - title: 苏打绿〈控制狂（苏打绿版）〉单曲上线！
+        icon: music
+        details: WOW~~~巔覆你的狂想！<br><b>2023 年 12 月 22 日 00:00</b><br>MV、单曲，同步上线一起狂！<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/songDetail/458883175
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen#复刻计划"><b>什么是复刻计划？</b></a>
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
     bgImageStyle:
@@ -116,23 +102,7 @@ highlights:
       - title: 酷我音乐
         icon: kuwo
         link: https://www.kuwo.cn/playlist_detail/3520999728?continueFlag=71a4366dbfa42f32ca48461ec1db7a1d
-  - header: 【近期演出消息】
-    description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
-    bgImageStyle:
-      opacity: 0.3
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 【2023-12-21】抖音看见音乐计划盛典 - 吴青峰
-        icon: square-one
-        details: <b>类型：</b>综艺晚会<br><b>时间：</b>2023 年 12 月 21 日<br><b>地点：</b>广州花都区（具体地点待定）<br><b>演出信息：</b>19:00 开始（直播链接待定）<br><b>票务信息：</b>无售票，仅有粉丝福利票
-        link: /news/perform#【2023-12-21】抖音看见音乐计划盛典-吴青峰
-      - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
-        icon: square-two
-        details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
-        link: /news/perform#【延期】我们在此相遇演唱会-吴青峰
+
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
