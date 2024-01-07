@@ -64,7 +64,38 @@ export default [
         text: '演出',
         icon: 'perform',
         link: '/news/perform/',
-      }
+      },
+      {
+        text: '二十年一刻',
+        icon: 'concert',
+        link: '/news/20yike/',
+      },
+    ]
+  },
+  {
+    text: '关于',
+    icon: 'about',
+    children: [
+      {
+        text: '关于本站',
+        icon: 'about',
+        link: '/about/',
+      },
+      {
+        text: '更新历史',
+        icon: 'history',
+        link: '/about/history/',
+      },
+      {
+        text: '贡献指南',
+        icon: 'contribution',
+        link: '/about/contribution/',
+      },
+      {
+        text: '推荐链接',
+        icon: 'link',
+        link: '/about/links/',
+      },
     ]
   },
   {

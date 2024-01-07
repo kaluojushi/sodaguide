@@ -163,5 +163,12 @@ export default {
   "/news/": [
     "",
     "perform",
+    "20yike",
+  ],
+  "/about/": [
+    "",
+    "history",
+    "contribution",
+    "links",
   ],
 };
