@@ -47,15 +47,18 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑 2024.01.26 即将上线！
+      - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑 2024.01.26 正式上线！
         icon: mask
-        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接（链接待更新）</b>
-      - title: 苏打绿《你在烦恼什么（苏打绿版）》复刻专辑 2024.01.26 即将上线！
+        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/001n1pFB23z69R
+      - title: 苏打绿《你在烦恼什么（苏打绿版）》复刻专辑 2024.01.26 正式上线！
         icon: sad
-        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接（链接待更新）</b>
-      - title: 苏打绿〈你被写在我的歌里（苏打绿版）〉MV 2024.01.26 即将上线！
+        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/002ZwYuK2mlcJA
+      - title: 苏打绿〈你被写在我的歌里（苏打绿版）〉MV 2024.01.26 正式上线！
         icon: bilibili
-        details: <b>2023.01.26 00:00</b> MV 同步上线<br><b>点击进入 b 站收看链接（链接待更新）</b>
+        details: <b>2023.01.26 00:00</b> MV 同步上线<br><b>点击进入 b 站收看链接</b>
+        link: https://www.bilibili.com/video/BV1ow411j7oX/
       - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑仍在火热预购中！
         icon: mask
         details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>即日起</b> 仍在预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
