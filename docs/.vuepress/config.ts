@@ -1,6 +1,7 @@
 import {defineUserConfig} from 'vuepress';
 import theme from "./theme";
 import {searchProPlugin} from "vuepress-plugin-search-pro";
+import {viteBundler} from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
   port: 5300,
