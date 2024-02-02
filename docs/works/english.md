@@ -15,7 +15,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《鱼丁糸不同名专辑》MV 中给出。
+以上翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
 
 :::
 
@@ -31,7 +31,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-「飞鱼」的翻译由鱼丁糸在《鱼丁糸不同名专辑》MV 中给出。
+「飞鱼」的翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
 
 :::
 
@@ -45,13 +45,13 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《鱼丁糸不同名专辑》MV 中给出。
+以上翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
 
 :::
 
-## 《苏打绿》 Sodagreen／《鱼丁糸不同名专辑》 Oaeen
+## 《苏打绿》／《同名专辑（苏打绿版）》 Sodagreen
 
-### 《苏打绿》／《鱼丁糸不同名专辑》CD1
+### 《苏打绿》／《同名专辑（苏打绿版）》CD1
 
 〈后悔莫及〉 Regret
 
@@ -75,7 +75,7 @@ title: 歌名的英文
 
 〈窥〉 Peeping
 
-### 《鱼丁糸不同名专辑》CD2
+### 《同名专辑（苏打绿版）》CD2
 
 〈空气中的视听与幻觉〉 Audiovisual and illusion in the air
 
@@ -99,7 +99,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《鱼丁糸不同名专辑》MV 中给出。
+以上翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
 
 :::
 
@@ -111,13 +111,13 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《陪我歌唱（鱼版）》《小宇宙（鱼版）》MV 中给出。
+以上翻译由苏打绿在《陪我歌唱（苏打绿版）》《小宇宙（苏打绿版）》MV 中给出。
 
 :::
 
-## 《小宇宙》／《小宇宙（鱼版）》 Little Universe
+## 《小宇宙》／《小宇宙（苏打绿版）》 Little Universe
 
-### 《小宇宙》／《小宇宙（鱼版）》CD1
+### 《小宇宙》／《小宇宙（苏打绿版）》CD1
 
 〈You Are, You Will〉
 
@@ -141,7 +141,7 @@ title: 歌名的英文
 
 〈无言歌〉 Songs Without Words
 
-### 《小宇宙（鱼版）》CD2
+### 《小宇宙（苏打绿版）》CD2
 
 〈我的未来不是梦〉 My Future is not a Dream
 
@@ -165,7 +165,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译除〈小宇宙〉〈心情电梯〉外由鱼丁糸在《小宇宙（鱼版）》MV 中给出。
+以上翻译除〈小宇宙〉〈心情电梯〉外由苏打绿在《小宇宙（苏打绿版）》MV 中给出。
 
 :::
 
@@ -175,7 +175,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《小宇宙（鱼版）》MV 中给出。
+以上翻译由苏打绿在《小宇宙（苏打绿版）》MV 中给出。
 
 :::
 
@@ -185,13 +185,13 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《陪我歌唱（鱼版）》MV 中给出。
+以上翻译由苏打绿在《陪我歌唱（苏打绿版）》MV 中给出。
 
 :::
 
-## 《无与伦比的美丽》／《无与伦比的美丽（鱼版）》 Incomparable Beauty
+## 《无与伦比的美丽》／《无与伦比的美丽（苏打绿版）》 Incomparable Beauty
 
-### 《无与伦比的美丽》／《无与伦比的美丽（鱼版）》CD1
+### 《无与伦比的美丽》／《无与伦比的美丽（苏打绿版）》CD1
 
 〈游乐〉 Amusement
 
@@ -213,7 +213,7 @@ title: 歌名的英文
 
 〈相信〉 Believe
 
-### 《无与伦比的美丽（鱼版）》CD2
+### 《无与伦比的美丽（苏打绿版）》CD2
 
 〈我是一棵秋天的树〉 I'm' a tree in Autumn
 
@@ -239,15 +239,15 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《无与伦比的美丽（鱼版）》MV 中给出。
+以上翻译由苏打绿在《无与伦比的美丽（苏打绿版）》MV 中给出。
 
 此外，在随苏打志 3 附赠的单曲中，「无与伦比的美丽」被翻译为「Absolutely Beautiful」。
 
 :::
 
-## 《陪我歌唱》／《陪我歌唱（鱼版）》 Sing With Me
+## 《陪我歌唱》／《陪我歌唱（苏打绿版）》 Sing With Me
 
-### 《陪我歌唱》／《陪我歌唱（鱼版）》CD1
+### 《陪我歌唱》／《陪我歌唱（苏打绿版）》CD1
 
 〈呢喃〉 Whisper
 
@@ -269,7 +269,7 @@ title: 歌名的英文
 
 〈Creep〉
 
-### 《陪我歌唱（鱼版）》CD2
+### 《陪我歌唱（苏打绿版）》CD2
 
 〈罗生门〉 Rashomon
 
@@ -293,9 +293,9 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《陪我歌唱（鱼版）》MV 中给出。
+以上翻译由苏打绿在《陪我歌唱（苏打绿版）》MV 中给出。
 
-在《鱼丁糸不同名专辑》和《陪我歌唱（鱼版）》中〈蜘蛛天空〉的翻译有细微差别。
+在《同名专辑（苏打绿版）》和《陪我歌唱（苏打绿版）》中〈蜘蛛天空〉的翻译有细微差别。
 
 :::
 
@@ -373,45 +373,77 @@ title: 歌名的英文
 
 :::
 
-## 《十年一刻》 Once in a lifetime
+## 《十年一刻》／《十年一刻（苏打绿版）》 Once in a lifetime
+
+### 《十年一刻》／《十年一刻（苏打绿版）》CD1
+
+〈飞鱼 (电音版)〉 Flying Fish (Electronic Version)
+
+〈日光 (电音版)〉 Sunlight (Electronic Version)
+
+〈红鞋女孩〉 The Girl in the Red Shoes
+
+〈可爱的玫瑰花〉 Lovely Roses
+
+〈Close To You〉
+
+〈牵阮的手〉 Hold My Hand
+
+〈追追追〉 Chase, Chase, Chase
+
+〈笑闹人间〉 Laugh in Life
 
 〈十年一刻〉 Once in a lifetime
 
-〈笑闹人间〉 Laughing in the world
+### 《十年一刻（苏打绿版）》CD2
 
-〈无眠〉 No sleep
+〈被遗忘的时光〉 Forgotten Time
 
-〈红鞋女孩〉 The Girl with Red Shoes
+〈Teardrop〉
 
-〈可爱的玫瑰花〉 Lovely Rose
+〈心酸〉 Heartbreak
 
-〈牵阮的手〉 Holding my hands
+〈东京餐馆的 China Girl〉 The China Girl in Tokyo Restaurant
 
-〈追追追〉 Chasing
+〈火光〉 Fire Light
+
+〈情人的眼泪〉 Lover's Tears
+
+〈一想到你呀〉 Once I think of you
+
+〈我愿意 + 城里的月光 + 至少还有你〉 I do + The moon light in the town + At least I've got you
+
+〈喜欢你现在的样子〉 I like the way you are
 
 ::: info 提示
 
-以上翻译除〈十年一刻〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
-
-「十年一刻」的翻译来自苏打绿《十年一刻》专辑封面。
+以上翻译由苏打绿在《十年一刻（苏打绿版）》MV 中给出。
 
 :::
 
 ## 《Shadow》
 
-〈不好〉 Not Good
+〈不好〉 Not good
 
-## 《你在烦恼什么》 What's The Trouble On Your Mind
+::: info 提示
 
-〈片刻永恒〉 Moment Forever
+以上翻译由苏打绿在《你在烦恼什么（苏打绿版）》MV 中给出。
+
+:::
+
+## 《你在烦恼什么》／《你在烦恼什么（苏打绿版）》 What's the Trouble on Your Mind
+
+### 《你在烦恼什么》／《你在烦恼什么（苏打绿版）》CD1
+
+〈片刻永恒〉 The Moment is Eternal
 
 〈幸福额度〉 Love on Credit
 
-〈你被写在我的歌里〉 You are written in my song
+〈你被写在我的歌里〉 You're Written in My Song
 
-〈如果凝结就是爱〉 If Condensation is Love
+〈如果凝结就是爱〉 If Love is Like Condensation
 
-〈喜欢寂寞〉 Like to be Lonely
+〈喜欢寂寞〉 Enjoy Loneliness
 
 〈燕窝〉 Bird's Nest
 
@@ -419,17 +451,33 @@ title: 歌名的英文
 
 〈当我们一起走过〉 Walk Together
 
-〈浪漫派〉 The Romantics
+〈浪漫派〉 Romantics
 
 〈控制狂〉 Control Freak
 
-〈你在烦恼什么〉 What's The Trouble On Your Mind
+〈你在烦恼什么〉 What's the Trouble on Your Mind
+
+### 《你在烦恼什么（苏打绿版）》CD2
+
+〈一起喔喔〉 Wow Wow Together
+
+〈不好〉 Not good
+
+〈黄昏的故乡〉 My Hometown in the Evening
+
+〈憨阿嬷〉 Grandma
+
+〈小时候〉 Childhood
+
+〈Yellow + 我最亲爱的〉 Yellow + My Dearest
+
+〈没有烟抽的日子〉 The Days Without Smoking
+
+〈岛呗〉 Hometown Folks
 
 ::: info 提示
 
-以上翻译除〈幸福额度〉〈当我们一起走过〉〈你在烦恼什么〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
-
-「幸福额度」的翻译来自电影 [《幸福额度》](https://movie.douban.com/subject/6225992/)。「当我们一起走过」的翻译来自苏打绿「当我们一起走过」巡回演唱会。「你在烦恼什么」的翻译来自苏打绿〈你在烦恼什么〉MV。
+以上翻译由苏打绿在《你在烦恼什么（苏打绿版）》MV 和电影 [《幸福额度》](https://movie.douban.com/subject/6225992/) 中给出。
 
 :::
 
@@ -451,7 +499,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译由苏打绿在《你在烦恼什么（苏打绿版）》MV 中给出。
 
 :::
 
@@ -499,13 +547,13 @@ title: 歌名的英文
 
 〈It Began With A Fallen Leaf〉
 
-## 《一起喔喔》 Together Oh Oh
+## 《一起喔喔》 Wow Wow Together
 
-〈一起喔喔〉 Together Oh Oh
+〈一起喔喔〉 Wow Wow Together
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译由苏打绿在《你在烦恼什么（苏打绿版）》MV 中给出。
 
 :::
 
@@ -515,7 +563,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由鱼丁糸在《陪我歌唱（鱼版）》MV 和电影 [《百日告别》](https://movie.douban.com/subject/26022253/)中给出。
+以上翻译由苏打绿在《陪我歌唱（苏打绿版）》MV 和电影 [《百日告别》](https://movie.douban.com/subject/26022253/)中给出。
 
 :::
 
@@ -551,7 +599,7 @@ title: 歌名的英文
 
 〈Must Keep Singing〉
 
-龚钰祺 第一号钢琴协奏曲 冬之颂 Yu Chi Kung Piano Concerto No.1 Ode to Winter
+龚钰祺 第一号钢琴协奏曲 冬之颂 Yu Chi Kung - Piano Concerto No.1 - Ode to Winter
 
 〈第一乐章 适度的快板〉 First Movement: Allegro Moderato
 
