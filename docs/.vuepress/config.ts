@@ -20,4 +20,8 @@ export default defineUserConfig({
       indexContent: true,
     }),
   ],
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
 });

@@ -27,6 +27,7 @@
     "vue": "^3.3.4",
     "vuepress": "2.0.0-rc.2",
     "vuepress-plugin-search-pro": "^2.0.0-rc.19",
-    "vuepress-theme-hope": "^2.0.0-rc.19"
+    "vuepress-theme-hope": "^2.0.0-rc.19",
+    "@vuepress/bundler-vite": "^2.0.0-rc.2"
   }
 }
