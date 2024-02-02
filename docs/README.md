@@ -59,6 +59,10 @@ highlights:
         icon: bilibili
         details: <b>2023.01.26 00:00</b> MV 同步上线<br><b>点击进入 b 站收看链接</b>
         link: https://www.bilibili.com/video/BV1ow411j7oX/
+      - title: 苏打绿《十年一刻（苏打绿版）》《你在烦恼什么（苏打绿版）》全专 MV 2024.02.02 正式上线！
+        icon: bilibili
+        details: <b>2023.02.02</b> 复刻专辑实体发行<br><b>12:00</b> 全专 MV 同步上线<br><b>点击进入 b 站收看链接</b>
+        link: https://space.bilibili.com/346969784/channel/collectiondetail?sid=2006671
       - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑仍在火热预购中！
         icon: mask
         details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>即日起</b> 仍在预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
