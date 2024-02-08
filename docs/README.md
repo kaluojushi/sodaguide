@@ -25,7 +25,7 @@ actions:
     link: /news/20yike
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
-    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>
+    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
@@ -38,6 +38,10 @@ highlights:
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日<br><b>地点：</b>香港红磡体育馆<br><b>演出信息：</b>03 月 22 日、03 月 23 日、03 月 24 日每晚 20:15 开始<br><b>开票时间：</b>2024 年 01 月 23 日 10:00；2024 年 01 月 30 日加开视线受阻区<br><b>票价：</b>HKD$980/$680/$380（合￥895.92/￥621.66/￥347.40，汇率请以实际支付时为准），纸质票无实名，三日普通票、视线受阻票均已售罄<br><b>购票平台：</b>城市售票网 URBTIX
         link: /news/20yike
+      - title: 巡演 11 城官宣
+        icon: news
+        details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
+        link: /news/20yike#苏打绿二十年一刻巡回演唱会-list
   - header: 【复刻 5、6 消息合集】
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg

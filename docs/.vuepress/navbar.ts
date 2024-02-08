@@ -174,7 +174,12 @@ export default [
             text: 'Instagram',
             icon: 'instagram',
             link: 'https://www.instagram.com/sodagreen.20th/',
-          }
+          },
+          {
+            text: '小红书',
+            icon: 'xiaohongshu',
+            link: 'https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c',
+          },
         ],
       },
     ],

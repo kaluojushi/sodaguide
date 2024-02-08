@@ -95,7 +95,7 @@ title: 演出
 - **地点：** *~~[杭州奥体中心体育馆](https://surl.amap.com/ggZ6xYwsdJX)~~*
 - **演出信息：** 无
 - **票务信息：** 无
-- **消息来源：** 文旅部官方显示报批通过（如上图，点击 [这里](https://zwfw.mct.gov.cn/swychd/swychdDetail?id=a3aad36c2c405b65215e5f8f539914cf) 查看报批消息）
+- **消息来源：** 文旅部官方显示报批通过（如上图，点击 [这里](https://zwfw.mct.gov.cn/swychd/swychdDetail?id=a3aad36c2c405b65215e5f8f539914cf) 查看报批消息）；巡演官宣
 
 ### 【2024-05-18、2024-05-19】苏打绿二十年一刻巡回演唱会郑州站 - 苏打绿
 
@@ -106,13 +106,17 @@ title: 演出
 - **地点：** *~~[郑州奥体中心体育馆](https://surl.amap.com/gv6ijYcn6sv)~~*
 - **演出信息：** 无
 - **票务信息：** 无
-- **消息来源：** 文旅部官方显示报批通过（如上图，点击 [这里](https://zwfw.mct.gov.cn/swychd/swychdDetail?id=2cfacaf588b894a5d85db1ab943bd9ea) 查看报批消息）
+- **消息来源：** 文旅部官方显示报批通过（如上图，点击 [这里](https://zwfw.mct.gov.cn/swychd/swychdDetail?id=2cfacaf588b894a5d85db1ab943bd9ea) 查看报批消息）；巡演官宣
 
-### 【2024-？-？】苏打绿二十年一刻巡回演唱会？站 - 苏打绿
+### 【2024-？-？】苏打绿二十年一刻巡回演唱会已官宣待报批城市 - 苏打绿
+
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/2024-esnyk-11.jpg =500x)
+
+苏打绿二十年一刻巡回演唱会在 **广州、郑州、厦门、深圳、重庆、南京、武汉、杭州、成都、北京、上海** 即将登场！
 
 - **类型：** 演唱会
 - **时间：** *~~2024 年 ？ 月 ？日~~*
 - **地点：** ？
 - **演出信息：** 无
 - **票务信息：** 无
-- **消息来源：** 他们总会开到你的城市的，再等等！
+- **消息来源：** 巡演官宣
