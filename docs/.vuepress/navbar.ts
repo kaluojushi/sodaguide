@@ -42,7 +42,7 @@ export default [
       {
         text: '音乐资源',
         icon: 'music',
-        link: 'music/',
+        link: 'music',
       },
       {
         text: '苏打志 Sodazine',
@@ -63,12 +63,12 @@ export default [
       {
         text: '演出',
         icon: 'perform',
-        link: '/news/perform/',
+        link: '/news/perform',
       },
       {
         text: '二十年一刻',
         icon: 'concert',
-        link: '/news/20yike/',
+        link: '/news/20yike',
       },
     ]
   },
@@ -84,17 +84,17 @@ export default [
       {
         text: '更新历史',
         icon: 'history',
-        link: '/about/history/',
+        link: '/about/history',
       },
       {
         text: '贡献指南',
         icon: 'contribution',
-        link: '/about/contribution/',
+        link: '/about/contribution',
       },
       {
         text: '推荐链接',
         icon: 'link',
-        link: '/about/links/',
+        link: '/about/links',
       },
     ]
   },
