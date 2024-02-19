@@ -13,11 +13,11 @@ title: 关于本站
 
 我希望这个项目能够帮助到更多的苏打绿粉丝，也希望能够帮助到更多的人了解苏打绿。
 
-苏打盖 Sodaguide 的更新历史请点击 [这里](./history) 查看。
+苏打盖 Sodaguide 的更新历史请点击 [这里](history) 查看。
 
-如果你想参与到本项目中，可以查看 [贡献指南](./contribution)。
+如果你想参与到本项目中，可以查看 [贡献指南](contribution)。
 
-[这里](./links) 为你推荐了一些其他有关苏打绿的链接。
+[这里](links) 为你推荐了一些其他有关苏打绿的链接。
 
 ## 关于项目
 
@@ -55,7 +55,7 @@ title: 关于本站
 
 如果你想了解关于我的更多信息，可以通过以下途经联系我：
 
-- 个人网站：[卡洛的核心舱](https://corecabin.cn)
+- 个人网站：[卡洛的核心舱](https://corecabin.cn/)
 - GitHub 主页：[kaluojushi](https://github.com/kaluojushi)
 - b 站主页：[卡洛居士](https://space.bilibili.com/6552585714)
 - E-mail：[carlo0901@163.com](mailto:carlo0901@163.com)

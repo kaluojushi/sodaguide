@@ -26,3 +26,5 @@ title: 成员
 [<FontIcon icon="guitar" /> 石博元（赤木）](partner/shiboyuan)
 
 ### <FontIcon icon="team" /> 峰峰战队
+
+[<FontIcon icon="microphone" /> 黄玠玮（玠玮）](team/huangjiewei)

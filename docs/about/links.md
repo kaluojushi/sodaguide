@@ -20,6 +20,7 @@ title: 推荐链接
 卡洛的 b 站账号：[卡洛居士](https://space.bilibili.com/1536096)，包含苏打绿伴奏资源、苏打绿一起答题等
 
 ### 入站必看
+
 - [吴青峰](https://space.bilibili.com/672600531)：吴青峰本人
 - [吴青峰新人站](https://space.bilibili.com/346969784)：吴青峰新人站
 - [绿人村](https://space.bilibili.com/43195264)：苏打绿绿人村

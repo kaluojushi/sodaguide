@@ -154,7 +154,7 @@ title: 关于鱼丁糸
 
 我们为你推荐的收听方式：
 
-- [<FontIcon icon="resource" /> 打绿资源库 / <FontIcon icon="music" /> 音乐资源 / 苏打绿官方所发行的所有歌曲（2004-2016）](/resources/music#苏打绿官方所发行的所有歌曲-2004-2016)
+- [<FontIcon icon="resource" /> 打绿资源库 / <FontIcon icon="music" /> 音乐资源 / 苏打绿官方所发行的所有歌曲（2004-2016）](/resources/music.html#苏打绿官方所发行的所有歌曲-2004-2016)
 - [B 站 up 主：苏打 bubble](https://space.bilibili.com/390537041)
 
 :::
