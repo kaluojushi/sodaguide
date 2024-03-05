@@ -22,7 +22,9 @@ actions:
   - text: 苏打资讯📰
     link: /news/
   - text: 演唱会香港站🎤
-    link: /news/20yike
+    link: /news/20yike.html#香港站专栏
+  - text: 演唱会杭州站🎤
+    link: /news/20yike.html#杭州站专栏
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>
@@ -37,7 +39,11 @@ highlights:
       - title: 【香港站】专栏
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日<br><b>地点：</b>香港红磡体育馆<br><b>演出信息：</b>03 月 22 日、03 月 23 日、03 月 24 日每晚 20:15 开始<br><b>开票时间：</b>2024 年 01 月 23 日 10:00；2024 年 01 月 30 日加开视线受阻区<br><b>票价：</b>HKD$980/$680/$380（合￥895.92/￥621.66/￥347.40，汇率请以实际支付时为准），纸质票无实名，三日普通票、视线受阻票均已售罄<br><b>购票平台：</b>城市售票网 URBTIX
-        link: /news/20yike
+        link: /news/20yike.html#香港站专栏
+      - title: 【杭州站】专栏
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 04 月 13 日、2024 年 04 月 14 日<br><b>地点：</b>杭州奥体中心体育馆<br><b>演出信息：</b>04 月 13 日、04 月 14 日每晚 19:00 开始<br><b>开票时间：</b>无<br><b>票价：</b>480-1580，电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/20yike.html#杭州站专栏
       - title: 巡演 11 城官宣
         icon: news
         details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
@@ -96,6 +102,10 @@ highlights:
         icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日<br><b>地点：</b>香港红磡体育馆<br><b>演出信息：</b>03 月 22 日、03 月 23 日、03 月 24 日每晚 20:15 开始<br><b>开票时间：</b>2024 年 01 月 23 日 10:00；2024 年 01 月 30 日加开视线受阻区<br><b>票价：</b>HKD$980/$680/$380（合￥895.92/￥621.66/￥347.40，汇率请以实际支付时为准），纸质票无实名，三日普通票、视线受阻票均已售罄<br><b>购票平台：</b>城市售票网 URBTIX
         link: /news/perform.html#【2024-03-22、2024-03-23、2024-03-24】苏打绿二十年一刻巡回演唱会香港站-苏打绿
+      - title: 【2024-04-13、2024-04-14】苏打绿二十年一刻巡回演唱会杭州站 - 苏打绿
+        icon: square-one
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 04 月 13 日、2024 年 04 月 14 日<br><b>地点：</b>杭州奥体中心体育馆<br><b>演出信息：</b>04 月 13 日、04 月 14 日每晚 19:00 开始<br><b>开票时间：</b>无<br><b>票价：</b>480-1580，电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/perform.html#【2024-04-13、2024-04-14】苏打绿二十年一刻巡回演唱会杭州站-苏打绿
       - title: 【延期】<s>我们在此相遇演唱会 - 吴青峰</s>
         icon: square-two
         details: <b>类型：</b>拼盘演唱会<br><b>时间：</b><s>2023 年 10 月 15 日</s> 已延期<br><b>地点：</b><s>河南省体育场馆中心</s><br><b>演出信息：</b><s>20:00-22:00（8 人总时间）</s><br><b>开票时间：</b><s>已开票</s><br><b>票价：</b><s>288-1288，电子票可退（有团票）</s><br><b>购票平台：</b><s>大麦、猫眼、演出FAN</s>
