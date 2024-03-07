@@ -39,7 +39,7 @@ title: 演出
 
 更多消息请关注 [**苏打绿二十年一刻巡回演唱会杭州站专栏**](/news/20yike.html#杭州站专栏)。
 
-![报批消息](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240413-esnyk-hz.png)
+![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240413-esnyk-hz-poster.png =500x)
 
 戳 [**这里**](https://detail.damai.cn/item.htm?id=771485183793) 直达大麦购票页面！
 
@@ -47,11 +47,12 @@ title: 演出
 - **时间：** 2024 年 04 月 13 日、2024 年 04 月 14 日
 - **地点：** [杭州奥体中心体育馆](https://surl.amap.com/ggZ6xYwsdJX)
 - **演出信息：** 04 月 13 日、04 月 14 日每晚 19:00 开始
-- **开票时间：** 待开票
-- **票价：** 480-1580，电子票强实名条件退
+- **开票时间：** 2024 年 03 月 12 日 12:18
+- **票价：** 480-1280、1580（片刻永恒特区），电子票强实名条件退
 - **购票平台：** [大麦](https://detail.damai.cn/item.htm?id=771485183793)、[猫眼](https://www.gewara.com/detail/308959)、[票星球](https://m.piaoxingqiu.com/content/65e095767a15cb0001c659d4)
 - **相关消息：**
   - 报批消息：[文旅部官方显示报批通过](https://zwfw.mct.gov.cn/swychd/swychdDetail?id=a3aad36c2c405b65215e5f8f539914cf)
+  - 官宣：[在春日的溫暖裡，與蘇打綠相遇 感受時光荏苒中的動人旋律 「杭州站」即將啟程！預售時間公佈！](https://weibo.com/7889590866/O3T0142rL)
 
 ## 【延期】~~我们在此相遇演唱会 - 吴青峰~~
 
