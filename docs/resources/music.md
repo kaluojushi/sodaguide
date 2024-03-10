@@ -42,3 +42,7 @@ title: 音乐资源
 该资源整理中，敬请期待！
 
 :::
+
+## 没有烟抽的日子
+
+链接：<https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3>
