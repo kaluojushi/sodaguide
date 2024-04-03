@@ -28,3 +28,10 @@ title: 成员
 ### <FontIcon icon="team" /> 峰峰战队
 
 [<FontIcon icon="microphone" /> 黄玠玮（玠玮）](team/huangjiewei)
+
+[<FontIcon icon="keyboard" /> 张少瑜（少瑜）](team/zhangshaoyu)
+
+[<FontIcon icon="drum" /> 黄亮杰（亮杰）](team/huangliangjie)
+
+[<FontIcon icon="drum" /> 潘维瀚（小潘）](team/panweihan)
+
