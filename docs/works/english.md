@@ -761,17 +761,23 @@ title: 歌名的英文
 
 〈窥〉 Peeping
 
-〈寂寞的时候〉 When I'm Lonely
+〈寂寞的时候〉 When I am Missing You
 
-〈你的影子是我的海〉 Your Shadow is My Ocean
+〈你的影子是我的海〉 My Shadow My Shelter
 
-〈再也不见〉 Never See You Again
+〈再也不见〉 You Hurt Me Deeply
 
 〈红色的河〉 Red River
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译除〈寂寞的时候〉〈你的影子是我的海〉〈再也不见〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+
+「寂寞的时候」的翻译来自〈寂寞的时候〉MV。
+
+「你的影子是我的海」的翻译来自 [〈你的影子是我的海〉官方试听网站](https://myshadow-myshelter.com/)。
+
+「再也不见」的翻译来自〈再也不见〉MV。
 
 :::
 
@@ -829,6 +835,8 @@ title: 歌名的英文
 
 〈如果声音不记得〉 If the Sound Doesn't Remember
 
+〈另个时空的你〉 Another You
+
 〈崖上的波妞〉 Ponyo on the Cliff by the Sea
 
 〈山河浮影〉 Floating Shadow of Mountains and Rivers
@@ -837,7 +845,9 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译除〈另个是空的你〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+
+「另个时空的你」的翻译来自 [维基百科](https://zh.wikipedia.org/wiki/%E7%95%AB%E8%A9%B1_Drawing_Dialogue)。
 
 :::
 
@@ -923,6 +933,16 @@ title: 歌名的英文
 
 :::
 
+## 吴青峰三专后个人单曲
+
+〈我们都拥有海洋〉 We own All the Ocean
+
+::: info 提示
+
+以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+
+:::
+
 ## 二十年一刻单曲计划
 
 〈你不需要多完美〉 You don't have to be perfect.
@@ -939,4 +959,4 @@ title: 歌名的英文
 - [Sodagreen (蘇打綠)](https://www.onedayinmay.net/Other/Sodagreen/index.html)
 - [sodagreen_aka_oaeen - YouTube](https://www.youtube.com/@sodagreenofficial)
 
-**特别感谢 @孤独的太空人 提供的翻译修改意见！**
+**特别感谢 @孤独的太空人、[@MichelleChung](https://github.com/ZhongLingyuxiu1028) 提供的翻译修改意见！**
