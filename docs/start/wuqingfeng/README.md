@@ -11,7 +11,7 @@ title: 吴青峰
 
 ![2019 年吴青峰「太空备忘记」巡回演唱会高雄站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/wuqingfeng/wuqingfeng-intro.jpg =x500)
 
-**吴青峰**（Qingfeng Wu，1982 年 8 月 30 日—），台湾创作歌手、作词人、作曲人、编曲人，昵称 **青峰**，生于台北市。
+**吴青峰**（Qingfeng Wu，1982 年 —），台湾创作歌手、作词人、作曲人、编曲人，昵称 **青峰**，生于台北市。
 
 2018 年 4 月 13 日，歌唱 17 年、休团 1 年多后，吴青峰正式对外宣告以个人身份重返乐坛。同年 5 月 24 日，青峰发表单曲〈Everybody Woohoo〉（feat. 9m88）正式出道，并在 5 月 26 日参加 [垦丁春浪音乐节](https://www.bilibili.com/video/av540849844/)，作为复出首演。
 
