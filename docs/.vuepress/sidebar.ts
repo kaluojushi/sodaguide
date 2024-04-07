@@ -65,8 +65,30 @@ export default {
   ],
   "/works/": [
     "",
-    "english",
-    "air"
+    {
+      text: "单曲",
+      icon: "album",
+      prefix: "singles",
+      collapsible: false,
+      children: [
+        "english",
+        "air",
+      ],
+    },
+    {
+      text: "专辑",
+      icon: "album",
+      prefix: "albums",
+      collapsible: false,
+      children: [
+        "_01tongmingzhuanji",
+        "_02xiaoyuzhou",
+        "_03wuyulunbidemeili",
+        "_04peiwogechang",
+        "_05shinianyike",
+        "_06nizaifannaoshenme",
+      ],
+    },
   ],
   "/concerts/": [
     "",
