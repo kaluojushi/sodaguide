@@ -66,7 +66,7 @@ export default {
   "/works/": [
     "",
     {
-      text: "单曲",
+      text: "单曲 EP",
       icon: "album",
       prefix: "singles",
       collapsible: false,
@@ -87,6 +87,24 @@ export default {
         "04peiwogechang",
         "05shinianyike",
         "06nizaifannaoshenme",
+      ],
+    },
+    {
+      text: "鱼丁糸专辑",
+      icon: "fish",
+      prefix: "oaeen",
+      collapsible: false,
+      children: [
+        "a01_chitangguaitan",
+      ],
+    },
+    {
+      text: "鱼丁糸单曲 EP",
+      icon: "fish",
+      prefix: "oaeen",
+      collapsible: false,
+      children: [
+        "s01_sofaradio",
       ],
     },
   ],
