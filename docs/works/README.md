@@ -5,13 +5,9 @@ title: 作品
 
 ## 目录
 
-### <FontIcon icon="album" /> 单曲
-
 ::: note 施工中……
 
 :::
-
-[空气中的视听与幻觉](singles/air)
 
 ### <FontIcon icon="album" /> 专辑
 
@@ -26,6 +22,18 @@ title: 作品
 [5️⃣ 十年一刻（苏打绿版）](albums/05shinianyike)
 
 [6️⃣ 你在烦恼什么（苏打绿版）](albums/06nizaifannaoshenme)
+
+### <FontIcon icon="album" /> 单曲 EP
+
+[空气中的视听与幻觉](singles/air)
+
+### <FontIcon icon="fish" /> 鱼丁糸专辑
+
+[池堂怪谈](oaeen/a01_chitangguaitan.md)
+
+### <FontIcon icon="fish" /> 鱼丁糸单曲 EP
+
+[沙发里有沙发Radio](oaeen/s01_sofaradio.md)
 
 ### 剧集
 
