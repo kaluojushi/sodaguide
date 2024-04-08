@@ -12,20 +12,34 @@ title: 3️⃣ 无与伦比的美丽（苏打绿版）
 
 ## 比美丽电台
 
+本节目由鱼丁糸有限公司六人全员赞助 <br/>
+复刻「无美丽电台特辑」绝版预购梦幻逸品 <br/>
+重出江湖，加倍奉还，无与伦比的美丽的大嫂们确认参战 <br/>
+工商服务时间由「好男唱」独家演绎复刻专辑曲目
+
+🎧比美丽电台共四集，1/22起每周日晚上七点上线 <br/>
+🎬比美丽电台「好男唱」影音特辑，隔天周一上架 <br/>
+💌本节目录制均有影音誓言保障，所有鱼水机密均可放心收听与收看
+
 ### 比美丽电台 pod podcast
 
-- 比美丽电台 EP1（嘉宾：Lulu）
-    - [誓约 Part1](https://weibo.com/1717748707/Mq4hL8Y3X)
-    - 完整收听
-- 比美丽电台 EP2（嘉宾：Sunny）
-    - [誓约 Part2](https://weibo.com/1717748707/MqztG9AAH)
-    - 完整收听
-- 比美丽电台 EP3（嘉宾：苔苔）
-    - [誓约 Part3](https://weibo.com/1717748707/MrDjd661m)
-    - 完整收听
-- 比美丽电台 EP4（嘉宾：Lulu、Sunny、苔苔）
-    - [誓约 Part4](https://weibo.com/1717748707/MsHiH440t)
-    - 完整收听
+| 平台                         | 梯  | 传送门                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:---------------------------|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 官方微博                       | ❌  | EP1：[誓约 Part1](https://weibo.com/1717748707/Mq4hL8Y3X) <br />EP2：[誓约 Part2](https://weibo.com/1717748707/MqztG9AAH) <br />EP3：[誓约 Part3](https://weibo.com/1717748707/MrDjd661m) <br />EP4：[誓约 Part4](https://weibo.com/1717748707/MsHiH440t)                                                                                                                                                                                          |
+| Bilibili <br/> up：`cabot_` | ❌  | EP0：[【鱼丁糸 X 比美丽大嫂团】1/22晚上七点开播](https://www.bilibili.com/video/BV1ys4y1x7rz?p=3) <br />EP1：[【鱼丁糸 X 比美丽大嫂团】最资深大嫂Lulu驾到](https://www.bilibili.com/video/BV1ys4y1x7rz?p=1) <br />EP2：[【鱼丁糸 X 比美丽大嫂团】半夜三点最美的Sunny](https://www.bilibili.com/video/BV1pG4y1S722/) <br />EP3：[【鱼丁糸 X 比美丽大嫂团】抢走第一大嫂后冠的苔苔](https://www.bilibili.com/video/BV1Vv4y1b7X9/) <br />EP4：[【鱼丁糸 X 比美丽大嫂团】三嫂大乱斗，我要听到血流成河](https://www.bilibili.com/video/BV1NR4y1i75B/) |
+| Apple Podcast              | ✔️ | [传送门](https://podcasts.apple.com/tw/podcast/%E6%AF%94%E7%BE%8E%E9%BA%97%E9%9B%BB%E5%8F%B0pod-podcast/id1663600960)                                                                                                                                                                                                                                                                                                                     |
+| Firstory                   | ✔️ | [传送门](https://open.firstory.me/user/oaeen)                                                                                                                                                                                                                                                                                                                                                                                             |
+| SoundOn                    | ✔️ | [传送门](https://player.soundon.fm/p/e7e409bf-49d1-4531-b292-bd31fd871bc5)                                                                                                                                                                                                                                                                                                                                                                |
+| Spotify                    | ✔️ | [传送门](https://open.spotify.com/show/6JyWTyP3obgbCySbfl6UJx)                                                                                                                                                                                                                                                                                                                                                                            |
+| KKBOX                      | ✔️ | [传送门](https://podcast.kkbox.com/tw/channel/0qC5CCRDabOhLnFu7-)                                                                                                                                                                                                                                                                                                                                                                         |
+| Google Podcast             | ✔️ | [传送门](https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuLmZpcnN0b3J5Lm1lL3Jzcy91c2VyL2NsY2tlZzd0bzAwZGowMXlvOHZhYjhsOXM)                                                                                                                                                                                                                                                                                                                |
+
+
+::: info 关于比美丽电台 pod podcast 
+
+官方发布的完整版收听平台都需要梯，官方微博仅誓约部分。 <br/>（可能是 **车速太快** 所以没在国内平台更新 XD）
+
+:::
 
 ### 比美丽电台之好男唱
 
