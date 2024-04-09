@@ -1110,6 +1110,8 @@ Bass｜謝馨儀 <br/>
 没什么 我可以的 <br/>
 就控制你这个控制狂
 
+- [MV 幕后花絮](https://weibo.com/1717748707/NyrhNxD8w)
+
 ::: details 制作信息
 
 音樂製作 <br/>
