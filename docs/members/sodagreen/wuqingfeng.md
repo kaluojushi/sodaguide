@@ -2843,6 +2843,22 @@ title: 吴青峰（青峰，日出）
         <td>feat. 严俊杰
         </td>
     </tr>
+    <tr>
+        <td>2024
+        </td>
+        <td>李荣浩
+        </td>
+        <td>名字
+        </td>
+        <td>✔️
+        </td>
+        <td>❌
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+    </tr>
     </tbody>
     <tfoot></tfoot>
 </table>
