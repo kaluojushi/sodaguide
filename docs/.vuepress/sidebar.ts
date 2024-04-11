@@ -66,45 +66,121 @@ export default {
   "/works/": [
     "",
     {
-      text: "单曲 EP",
-      icon: "album",
-      prefix: "singles",
+      text: "💚苏打绿",
       collapsible: false,
       children: [
-        "english",
-        "air",
+        {
+          text: "专辑",
+          prefix: "albums",
+          collapsible: true,
+          children: [
+            "a01_tongmingzhuanji",
+            "a02_xiaoyuzhou",
+            "a03_wuyulunbidemeili",
+            "a04_peiwogechang",
+            "a05_shinianyike",
+            "a06_nizaifannaoshenme",
+          ],
+        },
+        {
+          text: "单曲 EP",
+          prefix: "singles",
+          collapsible: true,
+          children: [
+            "english",
+            "air",
+          ],
+        },
       ],
     },
     {
-      text: "专辑",
-      icon: "album",
-      prefix: "albums",
+      text: "🐟鱼丁糸",
       collapsible: false,
       children: [
-        "01tongmingzhuanji",
-        "02xiaoyuzhou",
-        "03wuyulunbidemeili",
-        "04peiwogechang",
-        "05shinianyike",
-        "06nizaifannaoshenme",
+        {
+          text: "专辑",
+          prefix: "oaeen",
+          collapsible: true,
+          children: [
+            "a01_chitangguaitan",
+          ],
+        },
+        {
+          text: "单曲 EP",
+          prefix: "oaeen",
+          collapsible: true,
+          children: [
+            "s01_sofaradio",
+          ],
+        },
       ],
     },
     {
-      text: "鱼丁糸专辑",
-      icon: "fish",
-      prefix: "oaeen",
+      text: "🎤吴青峰",
       collapsible: false,
       children: [
-        "a01_chitangguaitan",
+        {
+          text: "专辑",
+          prefix: "wuqingfeng",
+          collapsible: true,
+          children: [
+            "a01_taikongren",
+            "a02_ceyeyiyiyuyi",
+            "a03_malameidexingqier",
+          ],
+        },
+        {
+          text: "单曲 EP",
+          prefix: "wuqingfeng",
+          collapsible: true,
+          children: [
+            "s01_everybodywoohoo",
+            "s02_kuijimodeshihou",
+            "s03_mushendewuhou",
+          ],
+        },
       ],
     },
     {
-      text: "鱼丁糸单曲 EP",
-      icon: "fish",
-      prefix: "oaeen",
+      text: "🎹龚钰祺",
       collapsible: false,
       children: [
-        "s01_sofaradio",
+        {
+          text: "专辑",
+          prefix: "gongyuqi",
+          collapsible: true,
+          children: [
+            "a01_kungsvol1",
+          ],
+        },
+        {
+          text: "单曲 EP",
+          prefix: "gongyuqi",
+          collapsible: true,
+          children: [
+          ],
+        },
+      ],
+    },
+    {
+      text: "🎸刘家凯",
+      collapsible: false,
+      children: [
+        {
+          text: "专辑",
+          prefix: "liujiakai",
+          collapsible: true,
+          children: [
+            "a01_taibangle",
+          ],
+        },
+        {
+          text: "单曲 EP",
+          prefix: "liujiakai",
+          collapsible: true,
+          children: [
+          ],
+        },
       ],
     },
   ],
