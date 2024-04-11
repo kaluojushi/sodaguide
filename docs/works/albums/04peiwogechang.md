@@ -692,9 +692,11 @@ Director｜涂皓欽 Smoky Tu <br/>
 
 :::
 
+### 10 Creep* （未收录）
+
 ::: info 关于〈Creep〉没有收录
 
-在 2008 年发行的《陪我歌唱》中有〈Creep〉（曲序位于〈漂浮 (Soda Version)〉与〈蜘蛛天空 (Classical Version)〉之间）。
+在苏打绿 2008 年发行的《陪我歌唱》中有〈Creep〉（曲序位于〈漂浮 (Soda Version)〉与〈蜘蛛天空 (Classical Version)〉之间）。
 
 原本复刻版本也有这首歌，但是由于后来没有得到原作者的授权，因此复刻版中没有收录。
 
