@@ -139,6 +139,7 @@ export default {
             "s03_mushendewuhou",
           ],
         },
+        "wuqingfeng/livesingle",
       ],
     },
     {

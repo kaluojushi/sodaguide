@@ -64,7 +64,7 @@ title: 作品
 
 ### Live 单曲
 
-待完善……
+[Live 单曲](wuqingfeng/livesingle.md)
 
 ## 🎹 龚钰祺
 
