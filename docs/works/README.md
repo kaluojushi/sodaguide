@@ -9,7 +9,7 @@ title: 作品
 
 :::
 
-### <FontIcon icon="album" /> 专辑
+### 专辑
 
 1. 2022-01-14 | [同名专辑（苏打绿版）](albums/a01_tongmingzhuanji)
 2. 2022-02-18 | [小宇宙（苏打绿版）](albums/a02_xiaoyuzhou)
@@ -18,7 +18,7 @@ title: 作品
 5. 2024-01-26 | [十年一刻（苏打绿版）](albums/a05_shinianyike)
 6. 2024-01-26 | [你在烦恼什么（苏打绿版）](albums/a06_nizaifannaoshenme)
 
-### <FontIcon icon="album" /> 单曲 EP
+### 单曲 EP
 
 1. 2004-05-30 | [空气中的视听与幻觉](singles/air)
 2. 2004-07-17 | [飞鱼]()
@@ -37,12 +37,12 @@ title: 作品
 
 ### 专辑
 
-1. 2021-09-17 | [池堂怪谈](oaeen/a01_chitangguaitan.md)
+1. 2021-09-17 | [池堂怪谈](oaeen/a01_chitangguaitan)
 
 
 ### 单曲 EP
 
-1. 2020-08-07 | [沙发里有沙发Radio](oaeen/s01_sofaradio.md)
+1. 2020-08-07 | [沙发里有沙发Radio](oaeen/s01_sofaradio)
 
 ### 剧集
 
@@ -64,7 +64,7 @@ title: 作品
 
 ### Live 单曲
 
-[Live 单曲](wuqingfeng/livesingle.md)
+[Live 单曲](wuqingfeng/livesingle)
 
 ## 🎹 龚钰祺
 
