@@ -2,6 +2,8 @@
 title: 5️⃣ 十年一刻（苏打绿版）
 ---
 
+![](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/411852667_740966901390558_6823239960658688212_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4Smxow77jx4Ab4x0iRh&_nc_ht=scontent-hkg1-1.xx&oh=00_AfAJPqA3l00-BdVsJ5lRMSRGhebiLa0N4cGVkzoPnwucfA&oe=661D7485)
+
 ::: tip 发行信息
 
 发行时间： **2024-01-26**

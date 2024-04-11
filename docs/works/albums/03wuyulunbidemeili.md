@@ -2,6 +2,8 @@
 title: 3️⃣ 无与伦比的美丽（苏打绿版）
 ---
 
+![](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/409203078_736893741797874_7465313139615600353_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LMGDz8HUn9MAb61ZDe1&_nc_ht=scontent-hkg1-1.xx&oh=00_AfAODbxp9A9SiNLq62LnrTu6lkddGImtnIQcYOTEk53vzQ&oe=661D6981)
+
 ::: tip 发行信息
 
 发行时间： **2023-02-03**

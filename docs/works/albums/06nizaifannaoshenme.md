@@ -2,6 +2,8 @@
 title: 6️⃣ 你在烦恼什么（苏打绿版）
 ---
 
+![](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/411698682_740968728057042_6614353196552120704_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6BBnIhCJZVYAb5bd9ny&_nc_ht=scontent-hkg1-2.xx&oh=00_AfAxSlkr1WEAyYYZAYLa4v6ii5LDLZ7pYxQaxmsiY9kc7g&oe=661D7977)
+
 ::: tip 发行信息
 
 发行时间： **2024-01-26**

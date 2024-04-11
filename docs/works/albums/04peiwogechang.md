@@ -2,6 +2,8 @@
 title: 4️⃣ 陪我歌唱（苏打绿版）
 ---
 
+![](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/409314324_736893911797857_3261785946127115251_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8K_wn0U4yfQAb69ApTe&_nc_ht=scontent-hkg1-1.xx&oh=00_AfCS3FgLt2RibYWeEYDUma864iKEuEplIFViUxL71OphOw&oe=661D85C9)
+
 ::: tip 发行信息
 
 发行时间： **2023-02-17**

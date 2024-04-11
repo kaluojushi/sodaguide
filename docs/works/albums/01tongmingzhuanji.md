@@ -2,6 +2,8 @@
 title: 1️⃣ 同名专辑（苏打绿版）
 ---
 
+![](https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/409209768_736894105131171_6474681269425910893_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X6InDbJWNkIAb4b7g7e&_nc_ht=scontent-hkg4-1.xx&oh=00_AfC53r3YCNOXuHoZsfZGN_luxFId4_oD4DRGDtuB65wUNA&oe=661D742D)
+
 ::: tip 发行信息
 
 发行时间： **2022-01-14**
