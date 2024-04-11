@@ -692,6 +692,16 @@ Director｜涂皓欽 Smoky Tu <br/>
 
 :::
 
+::: info 关于〈Creep〉没有收录
+
+在 2008 年发行的《陪我歌唱》中有〈Creep〉（曲序位于〈漂浮 (Soda Version)〉与〈蜘蛛天空 (Classical Version)〉之间）。
+
+原本复刻版本也有这首歌，但是由于后来没有得到原作者的授权，因此复刻版中没有收录。
+
+（来源：[2023-01-13 鱼丁糸的这天直播](https://www.bilibili.com/video/BV14R4y127aB/?p=6) 青峰部分：`38:07`）（up：`吴青峰新人站`）
+
+:::
+
 ## Disc 2 曲目
 
 ### 10 罗生门 Rashomon
