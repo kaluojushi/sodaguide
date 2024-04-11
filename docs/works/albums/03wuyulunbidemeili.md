@@ -96,6 +96,8 @@ Disc 2
 
 ## 比美丽电台
 
+![](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/325853541_896934267978078_3771159753492947573_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4OHAPjIMYkAAb7_xwyC&_nc_oc=Adgh1fdzdR51fUkfUZ1REmP7K3Skfnp1yx-skCRJFbB48AaY-P2kZzg328D6juOT1nI&_nc_ht=scontent-hkg1-2.xx&oh=00_AfDD7vHEEnhhdtAZcJVAHscx_P0caZuNoOEHtwYjbOGOjw&oe=661D7AC4)
+
 本节目由鱼丁糸有限公司六人全员赞助 <br/>
 复刻「无美丽电台特辑」绝版预购梦幻逸品 <br/>
 重出江湖，加倍奉还，无与伦比的美丽的大嫂们确认参战 <br/>
