@@ -58,7 +58,7 @@ title: 作品
 
 ### 单曲 EP
 
-1. 2018-06-22 | [Everybody Woohoo](wuqingfeng/s01_everybodywoohoo)
+1. 2018-05-24 | [Everybody Woohoo](wuqingfeng/s01_everybodywoohoo)
 2. 2019-12-06 | [窥／寂寞的时候](wuqingfeng/s02_kuijimodeshihou)
 3. 2022-07-22 | [牧神的午后](wuqingfeng/s03_mushendewuhou)
 
