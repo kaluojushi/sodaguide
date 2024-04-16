@@ -1,6 +1,8 @@
 ---
-title: 沙发里有沙发Radio
+title: 🛋️ 沙发里有沙发Radio
 ---
+
+![](https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/117541776_134622631652440_4440620591216307993_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ozh6FeNrLsIAb6iZVZi&_nc_ht=scontent-hkg4-1.xx&oh=00_AfAVyONPc9cTur9fFcdAQK9G7X8_ji0CfQV1rqwrmsW0Iw&oe=663F17A1)
 
 ::: tip 发行信息
 
@@ -34,61 +36,71 @@ title: 沙发里有沙发Radio
 
 [〈沙發裡有沙發Radio〉](https://weibo.com/1717748707/JeQkU2ANu)
 
-詞：八女／日出 <br/>
-曲：香我／日出 <br/>
-製作人：陳珊妮 <br/>
-編曲：魚丁糸 <br/>
-Additional programming：陳珊妮 <br/>
+作词 : 八女/日出 <br/>
+作曲 : 香我/日出 <br/>
+制作人 : 陈珊妮 <br/>
+编曲 : 鱼丁糸 <br/>
+录音师 : 陈文骏 <br/>
+混音师 : 陈文骏 <br/>
+Additional programming：陈珊妮 <br/>
+
+Guitar : 可田 Cu-te (何景扬) <br/>
+Guitar : 豕豆 Stone (刘家凯) <br/>
+Bass : 香我 Fragrant (谢馨仪) <br/>
+Keyboard : 金八 Kinba (龚钰祺) <br/>
+Drums : 八女 Ba Nu (史俊威) <br/>
+Vocal : 日出 Sunrise (吴青峰) <br/>
 <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
+
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
 Oh～～～～ <br/>
-<br/>
-床邊喝著冰啤酒 黃色 金黃色 泡沫 泡沫 <br/>
-我要乾脆做個夢 紅色 粉紅色（睡吧 睡吧） <br/>
-<br/>
-花邊新聞小動作 黑色 深黑色 幽默 幽默 <br/>
-一雙躲在鍵盤後 虹色 彩虹色（手 手） <br/>
-<br/>
-繞著房間檯燈跳 跟著 跟著我 shadow shadow <br/>
-荒唐水逆請不要 纏著 纏著我（oh no oh no） <br/>
-<br/>
-旋 轉漫遊  不經意  地散播 <br/>
-復 古潮流  水藍色  的電波 <br/>
-<br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
+
+床边喝着冰啤酒 黄色 金黄色 泡沫 泡沫 <br/>
+我要干脆做个梦 红色 粉红色 （睡吧 睡吧） <br/>
+
+花边新闻小动作 黑色 深黑色 幽默 幽默 <br/>
+一双躲在键盘后 虹色 彩虹色 （手 手） <br/>
+
+绕着房间台灯跳 跟着 跟着我 shadow shadow <br/>
+荒唐水逆请不要 缠着 缠着我（oh no oh no） <br/>
+
+旋 转漫游 不经意 地散播 <br/>
+复 古潮流 水蓝色 的电波 <br/>
+
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
 Oh～～～～ <br/>
-<br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
+
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
 Oh～～～～ <br/>
-<br/>
-通體膨脹請不要 纏著 纏著我 <br/>
-膠原蛋白拜託你 跟著 跟著我 <br/>
-厭世神經請不要 纏著 纏著我 <br/>
-靈感放縱就是要 跟著 跟著我 <br/>
-<br/>
-旋 轉漫遊  不經意  地散播 <br/>
-復 古潮流  水藍色  的電波 <br/>
-<br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
+
+通体膨胀请不要 缠着 缠着我 <br/>
+胶原蛋白拜托你 跟着 跟着我 <br/>
+厌世神经请不要 缠着 缠着我 <br/>
+灵感放纵就是要 跟着 跟着我 <br/>
+
+旋 转漫游 不经意 地散播 <br/>
+复 古潮流 水蓝色 的电波 <br/>
+
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
 Oh～～～～ <br/>
-<br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
-沙發裡有沙發radio <br/>
+
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
+沙发里有沙发radio <br/>
 Oh～～～～ <br/>
-<br/>
-沙發裡我回到小時候 <br/>
-沙發裡的幻想radio <br/>
-幻想就是我發的限動 <br/>
-Oh oh oh……未來一直po 
+
+沙发里我回到小时候 <br/>
+沙发里的幻想radio <br/>
+幻想就是我发的限动 <br/>
+Oh oh oh……未来一直po <br/>
 
 ::: details 制作信息
 
