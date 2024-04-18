@@ -1623,12 +1623,7 @@ CA｜Henry Mancini、John Mercer <br/>
 
 ## 番外
 
-[//]: # (- [专辑开箱视频]&#40;https://weibo.com/1822796164/Jwt6zFljH&#41;)
-[//]: # (- [Youtuber 上册曲目 reaction]&#40;https://weibo.com/6881711395/JpWvWkdT2&#41;)
-
+- [专辑开箱视频](https://weibo.com/1822796164/Jwt6zFljH)
+- [Youtuber 上册曲目 reaction](https://weibo.com/6881711395/JpWvWkdT2)
 - [吴青峰的册叶一角 | 着调专访](https://mp.weixin.qq.com/s/nnG7lk_EPRJ3yCR2QFn5Yg)
 - [吴青峰：谢谢你找我，谢谢你愿意找我，谢谢你试着找我｜着调专访](https://mp.weixin.qq.com/s/jhMlhBwC3sJgtYbcHPF5oA)
-
-[//]: # (- [吴青峰：从不觉得人生有什么巅峰不巅峰丨新京报专访]&#40;https://m.bjnews.com.cn/detail/160465985215669.html&#41;)
-[//]: # (- [吴青峰：我喜欢用音乐去探险，学会欣赏状态不完美的自己 | 一面娱乐专访]&#40;https://weibo.com/ttarticle/p/show?id=2309404582698831183997&#41;)
-[//]: # (- [酷我音乐《WOW大牌》专访]&#40;https://weibo.com/6881711395/Jzavu7ppA&#41;)
