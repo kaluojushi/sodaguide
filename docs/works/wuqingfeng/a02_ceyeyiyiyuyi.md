@@ -465,7 +465,7 @@ Agent｜林治文、吳子敬 <br/>
 
 [最难的是相遇 The Hardest Thing of All is Meeting You](https://weibo.com/1822796164/JlkyduPDV)
 
-作词 :  <br/>
+作词 : 李格弟 <br/>
 作曲 : 吴青峰 <br/>
 
 一片浓浓酒意 <br/>
