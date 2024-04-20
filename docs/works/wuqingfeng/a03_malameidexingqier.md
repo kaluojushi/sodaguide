@@ -51,12 +51,12 @@ title: 🪈 马拉美的星期二
 - [沙龙客座嘉宾](https://weibo.com/1822796164/M838VDRC1)
 
 番外：
-- [离谱!!我当面拒绝了吴青峰!首爆专辑制作秘密!丨HOPICO](https://www.bilibili.com/video/BV13k4y1H7ai/)（up：`HOPICO`）
+1. [离谱!!我当面拒绝了吴青峰!首爆专辑制作秘密!丨HOPICO](https://www.bilibili.com/video/BV13k4y1H7ai/)（up：`HOPICO`）
+2. [吴青峰：打开软木塞 | 着调专访](https://mp.weixin.qq.com/s/yW5EWTWJJ1piEYmTNqYhCg)（《南都娱乐》杂志2022年第19期）
 
-::: note HOPICO × 青峰
+::: note 关于《马拉美的星期二》不可错过的采访
 
-关于《马拉美的星期二》不可错过的采访。
-
+1. HOPICO × 青峰 <br/>
 探讨曲目：（按照视频顺序）<br/>
 （……海妖沙龙）<br/> 
 （……催眠大师）<br/>
@@ -64,7 +64,8 @@ title: 🪈 马拉美的星期二
 （……醉鬼阿Q）<br/>
 （……恋人絮语）<br/>
 （……小王子）
-
+2. 着调专访 <br/>
+围绕专辑进行的个人深度访谈。
 
 :::
 
