@@ -17,6 +17,7 @@ title: 作品
 4. 2023-02-17 | [陪我歌唱（苏打绿版）](albums/a04_peiwogechang)
 5. 2024-01-26 | [十年一刻（苏打绿版）](albums/a05_shinianyike)
 6. 2024-01-26 | [你在烦恼什么（苏打绿版）](albums/a06_nizaifannaoshenme)
+7. 2024-05-30 | [春·日光（苏打绿版）](albums/a07_chunriguang)
 
 ### 单曲 EP
 

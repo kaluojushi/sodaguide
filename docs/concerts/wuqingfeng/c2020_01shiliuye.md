@@ -2,7 +2,7 @@
 title: 16叶
 ---
 
-![](https://github.com/ZhongLingyuxiu1028/sodaguide/assets/42133014/2812d7bf-333a-4b09-9793-4c7c8f08701b)
+![](../../.vuepress/images/wqf-c202001-shiliuye.png)
 
 ## 《16叶》缘起
 

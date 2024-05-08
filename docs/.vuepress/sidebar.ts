@@ -80,6 +80,7 @@ export default {
             "a04_peiwogechang",
             "a05_shinianyike",
             "a06_nizaifannaoshenme",
+            "a07_chunriguang",
           ],
         },
         {
