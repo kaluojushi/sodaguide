@@ -2,7 +2,7 @@
 title: 🎼 KUNG's vol.1
 ---
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/128445492_217378659758667_1709050157589107238_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=witnrF3dQnoAb5uakwt&_nc_ht=scontent-nrt1-1.xx&oh=00_AfDiFBkfH84_F8HsVstkPMifk9IdZjbHiRHz8aCgfvaUSA&oe=663F51ED)
+![](../../.vuepress/images/kung-s01-kungsvol1.jpg)
 
 ::: tip 发行信息
 

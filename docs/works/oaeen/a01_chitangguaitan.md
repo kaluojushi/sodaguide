@@ -2,7 +2,7 @@
 title: ♨️ 池堂怪谈
 ---
 
-![](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/241519052_360917702356264_3598637022098831804_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YnNsDdo29LUAb5IavN-&_nc_ht=scontent-hkg4-2.xx&oh=00_AfCBO0VQD1W7jqc2oh0z62Vvj-6zimgeoJLCJEYSVoVHDQ&oe=661D84CF)
+![](../../.vuepress/images/oaeen-a01-chitangguaitan.jpg)
 
 ::: tip 发行信息
 

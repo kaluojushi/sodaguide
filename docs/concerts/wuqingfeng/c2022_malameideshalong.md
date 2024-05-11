@@ -2,7 +2,7 @@
 title: 马拉美的沙龙
 ---
 
-![](https://i.ytimg.com/vi/U70CGZ7LT3w/maxresdefault.jpg)
+![](../../.vuepress/images/wqf-c2022-malameideshalong.jpg)
 
 **《马拉美的沙龙》LIVE @ 卫武营**
 

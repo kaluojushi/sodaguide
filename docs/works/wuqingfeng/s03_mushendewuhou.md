@@ -2,7 +2,7 @@
 title: 🪈 牧神的午后
 ---
 
-![](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.30808-6/295271015_612917163528069_8135843408418580517_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YqJAtayLZA4Ab6KkKqQ&_nc_ht=scontent-hkg4-2.xx&oh=00_AfBr7O7k5u-UkQWBXWCSv7P35A_irsO4ldjWu2ICnKYs_g&oe=661DD8E5)
+![](../../.vuepress/images/wqf-s03-mushendewuhou.jpg)
 
 ::: tip 发行信息
 
@@ -166,6 +166,14 @@ Lift me up <br/>
 Forgive me earth <br/>
 I’m going away
 
+- [MV制作](https://weibo.com/1822796164/LySzQEWv8)
+- [MV花絮1](https://weibo.com/1822796164/LzbqQo9MI)
+- [MV花絮2](https://weibo.com/1822796164/LzmqKgLur)
+- [MV花絮3](https://weibo.com/1822796164/LzmCVduj1)
+- [MV花絮4](https://weibo.com/1822796164/LzmP6sWEf)
+- [MV花絮 - 雪地篇](https://weibo.com/1822796164/LzG4sb6sh)
+- [MV花絮 - 制作人追星篇](https://weibo.com/1822796164/LzYVsuBfn)
+
 ::: details 制作信息
 
 作词 : 吴青峰/AURORA/Glen Roberts/Magnus Skylstad/叶玫君 Mei Yeh/陈君豪 <br/>
@@ -237,13 +245,6 @@ BTS Videographer: April Lee
 
 :::
 
-- [MV制作](https://weibo.com/1822796164/LySzQEWv8)
-- [MV花絮1](https://weibo.com/1822796164/LzbqQo9MI)
-- [MV花絮2](https://weibo.com/1822796164/LzmqKgLur)
-- [MV花絮3](https://weibo.com/1822796164/LzmCVduj1)
-- [MV花絮4](https://weibo.com/1822796164/LzmP6sWEf)
-- [MV花絮 - 雪地篇](https://weibo.com/1822796164/LzG4sb6sh)
-- [MV花絮 - 制作人追星篇](https://weibo.com/1822796164/LzYVsuBfn)
 
 ### 02 A Wanderer In The Sleeping City（吴青峰 × 洛福斯・温莱特 Rufus Wainwright）
 
@@ -277,6 +278,10 @@ Walking at the break of dawn  <br/>
 Everything is boarded up  <br/>
 I remember that boutique and  <br/>
 That theatrical bookshop
+
+- [关于这首歌1](https://weibo.com/1822796164/LCUr1htIU)
+- [关于这首歌2](https://weibo.com/1822796164/LCZTXu9ed)
+- [录音花絮](https://weibo.com/1822796164/LD8xKrDhD)
 
 ::: details 制作信息
 
@@ -331,9 +336,6 @@ Rufus Wainwright appears courtesy of BMG Rights Management (US) LLC. <br/>
 
 :::
 
-- [关于这首歌1](https://weibo.com/1822796164/LCUr1htIU)
-- [关于这首歌2](https://weibo.com/1822796164/LCZTXu9ed)
-- [录音花絮](https://weibo.com/1822796164/LD8xKrDhD)
 
 ### 03 哥伦布的蛋（吴青峰 × Robin Guthrie）
 
@@ -383,6 +385,8 @@ Rufus Wainwright appears courtesy of BMG Rights Management (US) LLC. <br/>
 （看前方） <br/>
 他说心是圆的 是圆的
 
+- [关于这首歌](https://weibo.com/1822796164/LDmIvhcsE)
+
 ::: details 制作信息
 
 作词 : 吴青峰/Robin Guthrie
@@ -398,7 +402,6 @@ Rufus Wainwright appears courtesy of BMG Rights Management (US) LLC. <br/>
 
 :::
 
-- [关于这首歌](https://weibo.com/1822796164/LDmIvhcsE)
 
 ### 04  Storm (English Version)（吴青峰 × 欧若拉 Aurora）
 

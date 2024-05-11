@@ -17,6 +17,7 @@ title: 作品
 4. 2023-02-17 | [陪我歌唱（苏打绿版）](albums/a04_peiwogechang)
 5. 2024-01-26 | [十年一刻（苏打绿版）](albums/a05_shinianyike)
 6. 2024-01-26 | [你在烦恼什么（苏打绿版）](albums/a06_nizaifannaoshenme)
+7. 2024-05-30 | [春·日光（苏打绿版）](albums/a07_chunriguang)
 
 ### 单曲 EP
 
@@ -32,6 +33,11 @@ title: 作品
 10. 2016-12-30 | [我赖你]()
 11. 2020-02-24 | [Tomorrow will be fine.]()           
 
+### 二十年一刻
+
+1. 你不需要多完美（@香港）
+2. 原汁原味（@杭州）
+3. 吟游（@成都）
 
 ## 🐟鱼丁糸
 
@@ -61,6 +67,31 @@ title: 作品
 1. 2018-05-24 | [Everybody Woohoo](wuqingfeng/s01_everybodywoohoo)
 2. 2019-12-06 | [窥／寂寞的时候](wuqingfeng/s02_kuijimodeshihou)
 3. 2022-07-22 | [牧神的午后](wuqingfeng/s03_mushendewuhou)
+
+### 创作 | 个人单曲
+
+_（注：不包括个人专辑先行曲以及 EP 曲目）_
+
+| 序号 |    发行日期    | 曲目名称                                             |  合作者  |
+|:--:|:----------:|--------------------------------------------------|:-----:|
+| 01 | 2010-09-06 | [剑雨浮生](wuqingfeng/w01_jianyufusheng)             |  萨顶顶  |
+| 02 | 2014-05-15 | [跟着你到天边](wuqingfeng/w02_genzhenidaotianbian)     |   -   |
+| 03 | 2018-06-19 | [窗](wuqingfeng/w03_chuang)                       |   -   |
+| 04 | 2018-08-03 | [请听](wuqingfeng/w04_qingting)                    |   -   |
+| 05 | 2018-10-11 | [宝贝儿](wuqingfeng/w05_baobeier)                   |   -   |
+| 06 | 2019-01-11 | [起风了](wuqingfeng/w06_qifengle)                   |   -   |
+| 07 | 2019-02-27 | [蜂鸟](wuqingfeng/w07_fengniao)                    |   -   |
+| 08 | 2019-04-13 | [歌颂者](wuqingfeng/w08_gesongzhe)                  |   -   |
+| 09 | 2019-05-20 | [作为怪物](wuqingfeng/w09_zuoweiguaiwu)              |  李宇春  |
+| 10 | 2019-11-07 | [我在原地等你](wuqingfeng/w10_wozaiyuandidengni)       |   -   |
+| 11 | 2020-02-18 | [你的影子是我的海](wuqingfeng/w11_nideyingzishiwodehai)  |  王小苗  |
+| 12 | 2020-05-15 | [再也不见](wuqingfeng/w12_zaiyebujian)               |  黄玠玮  |
+| 13 | 2020-07-23 | [红色的河](wuqingfeng/w13_hongsedehe)                |  旅行团  |
+| 14 | 2020-12-02 | [如果声音不记得](wuqingfeng/w14_ruguoshengyinbujide)    |   -   |
+| 15 | 2020-12-25 | [崖上的波妞](wuqingfeng/w15_yashangdeboniu)           | Lucky |
+| 16 | 2020-12-31 | [故宫·印记](wuqingfeng/w16_gugongyinji)              |   -   |
+| 17 | 2021-01-25 | [不苦](wuqingfeng/w17_buku)                        |   -   |
+| 18 | 2023-06-08 | [我们都拥有海洋](wuqingfeng/w18_womendouyongyouhaiyang) |   -   |
 
 ### Live 单曲
 

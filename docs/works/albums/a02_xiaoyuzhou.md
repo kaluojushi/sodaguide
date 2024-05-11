@@ -2,7 +2,7 @@
 title: 2️⃣ 小宇宙（苏打绿版）
 ---
 
-![](https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/409201869_736894028464512_2727379838050604895_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3dZaFBd9ncQAb6mqixY&_nc_ht=scontent-hkg1-1.xx&oh=00_AfB4kiM2xJSDGoI_VolY2zf2ZZMVCIohxuYkk25Cc2lGLg&oe=661D5D6A)
+![](../../.vuepress/images/sodagreen-s02-xiaoyuzhou.jpg)
 
 ::: tip 发行信息
 

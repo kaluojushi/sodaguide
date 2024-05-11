@@ -2,7 +2,7 @@
 title: 🪄 太棒了！我一无是处的人生
 ---
 
-![](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/387178815_874318190931935_4316002486548431095_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VieoJoIYpCYAb5BSn8i&_nc_ht=scontent-nrt1-1.xx&oh=00_AfDJ3LUKebsaW7bSKlSxRiUtqgQXTam0zUrsFcGMbqwP-Q&oe=661DC4DB)
+![](../../.vuepress/images/kay-a01-taibangle.jpg)
 
 ::: tip 发行信息
 

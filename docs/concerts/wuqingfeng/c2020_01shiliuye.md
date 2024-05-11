@@ -2,11 +2,7 @@
 title: 16叶
 ---
 
-::: note 施工中……
-
-:::
-
-![](https://github.com/ZhongLingyuxiu1028/sodaguide/assets/42133014/2812d7bf-333a-4b09-9793-4c7c8f08701b)
+![](../../.vuepress/images/wqf-c202001-shiliuye.png)
 
 ## 《16叶》缘起
 
@@ -26,7 +22,8 @@ title: 16叶
 
 ### 番外：〈三个爱人〉
 
-待完善……
+- [【吴青峰】长达十年的计程车歌名之谜终于得到解答！小吴追星成功√](https://www.bilibili.com/video/BV1xN411o7Bg/)
+- [【吴青峰】客串小热唱〈三个爱人〉MV （up：吴青峰新人站）](https://www.bilibili.com/video/BV1dr4y1K7d2/)
 
 ## 《16叶》线上演唱会
 
@@ -35,22 +32,22 @@ title: 16叶
 - [酷狗音乐](https://mfanxing.kugou.com/cterm/program_subject/m/views/index.html/4836?h5inx5=1&source=26&outBookSource=26)
   （从 01:00:40 开始是正片）
 - QQ音乐： 
-  1. 〈费洛蒙小姐〉
-  2. 〈我会 我会〉
-  3. 〈沙滩上的佛洛一德〉
-  4. 〈最难的是相遇〉
-  5. 〈阿兹海默〉
-  6. 〈穿墙人〉
-  7. 〈柔软〉
-  8. 〈低低星垂〉
-  9. 〈歌颂者〉
-  10. 〈一点点〉
-  11. 〈迷幻〉
-  12. 〈别找我麻烦〉
-  13. 〈蔓延〉feat.黄玠玮
-  14. 〈再也不见〉feat.黄玠玮
-  15. 〈你的影子是我的海〉
-  16. 〈太空人〉
+  1. [〈费洛蒙小姐〉](https://y.qq.com/n/ryqq/mv/d0035xhby29)
+  2. [〈我会 我会〉](https://y.qq.com/n/ryqq/mv/u0035cchs37)
+  3. [〈沙滩上的佛洛一德〉](https://y.qq.com/n/ryqq/mv/g0035497w2j)
+  4. [〈最难的是相遇〉](https://y.qq.com/n/ryqq/mv/n0035ihn3hy)
+  5. [〈阿兹海默〉](https://y.qq.com/n/ryqq/mv/j0035ggwwxp)
+  6. [〈穿墙人〉](https://y.qq.com/n/ryqq/mv/o0035wwopti)
+  7. [〈柔软〉](https://y.qq.com/n/ryqq/mv/h0035o1awej)
+  8. [〈低低星垂〉](https://y.qq.com/n/ryqq/mv/a00359all1p)
+  9. [〈歌颂者〉](https://y.qq.com/n/ryqq/mv/q0035whq9mw)
+  10. [〈一点点〉](https://y.qq.com/n/ryqq/mv/n00356z2nmr)
+  11. [〈迷幻〉](https://y.qq.com/n/ryqq/mv/e00358evcf2)
+  12. [〈别找我麻烦〉](https://y.qq.com/n/ryqq/mv/m0035r7vz9l)
+  13. [〈蔓延〉feat.黄玠玮](https://y.qq.com/n/ryqq/mv/l0035jhd92w)
+  14. [〈再也不见〉feat.黄玠玮](https://y.qq.com/n/ryqq/mv/y0035ct5rij)
+  15. [〈你的影子是我的海〉](https://y.qq.com/n/ryqq/mv/x0035q9wao7)
+  16. [〈太空人〉](https://y.qq.com/n/ryqq/mv/o0035u96b8r)
 
 ::: info 观看平台
 
