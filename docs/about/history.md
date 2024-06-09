@@ -9,7 +9,7 @@ title: 更新历史
 
 **2024-01-11**，[二十年一刻香港站团票答题总结（2024）](/concerts/answer/20yike-hk-tp) 上线。
 
-**2024-01-07**，[苏打绿二十年一刻巡回演唱会香港站专栏](/news/20yike) 上线。
+**2024-01-07**，[苏打绿二十年一刻巡回演唱会专栏](/news/20yike) 上线。
 
 **2023-12-24**，更新了苏打绿相关纠纷资料，包括 [著作权](/start/sodagreen/copyright)、[商标权](/start/sodagreen/trademark) 和 [经纪合约](/start/sodagreen/agent)。
 

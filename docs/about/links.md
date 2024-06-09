@@ -11,9 +11,14 @@ title: 推荐链接
 
 :::
 
+## 苏打绿官方
+
+- [苏打绿官方网站](https://www.sodagreen.com/)：苏打绿官方网站
+
 ## 粉丝制作
 
 - [Sodagreen歌词本](https://docs.qq.com/aio/DVXhDQlBzQndVQ05o)：楊树早老师的作品
+- [蘇打綠二十年一刻巡迴演唱會 歌單](https://docs.qq.com/sheet/DVXdGTUloT212d0lC?tab=BB08J2)：楊树早老师的作品 again
 
 ## b 站 up 主
 
@@ -22,6 +27,7 @@ title: 推荐链接
 ### 入站必看
 
 - [吴青峰](https://space.bilibili.com/672600531)：吴青峰本人
+- [蘇打綠二十年一刻巡演](https://space.bilibili.com/3546653889923355)：苏打绿二十年一刻巡回演唱会官方账号
 - [吴青峰新人站](https://space.bilibili.com/346969784)：吴青峰新人站
 - [绿人村](https://space.bilibili.com/43195264)：苏打绿绿人村
 
@@ -31,8 +37,11 @@ title: 推荐链接
 - [涅槃彩虹](https://space.bilibili.com/299615534)：【复刻双声道对比】系列作者
 - [Erikaの唄](https://space.bilibili.com/5630471)：吴青峰相关合集资源
 - [roro小R君](https://space.bilibili.com/34979141)：多场次 live & MV 混剪
+- [-VanGogh-](https://space.bilibili.com/939387)：梵高老师的 After Summer 录屏拯救了无数考古人
 - [槐序序序](https://space.bilibili.com/1715516)：2015 年左右的资源
 - [陳菊花2](https://space.bilibili.com/11018265)：苏打绿考古合集，很多早期音源试听
+- [野生老树-dfls版](https://space.bilibili.com/14492268)：楊树早老师，内有苏打绿二十年一刻巡演歌单
+- [空视幻Exocoetidae](https://space.bilibili.com/8495567)：纯人声制作
 
 ### 解读与创作
 
@@ -45,3 +54,6 @@ title: 推荐链接
 - [ByzantineBass](https://space.bilibili.com/219006132)：很厉害的贝斯手，翻弹了很多苏打绿的歌曲
 - [King_同学](https://space.bilibili.com/47459662)：吉他弹唱
 - [我是肘子啊](https://space.bilibili.com/33972127)：吉他弹唱
+- [watermelonCHANZ](https://space.bilibili.com/33698414)：西瓜老师，吉他翻弹
+- [蘇打蓋](https://space.bilibili.com/2030589714)：与本站同名的 up 主，吉他弹唱
+- [-chiugo-](https://space.bilibili.com/446173771)：吉他弹唱
