@@ -21,15 +21,13 @@ actions:
     link: /resources/
   - text: 苏打资讯📰
     link: /news/
-  - text: 演唱会杭州站（4.13-4.14）🎤
-    link: /news/20yike.html#杭州站专栏
-  - text: 演唱会成都站（5.4-5.5）🎤
-    link: /news/20yike.html#成都站专栏
-  - text: 演唱会郑州站（5.18-5.19）🎤
-    link: /news/20yike.html#郑州站专栏
+  - text: 二十年一刻🎤
+    link: /news/20yike
+  - text: 演唱会北京站（6.22-6.23）🎤
+    link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
-    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>
+    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
@@ -38,18 +36,10 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【杭州站】专栏
+      - title: 【北京站】
         icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 04 月 13 日、2024 年 04 月 14 日<br><b>地点：</b>杭州奥体中心体育馆<br><b>演出信息：</b>04 月 13 日、04 月 14 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 03 月 12 日 12:18；2024 年 03 月 23 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/20yike.html#杭州站专栏
-      - title: 【成都站】专栏
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 05 月 04 日、2024 年 05 月 05 日<br><b>地点：</b>成都凤凰山体育公园综合体育馆<br><b>演出信息：</b>05 月 04 日、05 月 05 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 04 月 01 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/20yike.html#成都站专栏
-      - title: 【郑州站】专栏
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 05 月 18 日、2024 年 05 月 19 日<br><b>地点：</b>郑州奥体中心体育馆<br><b>演出信息：</b>05 月 18 日、05 月 19 日每晚 19:30 开始<br><b>开票时间：</b>2024 年 04 月 12 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/20yike.html#郑州站专栏
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 06 月 22 日、2024 年 06 月 23 日<br><b>地点：</b>北京华熙 LIVE·五棵松<br><b>演出信息：</b>06 月 22 日、06 月 23 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 05 月 27 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
       - title: 巡演 11 城官宣
         icon: news
         details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
@@ -63,59 +53,27 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2024-04-13、2024-04-14】苏打绿二十年一刻巡回演唱会杭州站 - 苏打绿
+      - title: 【2024-06-22、2024-04-23】苏打绿二十年一刻巡回演唱会北京站 - 苏打绿
         icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 04 月 13 日、2024 年 04 月 14 日<br><b>地点：</b>杭州奥体中心体育馆<br><b>演出信息：</b>04 月 13 日、04 月 14 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 03 月 12 日 12:18；2024 年 03 月 23 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/perform.html#【2024-04-13、2024-04-14】苏打绿二十年一刻巡回演唱会杭州站-苏打绿
-      - title: 【2024-05-04、2024-05-05】苏打绿二十年一刻巡回演唱会成都站 - 苏打绿
-        icon: square-two
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 05 月 04 日、2024 年 05 月 05 日<br><b>地点：</b>成都凤凰山体育公园综合体育馆<br><b>演出信息：</b>05 月 04 日、05 月 05 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 04 月 01 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/perform.html#【2024-05-04、2024-05-05】苏打绿二十年一刻巡回演唱会成都站-苏打绿
-      - title: 【2024-05-18、2024-05-19】苏打绿二十年一刻巡回演唱会郑州站 - 苏打绿
-        icon: square-three
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 05 月 18 日、2024 年 05 月 19 日<br><b>地点：</b>郑州奥体中心体育馆<br><b>演出信息：</b>05 月 18 日、05 月 19 日每晚 19:30 开始<br><b>开票时间：</b>2024 年 04 月 12 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/perform.html#【2024-05-18、2024-05-19】苏打绿二十年一刻巡回演唱会郑州站-苏打绿
-  - header: 【复刻 5、6 消息合集】
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke56.jpg
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 06 月 22 日、2024 年 06 月 23 日<br><b>地点：</b>北京华熙 LIVE·五棵松<br><b>演出信息：</b>06 月 22 日、06 月 23 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 05 月 27 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
+  - header: 【韦瓦第复刻消息合集】
+    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
+    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
+    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑 2024.01.26 正式上线！
-        icon: mask
-        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
-        link: https://y.qq.com/n/ryqq/albumDetail/001n1pFB23z69R
-      - title: 苏打绿《你在烦恼什么（苏打绿版）》复刻专辑 2024.01.26 正式上线！
-        icon: sad
-        details: <b>2023.01.26 00:00</b> 全平台数位上线<br><b>2024.02.02</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
-        link: https://y.qq.com/n/ryqq/albumDetail/002ZwYuK2mlcJA
-      - title: 苏打绿〈你被写在我的歌里（苏打绿版）〉MV 2024.01.26 正式上线！
-        icon: bilibili
-        details: <b>2023.01.26 00:00</b> MV 同步上线<br><b>点击进入 b 站收看链接</b>
-        link: https://www.bilibili.com/video/BV1ow411j7oX/
-      - title: 苏打绿《十年一刻（苏打绿版）》《你在烦恼什么（苏打绿版）》全专 MV 2024.02.02 正式上线！
-        icon: bilibili
-        details: <b>2023.02.02</b> 复刻专辑实体发行<br><b>12:00</b> 全专 MV 同步上线<br><b>点击进入 b 站收看链接</b>
-        link: https://space.bilibili.com/346969784/channel/collectiondetail?sid=2006671
-      - title: 苏打绿《十年一刻（苏打绿版）》复刻专辑仍在火热预购中！
-        icon: mask
-        details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 梦幻重制 In Summer 下半场精选曲目<br>预购超值赠品：20 周年苏打志 Vol. 1<br><b>即日起</b> 仍在预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
-        link: https://umg.lnk.to/GBEETuEo
-      - title: 苏打绿《你在烦恼什么（苏打绿版）》复刻专辑仍在火热预购中！
-        icon: sad
-        details: 二十年的片刻，灿烂我们的永恒<br>双 CD<br>CD1 全新录制原有专辑经典曲目<br>CD2 惊喜重制演唱会经典曲目<br>预购超值赠品：20 周年苏打志 Vol. 2<br><b>即日起</b> 仍在预购<br><b>2024.02.02</b> 正式发行<br><b>点击进入苏打绿官方预购链接</b>
-        link: https://umg.lnk.to/wyuaQGGV
-      - title: 苏打绿〈十年一刻（苏打绿版）〉单曲上线！
-        icon: music
-        details: 二十年执着，欢庆我们这一刻<br><b>2023 年 12 月 15 日 10:00</b><br>单曲、MV 同步上线<br><b>点击进入 QQ 音乐收听链接</b>
-        link: https://y.qq.com/n/ryqq/songDetail/457250902
-      - title: 苏打绿〈控制狂（苏打绿版）〉单曲上线！
-        icon: music
-        details: WOW~~~巔覆你的狂想！<br><b>2023 年 12 月 22 日 00:00</b><br>MV、单曲，同步上线一起狂！<br><b>点击进入 QQ 音乐收听链接</b>
-        link: https://y.qq.com/n/ryqq/songDetail/458883175
+      - title: 苏打绿《春·日光（苏打绿版）》复刻专辑 CD1 2024.05.03 正式上线！
+        icon: sapling
+        details: <b>2024.05.03 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/002TEKZP47Kl3j
+      - title: 苏打绿《春·日光（苏打绿版）》复刻专辑 CD2 2024.05.30 苏打绿日正式上线！
+        icon: sapling
+        details: <b>2024.05.30 00:00</b> 全平台数位上线<br><b>同日</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/002TEKZP47Kl3j
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen.html#复刻计划"><b>什么是复刻计划？</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg

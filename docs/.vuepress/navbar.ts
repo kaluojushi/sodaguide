@@ -180,6 +180,11 @@ export default [
             icon: 'xiaohongshu',
             link: 'https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c',
           },
+          {
+            text: 'Bilibili',
+            icon: 'bilibili',
+            link: 'https://space.bilibili.com/3546653889923355',
+          },
         ],
       },
     ],
