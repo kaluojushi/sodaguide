@@ -21,17 +21,19 @@ title: 歌名的英文
 
 ## 《飞鱼》 Flying Fish
 
-〈飞鱼 (弦乐版)〉 Flying Fish (String Version)
+〈飞鱼 (弦乐版)〉 Flying Fish (Intro)
 
-〈飞鱼〉 Flying Fish
+〈飞鱼〉 Flying Fish (Rock Version)
 
 〈飞鱼 (The Voice Remix)〉 Flying Fish (The Voice Remix)
 
-〈飞鱼 (弦乐四重奏版)〉 Flying Fish (String Quartet Version)
+〈飞鱼 (弦乐四重奏版)〉 Flying Fish (Orchestral Version)
 
 ::: info 提示
 
 「飞鱼」的翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
+
+各版本的翻译由 Apple Music 海外版给出。
 
 :::
 
@@ -299,37 +301,57 @@ title: 歌名的英文
 
 :::
 
-## 《春·日光》 Spring·Sunlight
+## 《春·日光》／《春·日光（苏打绿版）》 Spring·Daylight
+
+### 《春·日光》／《春·日光（苏打绿版）》CD1
 
 〈融雪之前〉 Before the Snow Melts
 
-〈牧神搭上春色的火车，而〉 Faun Boards the Train of Spring, and
+〈牧神搭上春色的火车，而〉 Pan Rides the Train in Spring Color, And
 
-〈日光〉 Sunlight
+〈日光〉 The Daylight
 
-〈在我们之间〉 Between Us
+〈在我们之间〉 Sets Between Us
 
-〈配乐 1〉 Train
+〈配乐 1／·〉
 
-〈各站停靠〉 Stop at Each Station
+〈各站停靠：〉 The Following Stops Are:
 
 〈一千座喷泉〉 A Thousand Fountains
 
-〈交响梦〉 Symphonic Dream
+〈交响梦〉 Symphonic Dreams
 
-〈异次元的玫瑰〉 Rose from Another Dimension
+〈异次元的玫瑰〉 The Rose in Another Dimension
 
-〈配乐 2〉 Crazy Piano
+〈配乐 2／··〉
 
-〈嬉戏之后〉 After the Play
+〈嬉戏之后〉 After the Frolic Ends
 
-〈早点回家〉 Go Home Early
+〈早点回家〉 Hurry Home
+
+### 《春·日光（苏打绿版）》CD2
+
+〈海洋〉 Ocean
+
+〈月亮使者〉 Moon Messenger
+
+〈原谅〉 Forgive
+
+〈わすれない〉 Mindful
+
+〈九月〉 September
+
+〈美错〉 A Beautiful Mistake
+
+〈天地记〉 Ha Ha Li Li
+
+〈The Rose〉
+
+〈Love Is Everything〉
 
 ::: info 提示
 
-以上翻译非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
-
-〈配乐 1〉和〈配乐 2〉的翻译来自 [该视频](https://www.bilibili.com/video/BV1vM4y1o7zG/)。
+以上翻译由苏打绿在《春·日光（苏打绿版）》MV 和 Apple Music 海外版给出。
 
 :::
 
@@ -767,7 +789,7 @@ title: 歌名的英文
 
 〈再也不见〉 You Hurt Me Deeply
 
-〈红色的河〉 Red River
+〈红色的河〉 The Red River
 
 ::: info 提示
 
@@ -776,6 +798,8 @@ title: 歌名的英文
 「窥（20 周年版）」「寂寞的时候」「再也不见」的翻译来自各自 MV。
 
 「你的影子是我的海」的翻译来自 [〈你的影子是我的海〉官方试听网站](https://myshadow-myshelter.com/)。
+
+「红色的河」的翻译来自 Apple Music 海外版。
 
 :::
 
@@ -881,7 +905,7 @@ title: 歌名的英文
 
 :::
 
-## 《牧神的午后》 Afternoon of the Faun
+## 《牧神的午后》 L'Après-midi d'un faune
 
 〈Storm〉
 
@@ -945,9 +969,19 @@ title: 歌名的英文
 
 〈你不需要多完美〉 You don't have to be perfect.
 
+〈原汁原味 (2024 二十年一刻版)〉 Original Flavor
+
+〈HEY! GO! (2021 峰洋 Soulmate 版)〉 HEY! GO!
+
+〈不顾一切 (2014 十年前那一刻 Demo)〉 Can't Stop
+
+〈元气满载 (2004 二十年前那一刻 Demo)〉 Full Power
+
+〈黎明前最暗时候〉 Darkness Before the Dawn
+
 ::: info 提示
 
-以上翻译由苏打绿在二十年一刻单曲计划 MV 中给出。
+以上翻译由苏打绿在二十年一刻单曲计划 MV 和 Apple Music 海外版给出。
 
 :::
 

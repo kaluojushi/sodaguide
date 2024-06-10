@@ -65,6 +65,7 @@ export default {
   ],
   "/works/": [
     "",
+    "english",
     {
       text: "💚苏打绿",
       collapsible: false,
@@ -88,7 +89,6 @@ export default {
           prefix: "singles",
           collapsible: true,
           children: [
-            "english",
             "air",
           ],
         },
