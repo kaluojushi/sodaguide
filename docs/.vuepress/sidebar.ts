@@ -304,6 +304,17 @@ export default {
         "club",
       ],
     },
+    {
+      text: "苏打故事线",
+      icon: "storylines",
+      prefix: "storylines",
+      collapsible: false,
+      children: [
+        "date",
+        "city",
+        "number",
+      ],
+    }
   ],
   "/resources/": [
     "",
