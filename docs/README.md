@@ -25,6 +25,10 @@ actions:
     link: /news/20yike
   - text: 演唱会北京站（6.22-6.23）🎤
     link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
+  - text: 演唱会武汉站（7.20-7.21）🎤
+    link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
+  - text: 演唱会重庆站（8.17-8.18）🎤
+    link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
@@ -40,6 +44,14 @@ highlights:
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 06 月 22 日、2024 年 06 月 23 日<br><b>地点：</b>北京华熙 LIVE·五棵松<br><b>演出信息：</b>06 月 22 日、06 月 23 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 05 月 27 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
         link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
+      - title: 【武汉站】
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 07 月 20 日、2024 年 07 月 21 日<br><b>地点：</b>武汉光谷国际网球中心<br><b>演出信息：</b>07 月 20 日、07 月 21 日每晚 19:30 开始<br><b>开票时间：</b>暂无<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
+      - title: 【重庆站】
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 17 日、2024 年 08 月 18 日<br><b>地点：</b>重庆华熙 LIVE·鱼洞<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 06 月 15 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、纷玩岛
+        link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
       - title: 巡演 11 城官宣
         icon: news
         details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
@@ -57,6 +69,14 @@ highlights:
         icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 06 月 22 日、2024 年 06 月 23 日<br><b>地点：</b>北京华熙 LIVE·五棵松<br><b>演出信息：</b>06 月 22 日、06 月 23 日每晚 19:00 开始<br><b>开票时间：</b>2024 年 05 月 27 日 12:18<br><b>票价：</b>380/580/780/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
         link: /news/perform.html#【2024-06-22、2024-06-23】苏打绿二十年一刻巡回演唱会北京站-苏打绿
+      - title: 【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站 - 苏打绿
+        icon: square-two
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 07 月 20 日、2024 年 07 月 21 日<br><b>地点：</b>武汉光谷国际网球中心<br><b>演出信息：</b>07 月 20 日、07 月 21 日每晚 19:30 开始<br><b>开票时间：</b>暂无<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
+        link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
+      - title: 【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站 - 苏打绿
+        icon: square-three
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 17 日、2024 年 08 月 18 日<br><b>地点：</b>重庆华熙 LIVE·鱼洞<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 06 月 15 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、纷玩岛
+        link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
   - header: 【韦瓦第复刻消息合集】
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
