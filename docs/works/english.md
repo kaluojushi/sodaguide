@@ -103,6 +103,8 @@ title: 歌名的英文
 
 以上翻译由苏打绿在《同名专辑（苏打绿版）》MV 中给出。
 
+在《同名专辑（苏打绿版）》和《陪我歌唱（苏打绿版）》中〈蜘蛛天空〉的翻译有细微差别。
+
 :::
 
 ## 《迟到千年》 Thousand Years Late
@@ -117,13 +119,13 @@ title: 歌名的英文
 
 :::
 
-## 《小宇宙》／《小宇宙（苏打绿版）》 Little Universe
+## 《小宇宙》／《小宇宙（苏打绿版）》 Microcosmos
 
 ### 《小宇宙》／《小宇宙（苏打绿版）》CD1
 
 〈You Are, You Will〉
 
-〈小宇宙〉 Little Universe
+〈小宇宙〉 Microcosmos
 
 〈小情歌〉 Little Love Song
 
@@ -159,7 +161,7 @@ title: 歌名的英文
 
 〈小天使〉 Little Angel
 
-〈心情电梯〉 Mood Elevator
+〈心情电梯〉 Escalating Mood
 
 〈Leave Me Alone〉
 
@@ -167,7 +169,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译除〈小宇宙〉〈心情电梯〉外由苏打绿在《小宇宙（苏打绿版）》MV 中给出。
+以上翻译由苏打绿在《小宇宙（苏打绿版）》MV 和 Apple Music 海外版给出。
 
 :::
 
@@ -313,7 +315,7 @@ title: 歌名的英文
 
 〈在我们之间〉 Sets Between Us
 
-〈配乐 1／·〉
+〈配乐 - 1〉／〈·〉
 
 〈各站停靠：〉 The Following Stops Are:
 
@@ -323,7 +325,7 @@ title: 歌名的英文
 
 〈异次元的玫瑰〉 The Rose in Another Dimension
 
-〈配乐 2／··〉
+〈配乐 - 2〉／〈··〉
 
 〈嬉戏之后〉 After the Frolic Ends
 
@@ -352,6 +354,8 @@ title: 歌名的英文
 ::: info 提示
 
 以上翻译由苏打绿在《春·日光（苏打绿版）》MV 和 Apple Music 海外版给出。
+
+在《十年一刻（苏打绿版）》和《春·日光（苏打绿版）》中〈日光〉的翻译有细微差别。
 
 :::
 
@@ -440,6 +444,8 @@ title: 歌名的英文
 ::: info 提示
 
 以上翻译由苏打绿在《十年一刻（苏打绿版）》MV 中给出。
+
+在《十年一刻（苏打绿版）》和《春·日光（苏打绿版）》中〈日光〉的翻译有细微差别。
 
 :::
 
@@ -531,19 +537,19 @@ title: 歌名的英文
 
 〈从一片落叶开始〉 Starting from a Fallen Leaf
 
-〈Interlude 1〉
+〈Interlude 1〉／〈—〉
 
 〈独处的时候〉 When I'm Alone
 
 〈我好想你〉 I Miss You So
 
-〈Interlude 2〉
+〈Interlude 2〉／〈——〉
 
 〈偷闲的翅膀〉 Idle Wings
 
 〈天天晴朗〉 Sunny Everyday
 
-〈Interlude 3〉
+〈Interlude 3〉／〈———〉
 
 〈说了再见以后〉 After Saying Goodbye
 
@@ -551,7 +557,7 @@ title: 歌名的英文
 
 〈再遇见〉 Met Again
 
-〈Interlude 4〉
+〈Interlude 4〉／〈————〉
 
 〈拾穗〉 The Gleaners
 
@@ -793,7 +799,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译除〈窥（20 周年版）〉〈寂寞的时候〉〈你的影子是我的海〉〈再也不见〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译中「我在原地等你」非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
 
 「窥（20 周年版）」「寂寞的时候」「再也不见」的翻译来自各自 MV。
 
@@ -917,7 +923,7 @@ title: 歌名的英文
 
 以上翻译由吴青峰在《牧神的午后》EP 歌曲公布中给出。
 
-其中，「牧神的午后」青峰给出的是法语翻译「L'Après-midi d'un faune」。
+其中，「牧神的午后」青峰给出的是法语翻译「L'Après-midi d'un faune」，因为它取材于法国诗人斯特芳·马拉美的诗作《牧神的午后》。此处保留法语翻译。
 
 :::
 
