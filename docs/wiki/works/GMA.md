@@ -13,7 +13,15 @@ title: 金曲奖
 
 <BiliBili bvid="BV1rs41177oY" width="100%" />
 
+<https://www.bilibili.com/video/BV1rs41177oY>
+
 <BiliBili bvid="BV1o4411j71q" width="100%" />
+
+<https://www.bilibili.com/video/BV1o4411j71q>
+
+<BiliBili bvid="BV1fM4m167yR" width="100%" />
+
+<https://www.bilibili.com/video/BV1fM4m167yR>
 
 ## 第 17 届金曲奖（2006.6.10）
 
@@ -305,6 +313,10 @@ title: 金曲奖
 在第 34 届金曲奖颁奖典礼上，刘家凯作为颁奖嘉宾，为演奏类最佳作曲人奖、演奏类最佳专辑制作人奖、演奏类最佳专辑奖颁奖。
 
 ![第 34 届金曲奖，刘家凯作为颁奖嘉宾](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA34-2.jpg =600x)
+
+## 第 35 届金曲奖（2024.6.29）
+
+在第 35 届金曲奖颁奖典礼上，龚钰祺将作为表演嘉宾。
 
 ## 总结
 
