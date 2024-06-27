@@ -524,7 +524,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#00AC4D"><b>漂浮</b></td><td>1</td><td style="color:#AAA">被雨困住的城市</td><td></td></tr>
 <tr><td style="color:#8FC3C1"><b>频率</b></td><td>/</td><td style="color:#AAA">已经</td><td></td></tr>
 <tr><td style="color:#AAA">你喔！</td><td></td><td style="color:#000"><b>吵</b></td><td>1</td></tr>
-<tr><td style="color:#AAA">降落联系存在孪生基因</td><td></td><td style="color:#AAA">背着你</td><td></td></tr>
+<tr><td style="color:#AAA">降落练习存在孪生基因</td><td></td><td style="color:#AAA">背着你</td><td></td></tr>
 <tr><td style="color:#00AC4D"><b>相对论 IV</b></td><td>1</td><td style="color:#AAA">坠落</td><td></td></tr>
 <tr><td style="color:#AAA">窥</td><td></td><td style="color:#AAA">无言歌</td><td></td></tr>
 <tr><td style="color:#00AC4D"><b>空气中的视听与幻觉</b></td><td>2</td><td style="color:#000"><b>我的未来不是梦</b></td><td>1</td></tr>
