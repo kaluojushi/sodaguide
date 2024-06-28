@@ -656,10 +656,10 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 </thead>
 <tbody>
 <tr><td rowspan="3">香港</td><td>3.22</td><td>小威一家</td><td></td></tr>
-<tr><td>3.23</td><td></td><td></td></tr>
-<tr><td>3.24</td><td></td><td></td></tr>
+<tr><td>3.23</td><td>小威一家</td><td></td></tr>
+<tr><td>3.24</td><td>小威一家</td><td></td></tr>
 <tr><td rowspan="2">杭州</td><td>4.13</td><td>阿福一家</td><td>乃万</td></tr>
-<tr><td>4.14</td><td>阿福一家</td><td></td></tr>
+<tr><td>4.14</td><td>阿福一家</td><td>陈粒</td></tr>
 <tr><td rowspan="2">成都</td><td>5.4</td><td></td><td>郭涛</td></tr>
 <tr><td>5.5</td><td>吴妈妈</td><td>韦伟</td></tr>
 <tr><td rowspan="2">郑州</td><td>5.18</td><td></td><td></td></tr>
