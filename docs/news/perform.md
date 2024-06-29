@@ -34,7 +34,7 @@ title: 演出
 - **类型：** 演唱会
 - **时间：** 2024 年 08 月 03 日、2024 年 08 月 04 日
 - **地点：** [厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)
-- **演出信息：** 无
+- **演出信息：** 每晚 19:00 开始
 - **开票时间：** 无
 - **票价：** 480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退
 - **购票平台：** [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240803-esnyk-xm-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803442436900)
