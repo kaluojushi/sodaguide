@@ -985,6 +985,8 @@ title: 歌名的英文
 
 〈黎明前最暗时候〉 Darkness Before the Dawn
 
+〈梦〉 Dream
+
 ::: info 提示
 
 以上翻译由苏打绿在二十年一刻单曲计划 MV 和 Apple Music 海外版给出。
