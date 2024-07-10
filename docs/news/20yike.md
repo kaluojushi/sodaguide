@@ -314,7 +314,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>09</td><td><span>是我的海</span></td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="4"><span style="color:#F18E53">成都站（2024.5.4-5）</span><br><span style="color:#F18E53">吟游</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-30 盲盒</span>
+<tr><th colspan="4"><span style="color:#F18E53">成都站（2024.5.4-5.5）</span><br><span style="color:#F18E53">吟游</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-30 盲盒</span>
 </th></tr>
 </thead>
 <tbody>
