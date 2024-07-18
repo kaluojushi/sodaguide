@@ -3,7 +3,7 @@ icon: concert
 title: 苏打绿二十年一刻巡回演唱会专栏
 ---
 
-**此页面最后更新于：2024 年 7 月 10 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2024 年 7 月 18 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
@@ -47,7 +47,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 | **郑州** | 3.18（周一）12:18 |             4.12（周五）12:18             | 4.29（周一）12:18 |              约演出前一周持续回流              | 5.16（周四）12:00<br><span style="color:#00B8DE;font-weight:bold">#00B8DE</span> | 5.18-5.19（周六-日） |
 | **深圳** | 4.22（周一）12:19 |             5.9（周四）12:18              | 5.18（周六）12:18 |               约演出前一天回流               | 5.30（周四）12:09<br><span style="color:#767CBA;font-weight:bold">#767CBA</span> |  6.1-6.2（周六-日）  |
 | **北京** | 5.17（周五）12:33 |             5.27（周一）12:18             | 6.14（周五）12:18 | 6.22（周六）10:00 三开<br>6.23（周日）11:00 四开 | 6.20（周四）12:00<br><span style="color:#56BBC6;font-weight:bold">#56BBC6</span> | 6.22-6.23（周六-日） |
-| **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  |                                      |                                  *预计 7.18*                                   | 7.20-7.21（周六-日） |
+| **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  |                                      | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
 | **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             | *预计 7.25 左右*  |                                      |                                   *预计 8.1*                                   |  8.3-8.4（周六-日）  |
 | **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |  *预计 8.1 左右*  |                                      |                                  *预计 8.15*                                   | 8.17-8.18（周六-日） |
 | **广州** | *预计 7.20 左右*  |             *预计 7.30 左右*              | *预计 8.15 左右*  |                                      |                                  *预计 8.29*                                   | 8.31-9.1（周六-日）  |
@@ -216,7 +216,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td>吴青峰</td><td>吴青峰</td><td>苏打绿、钟承洋</td><td>钟承洋</td>
 <td>2024.6.28</td><td>写于青峰大学期间</td>
 </tr>
-<tr style="color:#000">
+<tr style="color:#55B770">
 <td>2024.7.20-7.21</td><td>武汉</td><td></td>
 <td></td><td></td><td></td><td></td>
 <td></td><td></td>
@@ -416,6 +416,34 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>06</td><td><span>笑闹人间</span></td><td><i>13 号，青峰 ft. 小威</i></td></tr>
 <tr><td>07</td><td><span>黑猫白猫</span></td><td><i>1 号</i></td></tr>
 <tr><td>08</td><td><span>左边</span></td><td><i>9 号，只唱了副歌</i></td></tr>
+</tbody>
+<thead>
+<tr><th colspan="4"><span style="color:#55B770">武汉站（2024.7.20-7.21）</span><br><span style="color:#55B770"><i>待揭晓</i></span><br><span style="font-weight:normal;font-style:italic">点歌形式：待揭晓</span>
+</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="10">7.20</td><td>01</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>03</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span></span></td><td><i></i></td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="10">7.21</td><td>01</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>03</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span style="color:#56BBC6"></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span></span></td><td><i></i></td></tr>
 </tbody>
 </table>
 
