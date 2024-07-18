@@ -28,7 +28,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |              6.1、6.2               |               六、日                |              **深圳**               | [深圳湾体育中心体育馆（春茧体育馆）](https://www.amap.com/place/B02F38TGNN)  | 每晚 19:00 开始 | [大麦](https://detail.damai.cn/item.htm?id=785421839703)、[猫眼](https://www.gewara.com/detail/320723)、[票星球](https://m.piaoxingqiu.com/content/6620c14c4138080001309754) | 已结束 |                                                              |
 |             6.22、6.23              |               六、日                |              **北京**               |   [北京华熙 LIVE·五棵松](https://www.amap.com/place/B0FFICWKRD)    | 每晚 19:00 开始 | [大麦](https://detail.damai.cn/item.htm?id=782127192850)、[猫眼](https://www.gewara.com/detail/320924)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe) | 已结束 |                                                              |
 |             7.20、7.21              |               六、日                |              **武汉**               |     [武汉光谷国际网球中心](https://www.amap.com/place/B0FFF3OPZ3)     | 每晚 19:30 开始 | [大麦](https://detail.damai.cn/item.htm?id=803041709404)、[猫眼](https://www.gewara.com/detail/331667)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe) | 已二开 | [链接](/news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿) |
-|             *8.3、8.4*              |              *六、日*               |              **厦门**               |   *[厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)*    |       无        |                              [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240803-esnyk-xm-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803442436900)                              | 待开票 | [链接](/news/perform.html#【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站-苏打绿) |
+|             *8.3、8.4*              |              *六、日*               |              **厦门**               |   *[厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)*    |       每晚 19:00 开始        |                              [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240803-esnyk-xm-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803442436900)                              | 已开票 | [链接](/news/perform.html#【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站-苏打绿) |
 |             8.17、8.18              |               六、日                |              **重庆**               |    [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 | [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240817-esnyk-cq-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803084177251) | 已开票 | [链接](/news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿) |
 |             *8.31、9.1*             |              *六、日*               |              **广州**               |   *[宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)*   |       无        |                              无                              | 待官宣 | [链接](/news/perform.html#【2024-08-31、2024-09-01】苏打绿二十年一刻巡回演唱会广州站-苏打绿) |
 |          *9.14、9.15、9.16*          |            *六、日、一*             |              **上海**               |  *[上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)*   |       无        |                              无                              | 待官宣 | [链接](/news/perform.html#【2024-09-14、2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
@@ -314,7 +314,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>09</td><td><span>是我的海</span></td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="4"><span style="color:#F18E53">成都站（2024.5.4-5）</span><br><span style="color:#F18E53">吟游</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-30 盲盒</span>
+<tr><th colspan="4"><span style="color:#F18E53">成都站（2024.5.4-5.5）</span><br><span style="color:#F18E53">吟游</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-30 盲盒</span>
 </th></tr>
 </thead>
 <tbody>
@@ -412,7 +412,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>02</td><td><span style="color:#56BBC6">我好想你</span></td><td><i>7 号</i></td></tr>
 <tr><td>03</td><td><span>是我的海</span></td><td><i>6 号</i></td></tr>
 <tr><td>04</td><td><span>落寞</span></td><td><i>4 号，青峰 ft. 小威</i></td></tr>
-<tr><td>05</td><td><span style="color:#56BBC6">燕窝</span></td><td><i>20 号，由李宇春点</i></td></tr>
+<tr><td>05</td><td><span style="color:#56BBC6">燕窝</span></td><td><i>20 号，由李宇春点歌</i></td></tr>
 <tr><td>06</td><td><span>笑闹人间</span></td><td><i>13 号，青峰 ft. 小威</i></td></tr>
 <tr><td>07</td><td><span>黑猫白猫</span></td><td><i>1 号</i></td></tr>
 <tr><td>08</td><td><span>左边</span></td><td><i>9 号，只唱了副歌</i></td></tr>
