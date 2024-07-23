@@ -640,7 +640,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#8FC3C1"><b>早点回家</b></td><td>/</td><td style="color:#AAA">煽动</td><td></td></tr>
 <tr><td style="color:#AAA">海洋</td><td></td><td style="color:#7AC65A"><b>近未来</b></td><td>5</td></tr>
 <tr><td style="color:#AAA">月亮使者</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#8FC3C1"><b>原谅</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#F593C2"><b>原谅</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
 <tr><td style="color:#AAA">わすれない</td><td></td><td style="color:#AAA"></td><td></td></tr>
 <tr><td style="color:#AAA">九月</td><td></td><td style="color:#AAA"></td><td></td></tr>
 <tr><td style="color:#AAA">美错</td><td></td><td style="color:#AAA"></td><td></td></tr>
