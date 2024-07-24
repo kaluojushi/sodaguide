@@ -222,6 +222,11 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td></td><td>写于青峰大学期间</td>
 </tr>
 <tr style="color:#000">
+<td>2024.8.3-8.4</td><td>厦门</td><td></td>
+<td></td><td></td><td></td><td></td>
+<td></td><td></td>
+</tr>
+<tr style="color:#000">
 <td>2024.8.17-8.18</td><td>重庆</td><td></td>
 <td></td><td></td><td></td><td></td>
 <td></td><td></td>
