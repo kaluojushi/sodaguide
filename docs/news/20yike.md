@@ -3,7 +3,7 @@ icon: concert
 title: 苏打绿二十年一刻巡回演唱会专栏
 ---
 
-**此页面最后更新于：2024 年 7 月 24 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2024 年 7 月 25 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
@@ -799,6 +799,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><th rowspan="1">101<br><span style="color:#00B8DE;font-weight:normal;font-style:italic">郑州报批数</span></th><td rowspan="1">1</td>
 <td>一起喔喔</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
 </tbody>
+</table>
 
 ## 演唱会亲友团观演不完全统计
 
