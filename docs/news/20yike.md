@@ -31,8 +31,8 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |             *8.3、8.4*              |              *六、日*               |              **厦门**               |   *[厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)*    |       每晚 19:00 开始        |                              [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240803-esnyk-xm-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803442436900)                              | 已开票 | [链接](/news/perform.html#【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站-苏打绿) |
 |             8.17、8.18              |               六、日                |              **重庆**               |    [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 | [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240817-esnyk-cq-fwd.jpg)、[大麦](https://detail.damai.cn/item.htm?id=803084177251) | 已开票 | [链接](/news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿) |
 |             *8.31、9.1*             |              *六、日*               |              **广州**               |   *[宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)*   |       无        |                              无                              | 待官宣 | [链接](/news/perform.html#【2024-08-31、2024-09-01】苏打绿二十年一刻巡回演唱会广州站-苏打绿) |
-|          9.15、9.16          |            日、一             |              **上海**               |  [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |       无        |                              纷玩岛、大麦                              | 已官宣 | [链接](/news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
-|        9.27、9.28      |        五、六         |              **南京**               |   [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    |       每晚 19:00 开始        |                              大麦、猫眼、票星球                              | 已官宣 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
+|          9.15、9.16          |            日、一             |              **上海**               |  [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |       无        |                              [纷玩岛](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[大麦](https://item.damai.cn/item/project.htm?id=221381043)                              | 已官宣 | [链接](/news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
+|        9.27、9.28      |        五、六         |              **南京**               |   [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    |       每晚 19:00 开始        |                              [大麦](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762)                              | 已开票 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
 |                 ……                 |                                     |                                     |                                                             |                 |                                                              |     |                                                              |
 
 点 [这里](/news/perform) 查看其他演出情况。
@@ -634,7 +634,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 </thead>
 <tbody>
 <tr><td style="color:#F593C2"><b>融雪之前</b></td><td>1</td><td style="color:#AAA">掌声落下</td><td></td></tr>
-<tr><td style="color:#AAA">牧神搭上春色的火车，而</td><td></td><td style="color:#7AC65A"><b>他夏了夏天</b></td><td>2</td></tr>
+<tr><td style="color:#F593C2">牧神搭上春色的火车，而</td><td><i>阿龚表演</i></td><td style="color:#7AC65A"><b>他夏了夏天</b></td><td>2</td></tr>
 <tr><td style="color:#8FC3C1"><b>日光</b></td><td>/</td><td style="color:#7AC65A"><b>蝉想</b></td><td>1</td></tr>
 <tr><td style="color:#AAA">在我们之间</td><td></td><td style="color:#7AC65A"><b>包围</b></td><td>2</td></tr>
 <tr><td style="color:#AAA">各站停靠：</td><td></td><td style="color:#7AC65A"><b>御花园</b></td><td>1</td></tr>

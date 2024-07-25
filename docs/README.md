@@ -23,12 +23,14 @@ actions:
     link: /news/
   - text: 二十年一刻🎤
     link: /news/20yike
-  - text: 演唱会武汉站（7.20-7.21）🎤
-    link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
   - text: 演唱会厦门站（8.3-8.4）🎤
     link: /news/perform.html#【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站-苏打绿
   - text: 演唱会重庆站（8.17-8.18）🎤
     link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
+  - text: 演唱会上海站（9.15-9.16）🎤
+    link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
+  - text: 演唱会南京站（9.27-9.28）🎤
+    link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
@@ -40,10 +42,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【武汉站】
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 07 月 20 日、2024 年 07 月 21 日<br><b>地点：</b>武汉光谷国际网球中心<br><b>演出信息：</b>07 月 20 日、07 月 21 日每晚 19:30 开始<br><b>开票时间：</b>2024 年 06 月 25 日 12:18（07-20 场）、13:18（07-21 场）；2024 年 07 月 09 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
       - title: 【厦门站】
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 03 日、2024 年 08 月 04 日<br><b>地点：</b>厦门奥体中心凤凰体育馆<br><b>演出信息：</b>无<br><b>开票时间：</b>2024 年 07 月 10 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
@@ -52,6 +50,14 @@ highlights:
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 17 日、2024 年 08 月 18 日<br><b>地点：</b>重庆华熙 LIVE·鱼洞<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 06 月 15 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
         link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
+      - title: 【上海站】
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 15 日、2024 年 09 月 16 日<br><b>地点：</b>上海梅赛德斯-奔驰文化中心<br><b>演出信息：</b>待定<br><b>开票时间：</b>待定<br><b>票价：</b>待定<br><b>购票平台：</b>纷玩岛、大麦
+        link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
+      - title: 【南京站】
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
+        link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
       - title: 巡演 11 城官宣
         icon: news
         details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
@@ -65,18 +71,22 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站 - 苏打绿
-        icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 07 月 20 日、2024 年 07 月 21 日<br><b>地点：</b>武汉光谷国际网球中心<br><b>演出信息：</b>07 月 20 日、07 月 21 日每晚 19:30 开始；2024 年 07 月 09 日 12:18 二开<br><b>开票时间：</b>2024 年 06 月 25 日 12:18（07-20 场）、13:18（07-21 场）<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>大麦、猫眼、票星球
-        link: /news/perform.html#【2024-07-20、2024-07-21】苏打绿二十年一刻巡回演唱会武汉站-苏打绿
       - title: 【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站 - 苏打绿
-        icon: square-two
+        icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 03 日、2024 年 08 月 04 日<br><b>地点：</b>厦门奥体中心凤凰体育馆<br><b>演出信息：</b>无<br><b>开票时间：</b>2024 年 07 月 10 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
         link: /news/perform.html#【2024-08-03、2024-08-04】苏打绿二十年一刻巡回演唱会厦门站-苏打绿
       - title: 【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站 - 苏打绿
-        icon: square-three
+        icon: square-two
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 08 月 17 日、2024 年 08 月 18 日<br><b>地点：</b>重庆华熙 LIVE·鱼洞<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 06 月 15 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
         link: /news/perform.html#【2024-08-17、2024-08-18】苏打绿二十年一刻巡回演唱会重庆站-苏打绿
+      - title: 【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站 - 苏打绿
+        icon: square-three
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 15 日、2024 年 09 月 16 日<br><b>地点：</b>上海梅赛德斯-奔驰文化中心<br><b>演出信息：</b>待定<br><b>开票时间：</b>待定<br><b>票价：</b>待定<br><b>购票平台：</b>纷玩岛、大麦
+        link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
+      - title: 【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站 - 苏打绿
+        icon: square-four
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台：</b>纷玩岛、大麦
+        link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
   - header: 【韦瓦第复刻消息合集】
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
@@ -94,6 +104,10 @@ highlights:
         icon: sapling
         details: <b>2024.05.30 00:00</b> 全平台数位上线<br><b>同日</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
         link: https://y.qq.com/n/ryqq/albumDetail/002TEKZP47Kl3j
+      - title: 苏打绿《Live in The Pool》现场录音纪实 EP 2024.07.19 正式上线！
+        icon: concert
+        details: <b>2024.07.19 00:00</b> 全平台数位上线<br><b>夏专先行 狂热现场</b><br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/003UVNFe14rhqJ
       - title: 苏打绿《夏／狂热（苏打绿版）》复刻专辑即将发行！
         icon: icecream
   - header: 【复刻计划全面正名：苏打绿版】
