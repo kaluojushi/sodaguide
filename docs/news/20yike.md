@@ -688,6 +688,118 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 </tbody>
 </table>
 
+### 点歌排行榜（数字看板）
+
+<table style="text-align: center">
+<thead>
+<tr><th>数字</th><th>点歌次数</th>
+<th colspan="2">出现歌曲及场次</th><th>备注</th></tr>
+</thead>
+<tbody>
+<tr><th rowspan="7"><span style="color:#3EAF7C">1</span></th><td rowspan="7">7</td>
+<td>空气中的视听与幻觉</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>笑闹人间</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><td>在世界的尽头大声地说我恨你</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>落寞</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><td>黑猫白猫</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><td>他夏了夏天</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><td>偷闲的翅膀</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">3</th><td rowspan="1">1</td>
+<td>城市</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">4</th><td rowspan="2">2</td>
+<td>异次元的玫瑰</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>落寞</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">5</th><td rowspan="1">1</td>
+<td>笑闹人间</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><th rowspan="4"><span style="color:#3EAF7C">6</span></th><td rowspan="4">4</td>
+<td>这天</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>博物馆</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>小宇宙</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><td>是我的海</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><th rowspan="4">7</th><td rowspan="4">4</td>
+<td>原汁原味</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><td>黑猫白猫</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i>青峰自点</i></td></tr>
+<tr><td>我好想你</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><td>原谅</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="4">8</th><td rowspan="4">4</td>
+<td>罗生门</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>再遇见</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>拾穗</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><td>四季狂想</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">9</th><td rowspan="1">1</td>
+<td>左边</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">10</th><td rowspan="1">1</td>
+<td>交响梦</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">11</th><td rowspan="1">1</td>
+<td>左边</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">12</th><td rowspan="2">2</td>
+<td>吵</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>天天晴朗</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">13</th><td rowspan="2">2</td>
+<td>近未来</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>笑闹人间</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">15</th><td rowspan="1">1</td>
+<td>相信</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">16</th><td rowspan="1">1</td>
+<td>罗生门</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">17</th><td rowspan="2">2</td>
+<td>他举起右手点名</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>脑波弱</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">18</th><td rowspan="2">2</td>
+<td>再遇见</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>先说先赢</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">19</th><td rowspan="1">1</td>
+<td>Sorry 青春</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="6"><span style="color:#3EAF7C">20</span><br><span style="color:#56BBC6;font-weight:normal;font-style:italic">北京报批数</span></th><td rowspan="6">6</td>
+<td>下雨的夜晚</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>小宇宙</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+<tr><td>如果你冷</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
+<tr><td>燕窝</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i>由李宇春点歌</i></td></tr>
+<tr><td>再遇见</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><td>飞鱼</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">21</th><td rowspan="2">2</td>
+<td>他举起右手点名</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>再遇见</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">22</th><td rowspan="2">2</td>
+<td>博物馆</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i>由郭涛点歌</i></td></tr>
+<tr><td>是我的海</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">23</th><td rowspan="2">2</td>
+<td>终点起点</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><td>这天</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="3"><span style="color:#3EAF7C">26</span></th><td rowspan="3">3</td>
+<td>忧愁</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
+<tr><td>沙发里有沙发 Radio</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+<tr><td>先说先赢</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">27</th><td rowspan="2">2</td>
+<td>下雨的夜晚</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><td>如果凝结就是爱</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">28</th><td rowspan="1">1</td>
+<td>天天晴朗</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">29</th><td rowspan="1">1</td>
+<td>你不需要多完美</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">30<br><span style="color:#F18E53;font-weight:normal;font-style:italic">成都报批数</span></th><td rowspan="2">2</td>
+<td>掉了</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>罗生门</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">33</th><td rowspan="2">2</td>
+<td>带我走</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>蜘蛛天空</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">45</th><td rowspan="1">1</td>
+<td>他举起右手点名</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
+<tr><th rowspan="2">50<br><span style="color:#55B770;font-weight:normal;font-style:italic">武汉报批数</span></th><td rowspan="2">2</td>
+<td>对杀人狂指控</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><td>近未来</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">57</th><td rowspan="1">1</td>
+<td>下雨的夜晚</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">61</th><td rowspan="1">1</td>
+<td>跟着你到天边</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">77</th><td rowspan="1">1</td>
+<td>雨中的操场</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">88</th><td rowspan="1">1</td>
+<td>女爵</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
+<tr><th rowspan="1">101<br><span style="color:#00B8DE;font-weight:normal;font-style:italic">郑州报批数</span></th><td rowspan="1">1</td>
+<td>一起喔喔</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
+</tbody>
+
 ## 演唱会亲友团观演不完全统计
 
 <table style="text-align: center">
