@@ -3,7 +3,7 @@ icon: concert
 title: 苏打绿二十年一刻巡回演唱会专栏
 ---
 
-**此页面最后更新于：2024 年 7 月 27 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2024 年 8 月 1 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
@@ -48,7 +48,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 | **深圳** | 4.22（周一）12:19 |             5.9（周四）12:18              | 5.18（周六）12:18 |               约演出前一天回流               | 5.30（周四）12:09<br><span style="color:#767CBA;font-weight:bold">#767CBA</span> |  6.1-6.2（周六-日）  |
 | **北京** | 5.17（周五）12:33 |             5.27（周一）12:18             | 6.14（周五）12:18 | 6.22（周六）10:00 三开<br>6.23（周日）11:00 四开 | 6.20（周四）12:00<br><span style="color:#56BBC6;font-weight:bold">#56BBC6</span> | 6.22-6.23（周六-日） |
 | **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  | 7.19（周五）22:00 三开 | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
-| **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             | *预计 7.25 左右*  |                                      |                                   *预计 8.1*                                   |  8.3-8.4（周六-日）  |
+| **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             |   |                                      |                                   8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>                                   |  8.3-8.4（周六-日）  |
 | **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |  *预计 8.1 左右*  |                                      |                                  *预计 8.15*                                   | 8.17-8.18（周六-日） |
 | **广州** | 7.25（周五）12:18 |             *预计 7.30 左右*              | *预计 8.15 左右*  |                                      |                                  *预计 8.29*                                   | 8.31-9.1（周六-日）  |
 | **上海** | 7.19（周五）12:28 |             *预计 8.15 左右*              |  *预计 9.1 左右*  |                                      |                                  *预计 9.13*                                   | 9.15-9.16（周日-一） |
@@ -221,7 +221,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td>吴青峰</td><td>吴青峰</td><td>苏打绿、钟承洋</td><td>钟承洋</td>
 <td></td><td>写于青峰大学期间</td>
 </tr>
-<tr style="color:#000">
+<tr style="color:#B6D44E">
 <td>2024.8.3-8.4</td><td>厦门</td><td></td>
 <td></td><td></td><td></td><td></td>
 <td></td><td></td>
@@ -428,15 +428,15 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 </thead>
 <tbody>
 <tr><td rowspan="10">7.20</td><td>01</td><td><span style="color:#55B770">Sorry 青春</span></td><td><i>19 号</i></td></tr>
-<tr><td>02</td><td><span>近未来</span></td><td><i>50号</i></td></tr>
+<tr><td>02</td><td><span>近未来</span></td><td><i>50 号</i></td></tr>
 <tr><td>03</td><td><span>如果凝结就是爱</span></td><td><i>27 号</i></td></tr>
-<tr><td>04</td><td><span>是我的海</span></td><td><i>22号</i></td></tr>
+<tr><td>04</td><td><span>是我的海</span></td><td><i>22 号</i></td></tr>
 <tr><td>05</td><td><span>再遇见</span></td><td><i>20 号</i></td></tr>
 <tr><td>06</td><td><span>他夏了夏天</span></td><td><i>1 号</i></td></tr>
 <tr><td>07</td><td><span>相信</span></td><td><i>15 号</i></td></tr>
 <tr><td>08</td><td><span>蜘蛛天空</span></td><td><i>33 号，青峰 ft. 阿龚（收敛版）</i></td></tr>
 <tr><td>09</td><td><span>先说先赢</span></td><td><i>18 号</i></td></tr>
-<tr><td>10</td><td><span style="color:#55B770">原谅</span></td><td><i>7 号，仅剩 22 s 赠送完整版</i></td></tr>
+<tr><td>10</td><td><span style="color:#55B770">原谅</span></td><td><i>7 号，仅剩 22 s 赠送完整版（好啦好啦）</i></td></tr>
 </tbody>
 <tbody>
 <tr><td rowspan="8">7.21</td><td>01</td><td><span>天天晴朗</span></td><td><i>28 号</i></td></tr>
@@ -447,6 +447,34 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>06</td><td><span>这天</span></td><td><i>23 号</i></td></tr>
 <tr><td>07</td><td><span style="color:#55B770">偷闲的翅膀</span></td><td><i>1 号，馨仪 ft. 青峰</i></td></tr>
 <tr><td>08</td><td><span>再遇见</span></td><td><i>21 号</i></td></tr>
+</tbody>
+<thead>
+<tr><th colspan="4"><span style="color:#B6D44E">厦门站（2024.8.3-8.4）</span><br><span style="color:#B6D44E"><i>待定</i></span><br><span style="font-weight:normal;font-style:italic">点歌形式：待定</span>
+</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="10">8.3</td><td>01</td><td><span style="color:#B6D44E"></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>03</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span style="color:#B6D44E"></span></td><td><i></i></td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="10">8.4</td><td>01</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>03</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span style="color:#B6D44E"></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span></span></td><td><i></i></td></tr>
 </tbody>
 </table>
 
@@ -823,6 +851,8 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>6.23</td><td>吴妈妈</td><td>李宇春、郭涛、焦迈奇、刘胡轶、周扬</td></tr>
 <tr><td rowspan="2">武汉</td><td>7.20</td><td></td><td></td></tr>
 <tr><td>7.21</td><td></td><td>刘胡轶</td></tr>
+<tr><td rowspan="2">厦门</td><td>8.3</td><td></td><td></td></tr>
+<tr><td>8.4</td><td></td><td></td></tr>
 <tr><td rowspan="2">重庆</td><td>8.17</td><td></td><td></td></tr>
 <tr><td>8.18</td><td></td><td></td></tr>
 <tr><td rowspan="2">广州</td><td>8.31</td><td></td><td></td></tr>
