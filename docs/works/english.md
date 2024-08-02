@@ -361,6 +361,8 @@ title: 歌名的英文
 
 ## 《夏／狂热》 Summer／Fever
 
+### 《夏／狂热》原版
+
 〈掌声落下〉 Claps
 
 〈他夏了夏天〉 Summer summer
@@ -396,6 +398,52 @@ title: 歌名的英文
 ::: details 苏打志 6
 
 ![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/works/sodazine6.jpg)
+
+:::
+
+### 《夏／狂热（苏打绿版）》CD1
+
+〈掌声落下〉 When the Claps Clap
+
+〈他夏了夏天〉 He Summers Summer
+
+〈／〉
+
+〈蝉想〉 The Sound of Cicadas' Thoughts
+
+〈包围〉 Surround
+
+〈御花园〉 King's Garden
+
+〈／／〉
+
+〈彼得与狼〉 Peter and the Wolf
+
+〈共舞〉 Dance Together
+
+〈无眠〉 Sleeplessly
+
+〈／／／〉
+
+〈狂热〉 Fever
+
+〈煽动〉 Tempts
+
+〈近未来〉 The Near future
+
+::: info 提示
+
+以上翻译由苏打绿在《夏／狂热（苏打绿版）》MV 和 Apple Music 海外版给出。
+
+我们猜测，苏打绿调整翻译的原因，是让歌名更好地符合英文诗的形式。
+
+> When the Claps Clap, He Summers Summer ／
+>
+> The Sound of Cicadas' Thoughts Surround King's Garden ／／
+>
+> Peter and the Wolf Dance Together Sleeplessly ／／／
+>
+> Fever Tempts The Near future
 
 :::
 
