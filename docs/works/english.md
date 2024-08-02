@@ -429,7 +429,7 @@ title: 歌名的英文
 
 〈煽动〉 Tempts
 
-〈近未来〉 The Near future
+〈近未来〉 The Near Future
 
 ::: info 提示
 
@@ -443,7 +443,7 @@ title: 歌名的英文
 >
 > Peter and the Wolf Dance Together Sleeplessly ／／／
 >
-> Fever Tempts The Near future
+> Fever Tempts The Near Future
 
 :::
 
