@@ -498,7 +498,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>07</td><td><span>他举起右手点名</span></td><td><i>99 号</i></td></tr>
 <tr><td>08</td><td><span style="color:#ED7A58">煽动</span></td><td><i>100 号</i></td></tr>
 <tr><td>09</td><td><span>小宇宙</span></td><td><i>33 号</i></td></tr>
-<tr><td>10</td><td><span>共舞</span></td><td><i>1 号（首次全场大喊一个数字）</i></td></tr>
+<tr><td>10</td><td><span>共舞</span></td><td><i>1 号，首次全场大喊同一个数字</i></td></tr>
 </tbody>
 </table>
 
