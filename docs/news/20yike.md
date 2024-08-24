@@ -3,7 +3,7 @@ icon: concert
 title: 苏打绿二十年一刻巡回演唱会专栏
 ---
 
-**此页面最后更新于：2024 年 8 月 20 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2024 年 8 月 24 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
@@ -30,8 +30,8 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |           7.20、7.21            |               六、日               |              **武汉**               |    [武汉光谷国际网球中心](https://www.amap.com/place/B0FFF3OPZ3)     | 每晚 19:30 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803041709404)、[猫眼](https://www.gewara.com/detail/331667)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe) | 已结束 |   |
 |            8.3、8.4             |               六、日               |              **厦门**               |    [厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)    | 每晚 19:00 开始 |    [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240803-esnyk-xm-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803442436900)     | 已结束 |  |
 |           8.17、8.18            |               六、日               |              **重庆**               |   [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 |    [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240817-esnyk-cq-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803084177251)     | 已结束 |  |
-|            8.31、9.1            |               六、日               |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已开票 | [链接](/news/perform.html#【2024-08-31、2024-09-01】苏打绿二十年一刻巡回演唱会广州站-苏打绿) |
-|           9.15、9.16            |               日、一               |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已官宣 | [链接](/news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
+|            8.31、9.1            |               六、日               |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已二开 | [链接](/news/perform.html#【2024-08-31、2024-09-01】苏打绿二十年一刻巡回演唱会广州站-苏打绿) |
+|           9.15、9.16            |               日、一               |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已开票 | [链接](/news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
 |           9.27、9.28            |               五、六               |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已开票 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
 |               ……               |                                 |                                     |                                                            |             |                                                                                                                                                                     |     |                                                              |
 
@@ -50,7 +50,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 | **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  | 7.19（周五）22:00 三开 | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
 | **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             |       无       |  约演出前两周持续回流                                    |                                   8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>                                   |  8.3-8.4（周六-日）  |
 | **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |   开票后一直在回流／可购   |                                  8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span>                                   | 8.17-8.18（周六-日） |
-| **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              |  *预计 8.22 左右*  |                                      |                                  *预计 8.29*                                   | 8.31-9.1（周六-日）  |
+| **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |                                      |                                  *预计 8.29*                                   | 8.31-9.1（周六-日）  |
 | **上海** | 7.19（周五）12:28 |             8.20（周二）12:18              |  *预计 9.1 左右*  |                                      |                                  *预计 9.13*                                   | 9.15-9.16（周日-一） |
 | **南京** | 7.19（周五）12:28 |             7.25（周四）12:18              | *预计 9.15 左右*  |                                      |                                  *预计 9.25*                                   | 9.27-9.28（周五-六） |
 
@@ -486,7 +486,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>06</td><td><span style="color:#ED7A58">掌声落下</span></td><td><i>8 号，由王竟力点歌</i></td></tr>
 <tr><td>07</td><td><span style="color:#ED7A58">一千座喷泉</span></td><td><i>82 号</i></td></tr>
 <tr><td>08</td><td><span style="color:#ED7A58">地平线</span></td><td><i>77 号</i></td></tr>
-<tr><td>09</td><td><span>一起喔喔</span></td><td><i>100 号</i></td></tr>
+<tr><td>09</td><td><span>一起喔喔</span></td><td><i>100 号，抒情版（青峰 ft. 馨仪）+摇滚版</i></td></tr>
 </tbody>
 <tbody>
 <tr><td rowspan="10">8.18</td><td>01</td><td><span>回车诺比的梦</span></td><td><i>32 号</i></td></tr>
@@ -622,6 +622,54 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#ED7A58">重庆 8.17</span></td></tr>
 <tr><td>你和我的时光、蜂蜜人蔘、煽动</td><td>1</td>
 <td><span style="color:#ED7A58">重庆 8.18</span></td></tr>
+</tbody>
+</table>
+
+**在一个城市两天都点到的歌曲（香港统计≥2）：**
+
+<table style="text-align: center">
+<thead>
+<tr>
+<th>演出时间</th><th>城市</th><th>歌曲</th>
+</tr>
+</thead>
+<tbody >
+<tr style="color:#007CC2">
+<td>2024.3.22-3.24</td><td>香港</td><td>近未来（3.22+3.24）<br>笑闹人间（3.22+3.23）<br>天天晴朗（3.23+3.24）</td>
+</tr>
+<tr style="color:#509779">
+<td>2024.4.13-4.14</td><td>杭州</td><td>是我的海<br>飞鱼</td>
+</tr>
+<tr style="color:#F18E53">
+<td>2024.5.4-5.5</td><td>成都</td><td>他举起右手点名（21→17）<br>罗生门（8→16）<br>下雨的夜晚（20→27）</td>
+</tr>
+<tr style="color:#00B8DE">
+<td>2024.5.18-5.19</td><td>郑州</td><td>/</td>
+</tr>
+<tr style="color:#767CBA">
+<td>2024.6.1-6.2</td><td>深圳</td><td>/<i>（明盒点歌是不会重复的）</i></td>
+</tr>
+<tr style="color:#56BBC6">
+<td>2024.6.22-6.23</td><td>北京</td><td>左边（11→9）<br>落寞（1→4）<br>黑猫白猫（7→1）</td>
+</tr>
+<tr style="color:#55B770">
+<td>2024.7.20-7.21</td><td>武汉</td><td>再遇见（20→21）</td>
+</tr>
+<tr style="color:#B6D44E">
+<td>2024.8.3-8.4</td><td>厦门</td><td>幸福额度（10→17）</td>
+</tr>
+<tr style="color:#ED7A58">
+<td>2024.8.17-8.18</td><td>重庆</td><td>地平线（77→57）</td>
+</tr>
+<tr style="color:#000">
+<td>2024.8.31-9.1</td><td>广州</td><td></td>
+</tr>
+<tr style="color:#000">
+<td>2024.9.15-9.16</td><td>上海</td><td></td>
+</tr>
+<tr style="color:#000">
+<td>2024.9.27-9.28</td><td>南京</td><td></td>
+</tr>
 </tbody>
 </table>
 
