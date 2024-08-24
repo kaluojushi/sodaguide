@@ -1035,6 +1035,10 @@ title: 歌名的英文
 
 〈梦〉 Dream
 
+〈一整天〉 All Day Long
+
+〈一整天 (demo@ 青 Home)〉 All Day Long (demo@QingHome)
+
 ::: info 提示
 
 以上翻译由苏打绿在二十年一刻单曲计划 MV 和 Apple Music 海外版给出。
