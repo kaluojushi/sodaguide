@@ -102,6 +102,10 @@ highlights:
         icon: icecream
         details: <b>2024.08.02 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
         link: https://y.qq.com/n/ryqq/albumDetail/0005YyRR07dYdp
+      - title: 苏打绿《夏／狂热（苏打绿版）》复刻专辑 CD2 2024.08.30 正式上线！
+        icon: icecream
+        details: <b>2024.08.30 00:00</b> 全平台数位上线<br><b>同日</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/0005YyRR07dYdp
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen.html#复刻计划"><b>什么是复刻计划？</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
