@@ -447,6 +447,32 @@ title: 歌名的英文
 
 :::
 
+### 《夏／狂热（苏打绿版）》CD2
+
+〈开到荼靡〉 The Last Blossom
+
+〈战〉 War
+
+〈我在欧洲打电话给你〉 From Europe
+
+〈The Blower's Daughter〉
+
+〈You Oughta Know〉
+
+〈Smells Like Teen Spirit〉
+
+〈Don't Break My Heart〉
+
+〈花房姑娘〉 Greenhouse Girl
+
+〈Big Dream〉
+
+::: info 提示
+
+以上翻译由苏打绿在《夏／狂热（苏打绿版）》MV 和 Apple Music 海外版给出。
+
+:::
+
 ## 《十年一刻》／《十年一刻（苏打绿版）》 Once in a lifetime
 
 ### 《十年一刻》／《十年一刻（苏打绿版）》CD1

@@ -48,9 +48,9 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 | **深圳** | 4.22（周一）12:19 |             5.9（周四）12:18              | 5.18（周六）12:18 |               约演出前一天回流               | 5.30（周四）12:09<br><span style="color:#767CBA;font-weight:bold">#767CBA</span> |  6.1-6.2（周六-日）  |
 | **北京** | 5.17（周五）12:33 |             5.27（周一）12:18             | 6.14（周五）12:18 | 6.22（周六）10:00 三开<br>6.23（周日）11:00 四开 | 6.20（周四）12:00<br><span style="color:#56BBC6;font-weight:bold">#56BBC6</span> | 6.22-6.23（周六-日） |
 | **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  | 7.19（周五）22:00 三开 | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
-| **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             |       无       |  约演出前两周持续回流                                    |                                   8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>                                   |  8.3-8.4（周六-日）  |
-| **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |   开票后一直在回流／可购   |                                  8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span>                                   | 8.17-8.18（周六-日） |
-| **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |                                      |                                  *预计 8.29*                                   | 8.31-9.1（周六-日）  |
+| **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             |       无       |  约演出前两周持续回流                                    | 8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>  |  8.3-8.4（周六-日）  |
+| **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |   开票后一直在回流／可购   | 8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span> | 8.17-8.18（周六-日） |
+| **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |                                      | 8.29（周四）12:00<br><span style="color:#F9BE00;font-weight:bold">#F9BE00</span> | 8.31-9.1（周六-日）  |
 | **上海** | 7.19（周五）12:28 |             8.20（周二）12:18              |  *预计 9.1 左右*  |                                      |                                  *预计 9.13*                                   | 9.15-9.16（周日-一） |
 | **南京** | 7.19（周五）12:28 |             7.25（周四）12:18              | *预计 9.15 左右*  |                                      |                                  *预计 9.25*                                   | 9.27-9.28（周五-六） |
 
@@ -231,7 +231,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td>吴青峰</td><td>吴青峰</td><td>苏打绿、钟承洋</td><td>钟承洋</td>
 <td>2024.8.23</td><td>#5</td><td>写于 2018 年，第二个版本，《太空人》弃曲</td>
 </tr>
-<tr style="color:#000">
+<tr style="color:#F9BE00">
 <td>2024.8.31-9.1</td><td>广州</td><td></td>
 <td></td><td></td><td></td><td></td>
 <td></td><td></td><td></td>
@@ -474,7 +474,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>09</td><td><span>交响梦</span></td><td><i>25 号，兔姨最喜欢的歌，团员终结家凯的〈忧愁〉solo 为了让兔姨听到这首歌</i></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="4"><span style="color:#ED7A58">重庆站（2024.8.17-8.18）</span><br><span style="color:#ED7A58"><i>一整天</i></span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-100 盲盒</span>
+<tr><th colspan="4"><span style="color:#ED7A58">重庆站（2024.8.17-8.18）</span><br><span style="color:#ED7A58">一整天</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-100 盲盒</span>
 </th></tr>
 </thead>
 <tbody>
@@ -499,6 +499,34 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>08</td><td><span style="color:#ED7A58">煽动</span></td><td><i>100 号</i></td></tr>
 <tr><td>09</td><td><span>小宇宙</span></td><td><i>33 号</i></td></tr>
 <tr><td>10</td><td><span>共舞</span></td><td><i>1 号，首次全场大喊同一个数字</i></td></tr>
+</tbody>
+<thead>
+<tr><th colspan="4"><span style="color:#F9BE00">广州站（2024.8.31-9.1）</span><br><span style="color:#F9BE00"><i>待定</i></span><br><span style="font-weight:normal;font-style:italic">点歌形式：待定</span>
+</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="10">8.31</td><td>01</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>03</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span></span></td><td><i></i></td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="10">9.1</td><td>01</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>02</td><td><span></span></td><td><i>）</i></td></tr>
+<tr><td>03</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>04</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>05</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>06</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>07</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>08</td><td><span style="color:#F9BE00"></span></td><td><i></i></td></tr>
+<tr><td>09</td><td><span></span></td><td><i></i></td></tr>
+<tr><td>10</td><td><span></span></td><td><i></i></td></tr>
 </tbody>
 </table>
 
@@ -661,7 +689,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr style="color:#ED7A58">
 <td>2024.8.17-8.18</td><td>重庆</td><td>地平线（77→57）</td>
 </tr>
-<tr style="color:#000">
+<tr style="color:#F9BE00">
 <td>2024.8.31-9.1</td><td>广州</td><td></td>
 </tr>
 <tr style="color:#000">
@@ -770,14 +798,15 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA">嬉戏之后</td><td></td><td style="color:#8FC3C1"><b>狂热</b></td><td>/</td></tr>
 <tr><td style="color:#8FC3C1"><b>早点回家</b></td><td>/</td><td style="color:#7AC65A"><b>煽动</b></td><td>1</td></tr>
 <tr><td style="color:#AAA">海洋</td><td></td><td style="color:#7AC65A"><b>近未来</b></td><td>6</td></tr>
-<tr><td style="color:#AAA">月亮使者</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#F593C2"><b>原谅</b></td><td>2</td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">わすれない</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">九月</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">美错</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">天地记</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">The Rose</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">Love Is Everything</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">月亮使者</td><td></td><td style="color:#AAA">开到荼靡</td><td></td></tr>
+<tr><td style="color:#F593C2"><b>原谅</b></td><td>2</td><td style="color:#AAA">战</td><td></td></tr>
+<tr><td style="color:#AAA">わすれない</td><td></td><td style="color:#AAA">我在欧洲打电话给你</td><td></td></tr>
+<tr><td style="color:#AAA">九月</td><td></td><td style="color:#AAA">The Blower's Daughter</td><td></td></tr>
+<tr><td style="color:#AAA">美错</td><td></td><td style="color:#AAA">You Oughta Know</td><td></td></tr>
+<tr><td style="color:#AAA">天地记</td><td></td><td style="color:#AAA">Smells Lke Teen Spirit</td><td></td></tr>
+<tr><td style="color:#AAA">The Rose</td><td></td><td style="color:#AAA">Don't Break My Heart</td><td></td></tr>
+<tr><td style="color:#AAA">Love Is Everything</td><td></td><td style="color:#AAA">花房姑娘</td><td></td></tr>
+<tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">Big Dream</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+5/12）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
