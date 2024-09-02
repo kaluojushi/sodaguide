@@ -771,7 +771,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA">最后一夜</td><td></td><td style="color:#AAA"></td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2" style="background-color:#9CF1E3">十年一刻（2+2/20）</th><th colspan="2" style="background-color:#7D7C7C;color:white">你在烦恼什么（5+5/19）</th></tr>
+<tr><th colspan="2" style="background-color:#9CF1E3">十年一刻（2+2/20）</th><th colspan="2" style="background-color:#7D7C7C;color:white">你在烦恼什么（5+6/19）</th></tr>
 </thead>
 <tbody>
 <tr><td style="color:#AAA">飞鱼（电音版）</td><td></td><td style="color:#AAA">片刻永恒</td><td></td></tr>
