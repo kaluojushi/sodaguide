@@ -435,7 +435,7 @@ title: 歌名的英文
 
 以上翻译由苏打绿在《夏／狂热（苏打绿版）》MV 和 Apple Music 海外版给出。
 
-我们猜测，苏打绿调整翻译的原因，是让歌名更好地符合英文诗的形式。
+根据《20 周年苏打志 SUMMER ISSUE》，此次翻译由台湾诗人崔香兰完成，新的翻译更好地符合英文诗的形式。
 
 > When the Claps Clap, He Summers Summer ／
 >
