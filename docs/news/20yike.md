@@ -923,8 +923,8 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>窥</td><td><span style="color:#ED7A58">重庆 8.17</span></td><td><i></i></td></tr>
 <tr><th rowspan="4">12</th><td rowspan="4">4</td>
 <td>吵</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
-<tr><td>天天晴朗</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
-<tr><td>左边</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><td>天天晴朗</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
+<tr><td>左边</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
 <tr><td>空气中的视听与幻觉</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
 <tr><th rowspan="3">13</th><td rowspan="3">3</td>
 <td>近未来</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
