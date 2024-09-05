@@ -32,7 +32,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |           8.17、8.18            |               六、日               |              **重庆**               |   [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 |    [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240817-esnyk-cq-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803084177251)     | 已结束 |  |
 |            8.31、9.1            |               六、日               |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已结束 |  |
 |           9.15、9.16            |               日、一               |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已开票 | [链接](/news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿) |
-|           9.27、9.28            |               五、六               |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已开票 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
+|           9.27、9.28            |               五、六               |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已二开 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
 |               ……               |                                 |                                     |                                                            |             |                                                                                                                                                                     |     |                                                              |
 
 点 [这里](/news/perform) 查看其他演出情况。
@@ -576,12 +576,12 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#F18E53">成都 5.5</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
 <tr><td>如果凝结就是爱</td><td>3</td>
 <td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#509779">杭州 4.14</span>、<span style="color:#55B770">武汉 7.20</span></td></tr>
-<tr><td>幸福额度</td><td>3</td>
-<td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
 <tr><td>包围</td><td>3</td>
 <td><span style="color:#007CC2">香港 3.23</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
 <tr><td>交响梦</td><td>3</td>
 <td><span style="color:#007CC2">香港 3.23</span>、<span style="color:#56BBC6">北京 6.22</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
+<tr><td>幸福额度</td><td>3</td>
+<td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
 <tr><td>飞鱼</td><td>3</td>
 <td><span style="color:#509779">杭州 4.13</span>、<span style="color:#509779">杭州 4.14</span>、<span style="color:#55B770">武汉 7.21</span></td></tr>
 <tr><td>忧愁</td><td>3</td>
