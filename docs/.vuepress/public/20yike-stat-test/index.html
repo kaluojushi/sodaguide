@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- import Vue before Element -->
+  <script src="https://unpkg.com/vue@2.6.12/dist/vue.js"></script>
+  <!-- import Element CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/element-ui@2.15.10/lib/theme-chalk/index.css">
+  <!-- import Element JavaScript -->
+  <script src="https://unpkg.com/element-ui@2.15.10/lib/index.js"></script>
+  <title>测试页面</title>
+</head>
+<body>
+<div id="app">
+  <div v-if="!showResult">
+    <el-form ref="form" :model="form" label-width="135px">
+      <el-form-item label="一键全勤">
+        <el-checkbox :indeterminate="isIndeterminate" v-model="checkAll" @change="handleCheckAllChange">点这里
+        </el-checkbox>
+      </el-form-item>
+      <el-form-item label="香港 3.22-3.24">
+        <el-checkbox-group v-model="form.hk" @change="handleCheckedItemsChange">
+          <el-checkbox label="3.22" name="hk"></el-checkbox>
+          <el-checkbox label="3.23" name="hk"></el-checkbox>
+          <el-checkbox label="3.24" name="hk"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="杭州 4.13-4.14">
+        <el-checkbox-group v-model="form.hz" @change="handleCheckedItemsChange">
+          <el-checkbox label="4.13" name="hz"></el-checkbox>
+          <el-checkbox label="4.14" name="hz"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="成都 5.4-5.5">
+        <el-checkbox-group v-model="form.cd" @change="handleCheckedItemsChange">
+          <el-checkbox label="5.4" name="cd"></el-checkbox>
+          <el-checkbox label="5.5" name="cd"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="郑州 5.18-5.19">
+        <el-checkbox-group v-model="form.zz" @change="handleCheckedItemsChange">
+          <el-checkbox label="5.18" name="zz"></el-checkbox>
+          <el-checkbox label="5.19" name="zz"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="深圳 6.1-6.2">
+        <el-checkbox-group v-model="form.sz" @change="handleCheckedItemsChange">
+          <el-checkbox label="6.1" name="sz"></el-checkbox>
+          <el-checkbox label="6.2" name="sz"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="北京 6.22-6.23">
+        <el-checkbox-group v-model="form.bj" @change="handleCheckedItemsChange">
+          <el-checkbox label="6.22" name="bj"></el-checkbox>
+          <el-checkbox label="6.23" name="bj"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="武汉 7.20-7.21">
+        <el-checkbox-group v-model="form.wh" @change="handleCheckedItemsChange">
+          <el-checkbox label="7.20" name="wh"></el-checkbox>
+          <el-checkbox label="7.21" name="wh"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="厦门 8.3-8.4">
+        <el-checkbox-group v-model="form.xm" @change="handleCheckedItemsChange">
+          <el-checkbox label="8.3" name="xm"></el-checkbox>
+          <el-checkbox label="8.4" name="xm"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="重庆 8.17-8.18">
+        <el-checkbox-group v-model="form.cq" @change="handleCheckedItemsChange">
+          <el-checkbox label="8.17" name="cq"></el-checkbox>
+          <el-checkbox label="8.18" name="cq"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item label="广州 8.31-9.1">
+        <el-checkbox-group v-model="form.gz" @change="handleCheckedItemsChange">
+          <el-checkbox label="8.31" name="gz"></el-checkbox>
+          <el-checkbox label="9.1" name="gz"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
+      <el-form-item>
+        <el-button type="primary" @click="onSubmit">立即计算</el-button>
+      </el-form-item>
+    </el-form>
+  </div>
+
+  <div v-else>
+    <el-button plain @click="onBack">重新选择</el-button>
+    <p>你和苏打绿在 {{ totalCity }} 个城市相遇</p>
+    <p>共经历了 {{ selectedStopIndex.length }} 次演唱会</p>
+    <p>你共享受了 {{ totalOrderTime }} 秒的点歌时间，也就是 {{ totalOrderTimeDesc.min }} 分 {{ totalOrderTimeDesc.sec === 0 ? '整' : totalOrderTimeDesc.sec + ' 秒' }} </p>
+    <p>这相当于你又看了 {{ totalOrderTimeDesc.desc }} 场演唱会！</p>
+    <p>下面来看看你的点歌排行榜吧：</p>
+    <el-table :data="rank" style="width: 100%">
+      <el-table-column prop="name" label="歌名"></el-table-column>
+      <el-table-column prop="cnt" label="次数"></el-table-column>
+    </el-table>
+  </div>
+</div>
+</body>
+
+<script src="index.js"></script>
+</html>
