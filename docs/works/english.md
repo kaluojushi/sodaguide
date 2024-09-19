@@ -449,7 +449,7 @@ title: 歌名的英文
 
 ### 《夏／狂热（苏打绿版）》CD2
 
-〈开到荼靡〉 The Last Blossom
+〈开到荼蘼〉 The Last Blossom
 
 〈战〉 War
 

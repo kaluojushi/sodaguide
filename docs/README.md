@@ -23,8 +23,6 @@ actions:
     link: /news/
   - text: 二十年一刻🎤
     link: /news/20yike
-  - text: 演唱会上海站（9.15-9.16）🎤
-    link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
   - text: 演唱会南京站（9.27-9.28）🎤
     link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
 highlights:
@@ -38,10 +36,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【上海站】
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 15 日、2024 年 09 月 16 日<br><b>地点：</b>上海梅赛德斯-奔驰文化中心<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 08 月 20 日 12:18；2024 年 09 月 07 日 20:30 二开<br><b>票价：</b>480/680/880/1180/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>纷玩岛</b>、<b>大麦</b>
-        link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
       - title: 【南京站】
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18；2024 年 09 月 04 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>大麦</b>、猫眼、票星球
@@ -59,14 +53,14 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站 - 苏打绿
-        icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 15 日、2024 年 09 月 16 日<br><b>地点：</b>上海梅赛德斯-奔驰文化中心<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 08 月 20 日 12:18；2024 年 09 月 07 日 20:30 二开<br><b>票价：</b>480/680/880/1180/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>纷玩岛</b>、<b>大麦</b>
-        link: /news/perform.html#【2024-09-15、2024-09-16】苏打绿二十年一刻巡回演唱会上海站-苏打绿
       - title: 【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站 - 苏打绿
-        icon: square-two
+        icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18；2024 年 09 月 04 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>大麦</b>、猫眼、票星球
         link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
+      - title: 【2024-10-04】合肥 Bubbling&Boiling 喜力·泡泡岛音乐与艺术节·华东站 - 吴青峰
+        icon: square-two
+        details: <b>类型：</b>音乐节<br><b>时间：</b>2024 年 10 月 04 日<br><b>地点：</b>合肥骆岗公园<br><b>演出信息：</b>19:40-20:30 SOSO STAGE<br><b>开票时间：</b>已开票<br><b>票价：</b>299-769，电子票强实名条件退<br><b>购票平台：</b>创娱小程序、大麦、秀动、猫眼、票星球、纷玩岛、抖音生活服务
+        link: /news/perform.html#【2024-10-04】合肥-bubbling-boiling-喜力·泡泡岛音乐与艺术节·华东站-吴青峰
   - header: 【韦瓦第复刻消息合集】
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
