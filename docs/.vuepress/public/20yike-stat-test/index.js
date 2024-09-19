@@ -5,7 +5,7 @@ new Vue({
   data() {
     return {
       test: 'Hello World',
-      stopArray: ["3.22","3.23","3.24","4.13","4.14","5.4","5.5","5.18","5.19","6.1","6.2","6.22","6.23","7.20","7.21","8.3","8.4","8.17","8.18","8.31","9.1"],
+      stopArray: ["3.22","3.23","3.24","4.13","4.14","5.4","5.5","5.18","5.19","6.1","6.2","6.22","6.23","7.20","7.21","8.3","8.4","8.17","8.18","8.31","9.1","9.16","9.17"],
       form: {
         hk: [],
         hz: [],
@@ -17,6 +17,7 @@ new Vue({
         xm: [],
         cq: [],
         gz: [],
+        sh: [],
       },
       selectedStopIndex: [],
       checkAll: false,
@@ -61,7 +62,8 @@ new Vue({
           wh: this.stopArray.slice(13, 15),
           xm: this.stopArray.slice(15, 17),
           cq: this.stopArray.slice(17, 19),
-          gz: this.stopArray.slice(19, 21)
+          gz: this.stopArray.slice(19, 21),
+          sh: this.stopArray.slice(21, 23),
         }
       } else {
         this.form = {
@@ -75,6 +77,7 @@ new Vue({
           xm: [],
           cq: [],
           gz: [],
+          sh: [],
         }
       }
       this.getSelectedStopIndex()

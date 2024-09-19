@@ -81,6 +81,12 @@
           <el-checkbox label="9.1" name="gz"></el-checkbox>
         </el-checkbox-group>
       </el-form-item>
+      <el-form-item label="上海 9.16-9.17">
+        <el-checkbox-group v-model="form.sh" @change="handleCheckedItemsChange">
+          <el-checkbox label="9.16" name="sh"></el-checkbox>
+          <el-checkbox label="9.17" name="sh"></el-checkbox>
+        </el-checkbox-group>
+      </el-form-item>
       <el-form-item>
         <el-button type="primary" @click="onSubmit">立即计算</el-button>
       </el-form-item>
