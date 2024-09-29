@@ -20,13 +20,14 @@
   },
   "homepage": "https://github.com/kaluojushi/sodaguide#readme",
   "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.7",
     "@waline/client": "^2.15.8",
     "plyr": "^3.7.8",
+    "sass-embedded": "^1.79.4",
     "vidstack": "^1.12.11",
     "vue": "^3.5.10",
     "vuepress": "^2.0.0-rc.15",
-    "vuepress-theme-hope": "^2.0.0-rc.56",
     "vuepress-plugin-search-pro": "^2.0.0-rc.54",
-    "@vuepress/bundler-vite": "^2.0.0-rc.7"
+    "vuepress-theme-hope": "^2.0.0-rc.56"
   }
 }
