@@ -1065,6 +1065,10 @@ title: 歌名的英文
 
 〈一整天 (demo@ 青 Home)〉 All Day Long (demo@QingHome)
 
+〈面面相觑〉 Face the Situationship
+
+〈面面相觑 (demo2018@ 青 Home)〉 Face the Situationship (demo2018@QingHome)
+
 ::: info 提示
 
 以上翻译由苏打绿在二十年一刻单曲计划 MV 和 Apple Music 海外版给出。

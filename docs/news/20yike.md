@@ -3,15 +3,15 @@ icon: concert
 title: 苏打绿二十年一刻巡回演唱会专栏
 ---
 
-**此页面最后更新于：2024 年 9 月 19 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2024 年 10 月 4 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
 ::: info 提示
 
-点击 <a href="/20yike-stat-test/index.html" target="_blank">**这里**</a> 查看你的 **观演报告**！！！
+点击 [**这里**](https://20yike-report.sodaguide.io/) 查看你的 **观演报告**！！！
 
-此页面还在 **测试中**，如有 bug，欢迎在评论区留言。
+来看看你一共去了多少场，听了多少歌，解锁了什么成就？
 
 :::
 
@@ -40,7 +40,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |   8.17、8.18    |  六、日  |              **重庆**               |   [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 |    [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240817-esnyk-cq-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803084177251)     | 已结束 |  |
 |    8.31、9.1    |  六、日  |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已结束 |  |
 |   9.16、9.17    |  一、二  |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已结束 |  |
-|   9.27、9.28    |  五、六  |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已二开 | [链接](/news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿) |
+|   9.27、9.28    |  五、六  |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已结束 |  |
 |       ……       |       |                                     |                                                            |             |                                                                                                                                                                     |     |                                                              |
 
 点 [这里](/news/perform) 查看其他演出情况。
@@ -60,7 +60,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 | **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |             开票后一直在回流／可购              | 8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span> | 8.17-8.18（周六-日） |
 | **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |               约演出前两天回流               | 8.29（周四）12:00<br><span style="color:#F9BE00;font-weight:bold">#F9BE00</span> | 8.31-9.1（周六-日）  |
 | **上海** | 7.19（周五）12:28 |             8.20（周二）12:18              | 9.7（周六）20:30  |         纷玩岛开票当天可候补；演出延期后持续放票         | 9.13（周五）12:00<br><span style="color:#EB79AA;font-weight:bold">#EB79AA</span> | 9.16-9.17（周一-二） |
-| **南京** | 7.19（周五）12:28 |             7.25（周四）12:18              | 9.4（周三）12:18  |                                      |                                  *预计 9.25*                                   | 9.27-9.28（周五-六） |
+| **南京** | 7.19（周五）12:28 |             7.25（周四）12:18              | 9.4（周三）12:18  |           9.26（周四）19:30 三开           |                                9.25（周三）12:00<br><span style="color:#BD9460;font-weight:bold">#BD9460</span>                                 | 9.27-9.28（周五-六） |
 
 \* 官宣时间和主题色公布时间为 Facebook 动态发布时间。
 
@@ -251,10 +251,10 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td>史俊威</td><td>史俊威</td><td>苏打绿、钟承洋</td><td>钟承洋</td>
 <td></td><td></td><td>写于约 20 年前，demo 创作于 2006 年（曾流出音源）</td>
 </tr>
-<tr style="color:#000">
-<td>2024.9.27-9.28</td><td>南京</td><td></td>
-<td></td><td></td><td></td><td></td>
-<td></td><td></td><td></td>
+<tr style="color:#BD9460">
+<td>2024.9.27-9.28</td><td>南京</td><td>饥饿再生</td>
+<td>史俊威</td><td>史俊威</td><td>苏打绿、钟承洋</td><td>钟承洋</td>
+<td></td><td></td><td>写于 2006 年</td>
 </tr>
 </tbody>
 </table>
@@ -567,6 +567,32 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr><td>09</td><td><span>快乐颂</span></td><td><i>66 号</i></td></tr>
 <tr><td colspan="3"><i>青峰继续清唱〈背着你〉</i></td></tr>
 </tbody>
+<thead>
+<tr><th colspan="4"><span style="color:#BD9460">南京站（2024.9.27-9.28）</span><br><span style="color:#BD9460">饥饿再生</span><br><span style="font-weight:normal;font-style:italic">点歌形式：1-27 盲盒</span>
+</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="9">9.27</td><td>01</td><td><span>我好想你</span></td><td><i>27 号</i></td></tr>
+<tr><td>02</td><td><span>罗生门</span></td><td><i>7 号</i></td></tr>
+<tr><td>03</td><td><span>我只在乎你</span></td><td><i>6 号</i></td></tr>
+<tr><td>04</td><td><span style="color:#BD9460">我在欧洲打电话给你</span></td><td><i>1 号</i></td></tr>
+<tr><td>05</td><td><span>拾穗</span></td><td><i>5 号</i></td></tr>
+<tr><td>06</td><td><span style="color:#BD9460">你心里最后一个</span></td><td><i>11 号</i></td></tr>
+<tr><td>07</td><td><span>他夏了夏天</span></td><td><i>9 号</i></td></tr>
+<tr><td>08</td><td><span>偷闲的翅膀</span></td><td><i>20 号，馨仪 ft. 青峰</i></td></tr>
+<tr><td>09</td><td><span>天天晴朗</span></td><td><i>2 号</i></td></tr>
+</tbody>
+<tbody>
+<tr><td rowspan="9">9.28</td><td>01</td><td><span>我的未来不是梦</span></td><td><i>1 号</i></td></tr>
+<tr><td>02</td><td><span>我好想你</span></td><td><i>2 号</i></td></tr>
+<tr><td>03</td><td><span>你心里最后一个</span></td><td><i>22 号</i></td></tr>
+<tr><td>04</td><td><span>相信</span></td><td><i>8 号</i></td></tr>
+<tr><td>05</td><td><span>从一片落叶开始</span></td><td><i>27 号，青峰 ft. 馨仪</i></td></tr>
+<tr><td>06</td><td><span>蝉想</span></td><td><i>14 号</i></td></tr>
+<tr><td>07</td><td><span>这天</span></td><td><i>18 号</i></td></tr>
+<tr><td>08</td><td><span>如果你冷</span></td><td><i>20 号</i></td></tr>
+<tr><td>09</td><td><span>空气中的视听与幻觉</span></td><td><i>4 号</i></td></tr>
+</tbody>
 </table>
 
 ### 点歌排行榜（单曲看板）
@@ -583,30 +609,32 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#F18E53">成都 5.5</span>、<span style="color:#767CBA">深圳 6.1</span>、<span style="color:#55B770">武汉 7.21</span>、<span style="color:#ED7A58">重庆 8.18</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
 <tr><td>小宇宙</td><td>7</td>
 <td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#509779">杭州 4.14</span>、<span style="color:#00B8DE">郑州 5.18</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#56BBC6">北京 6.22</span>、<span style="color:#B6D44E">厦门 8.4</span>、<span style="color:#ED7A58">重庆 8.18</span></td></tr>
+<tr><td>这天</td><td>7</td>
+<td><span style="color:#509779">杭州 4.13</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#767CBA">深圳 6.1</span>、<span style="color:#55B770">武汉 7.21</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
 <tr><td>近未来</td><td>6</td>
 <td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#007CC2">香港 3.24</span>、<span style="color:#509779">杭州 4.13</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
 <tr><td>再遇见</td><td>6</td>
 <td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#509779">杭州 4.13</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#00B8DE">郑州 5.19</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#55B770">武汉 7.21</span></td></tr>
-<tr><td>这天</td><td>6</td>
-<td><span style="color:#509779">杭州 4.13</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#767CBA">深圳 6.1</span>、<span style="color:#55B770">武汉 7.21</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
+<tr><td>相信</td><td>6</td>
+<td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#509779">杭州 4.13</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
+<tr><td>天天晴朗</td><td>6</td>
+<td><span style="color:#007CC2">香港 3.23</span>、<span style="color:#007CC2">香港 3.24</span>、<span style="color:#767CBA">深圳 6.1</span>、<span style="color:#56BBC6">北京 6.23</span>、<span style="color:#55B770">武汉 7.21</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
 <tr><td>笑闹人间</td><td>5</td>
 <td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#007CC2">香港 3.23</span>、<span style="color:#F18E53">成都 5.5</span>、<span style="color:#56BBC6">北京 6.22</span>、<span style="color:#56BBC6">北京 6.23</span></td></tr>
-<tr><td>相信</td><td>5</td>
-<td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#509779">杭州 4.13</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.3</span></td></tr>
-<tr><td>天天晴朗</td><td>5</td>
-<td><span style="color:#007CC2">香港 3.23</span>、<span style="color:#007CC2">香港 3.24</span>、<span style="color:#767CBA">深圳 6.1</span>、<span style="color:#56BBC6">北京 6.23</span>、<span style="color:#55B770">武汉 7.21</span></td></tr>
+<tr><td>蝉想</td><td>5</td>
+<td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#B6D44E">厦门 8.4</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#F9BE00">广州 9.1</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
+<tr><td>罗生门</td><td>5</td>
+<td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#F18E53">成都 5.5</span>、<span style="color:#55B770">武汉 7.21</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
 <tr><td>下雨的夜晚</td><td>5</td>
 <td><span style="color:#509779">杭州 4.13</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#F18E53">成都 5.5</span>、<span style="color:#00B8DE">郑州 5.18</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
-<tr><td>蝉想</td><td>4</td>
-<td><span style="color:#007CC2">香港 3.22</span>、<span style="color:#B6D44E">厦门 8.4</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
-<tr><td>罗生门</td><td>4</td>
-<td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#F18E53">成都 5.5</span>、<span style="color:#55B770">武汉 7.21</span></td></tr>
+<tr><td>他夏了夏天</td><td>5</td>
+<td><span style="color:#509779">杭州 4.14</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 9.1</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
+<tr><td>空气中的视听与幻觉</td><td>5</td>
+<td><span style="color:#F18E53">成都 5.4</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
 <tr><td>左边</td><td>4</td>
 <td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#56BBC6">北京 6.22</span>、<span style="color:#56BBC6">北京 6.23</span>、<span style="color:#B6D44E">厦门 8.3</span></td></tr>
-<tr><td>他夏了夏天</td><td>4</td>
-<td><span style="color:#509779">杭州 4.14</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
-<tr><td>空气中的视听与幻觉</td><td>4</td>
-<td><span style="color:#F18E53">成都 5.4</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
+<tr><td>拾穗</td><td>4</td>
+<td><span style="color:#509779">杭州 4.14</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#56BBC6">北京 6.22</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
 <tr><td>终点起点</td><td>4</td>
 <td><span style="color:#F18E53">成都 5.5</span>、<span style="color:#B6D44E">厦门 8.3</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
 <tr><td>如果凝结就是爱</td><td>3</td>
@@ -623,14 +651,22 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#509779">杭州 4.13</span>、<span style="color:#509779">杭州 4.14</span>、<span style="color:#55B770">武汉 7.21</span></td></tr>
 <tr><td>忧愁</td><td>3</td>
 <td><span style="color:#509779">杭州 4.14</span>、<span style="color:#F18E53">成都 5.4</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
-<tr><td>拾穗</td><td>3</td>
-<td><span style="color:#509779">杭州 4.14</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#56BBC6">北京 6.22</span></td></tr>
 <tr><td>回车诺比的梦</td><td>3</td>
 <td><span style="color:#509779">杭州 4.14</span>、<span style="color:#767CBA">深圳 6.2</span>、<span style="color:#ED7A58">重庆 8.18</span></td></tr>
 <tr><td>先说先赢</td><td>3</td>
 <td><span style="color:#00B8DE">郑州 5.19</span>、<span style="color:#55B770">武汉 7.20</span>、<span style="color:#ED7A58">重庆 8.18</span></td></tr>
 <tr><td>落寞</td><td>3</td>
 <td><span style="color:#56BBC6">北京 6.22</span>、<span style="color:#56BBC6">北京 6.23</span>、<span style="color:#EB79AA">上海 9.16</span></td></tr>
+<tr><td>我好想你</td><td>3</td>
+<td><span style="color:#56BBC6">北京 6.23</span>、<span style="color:#BD9460">南京 9.27</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
+<tr><td>偷闲的翅膀</td><td>3</td>
+<td><span style="color:#55B770">武汉 7.21</span>、<span style="color:#F9BE00">广州 8.31</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
+<tr><td>我只在乎你</td><td>3</td>
+<td><span style="color:#B6D44E">厦门 8.4</span>、<span style="color:#F9BE00">广州 9.1</span>、<span style="color:#BD9460">南京 9.27</span></td></tr>
+<tr><td>从一片落叶开始</td><td>3</td>
+<td><span style="color:#EB79AA">上海 9.16</span>、<span style="color:#EB79AA">上海 9.17</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
+<tr><td>我的未来不是梦</td><td>2</td>
+<td><span style="color:#007CC2">香港 3.23</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
 <tr><td>蓝眼睛</td><td>2</td>
 <td><span style="color:#007CC2">香港 3.24</span>、<span style="color:#767CBA">深圳 6.1</span></td></tr>
 <tr><td>四季狂想</td><td>2</td>
@@ -663,24 +699,22 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#56BBC6">北京 6.22</span>、<span style="color:#ED7A58">重庆 8.17</span></td></tr>
 <tr><td>脑波弱</td><td>2</td>
 <td><span style="color:#56BBC6">北京 6.22</span>、<span style="color:#ED7A58">重庆 8.18</span></td></tr>
+<tr><td>如果你冷</td><td>2</td>
+<td><span style="color:#56BBC6">北京 6.22</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
 <tr><td>燕窝</td><td>2</td>
 <td><span style="color:#56BBC6">北京 6.23</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
 <tr><td>原谅</td><td>2</td>
 <td><span style="color:#55B770">武汉 7.20</span>、<span style="color:#B6D44E">厦门 8.4</span></td></tr>
 <tr><td>Sorry 青春</td><td>2</td>
 <td><span style="color:#55B770">武汉 7.20</span>、<span style="color:#ED7A58">重庆 8.17</span></td></tr>
-<tr><td>偷闲的翅膀</td><td>2</td>
-<td><span style="color:#55B770">武汉 7.21</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
-<tr><td>我只在乎你</td><td>2</td>
-<td><span style="color:#B6D44E">厦门 8.4</span>、<span style="color:#F9BE00">广州 9.1</span></td></tr>
 <tr><td>地平线</td><td>2</td>
 <td><span style="color:#ED7A58">重庆 8.17</span>、<span style="color:#ED7A58">重庆 8.18</span></td></tr>
 <tr><td>掌声落下</td><td>2</td>
 <td><span style="color:#ED7A58">重庆 8.17</span>、<span style="color:#F9BE00">广州 8.31</span></td></tr>
-<tr><td>从一片落叶开始</td><td>2</td>
-<td><span style="color:#EB79AA">上海 9.16</span>、<span style="color:#EB79AA">上海 9.17</span></td></tr>
-<tr><td>非常女、被雨伤透、一想到你呀、相对论 IV、我的未来不是梦</td><td>1</td>
-<td><span style="color:#007CC2">香港 3.23（5/9=55.6%）</span></td></tr>
+<tr><td>你心里最后一个</td><td>2</td>
+<td><span style="color:#BD9460">南京 9.27</span>、<span style="color:#BD9460">南京 9.28</span></td></tr>
+<tr><td>非常女、被雨伤透、一想到你呀、相对论 IV</td><td>1</td>
+<td><span style="color:#007CC2">香港 3.23（4/9=44.4%）</span></td></tr>
 <tr><td>无状态</td><td>1</td>
 <td><span style="color:#007CC2">香港 3.24（1/10=10.0%）</span></td></tr>
 <tr><td>浪漫派</td><td>1</td>
@@ -695,10 +729,6 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#767CBA">深圳 6.1（1/8=12.5%）</span></td></tr>
 <tr><td><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></td><td>1</td>
 <td><span style="color:#767CBA">深圳 6.2（1/9=11.1%）</span></td></tr>
-<tr><td>如果你冷</td><td>1</td>
-<td><span style="color:#56BBC6">北京 6.22（1/10=10.0%）</span></td></tr>
-<tr><td>我好想你</td><td>1</td>
-<td><span style="color:#56BBC6">北京 6.23（1/8=12.5%）</span></td></tr>
 <tr><td>窥、简单生活、一千座喷泉</td><td>1</td>
 <td><span style="color:#ED7A58">重庆 8.17（3/9=33.3%）</span></td></tr>
 <tr><td>你和我的时光、蜂蜜人蔘、煽动</td><td>1</td>
@@ -709,6 +739,8 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <td><span style="color:#EB79AA">上海 9.16（6/9=66.7%）</span></td></tr>
 <tr><td><span style="color:#56BBC6">梦</span>、栅栏间隙偷窥你、九月、安静在沸腾、鱼儿离不开水</td><td>1</td>
 <td><span style="color:#EB79AA">上海 9.17（5/9=55.6%）</span></td></tr>
+<tr><td>我在欧洲打电话给你</td><td>1</td>
+<td><span style="color:#BD9460">南京 9.27（1/9=11.1%）</span></td></tr>
 </tbody>
 </table>
 
@@ -756,8 +788,8 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 <tr style="color:#EB79AA">
 <td>2024.9.16-9.17</td><td>上海</td><td>从一片落叶开始（100→10）</td>
 </tr>
-<tr style="color:#000">
-<td>2024.9.27-9.28</td><td>南京</td><td></td>
+<tr style="color:#BD9460">
+<td>2024.9.27-9.28</td><td>南京</td><td>我好想你（27→2）<br>你心里最后一个（11→22）</td>
 </tr>
 </tbody>
 </table>
@@ -782,7 +814,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA">降落练习存在孪生基因</td><td></td><td style="color:#000"><b>背着你</b></td><td>1</td></tr>
 <tr><td style="color:#00AC4D"><b>相对论 IV</b></td><td>1</td><td style="color:#AAA">坠落</td><td></td></tr>
 <tr><td style="color:#00AC4D"><b>窥</b></td><td>1</td><td style="color:#AAA">无言歌</td><td></td></tr>
-<tr><td style="color:#00AC4D"><b>空气中的视听与幻觉</b></td><td>4</td><td style="color:#000"><b>我的未来不是梦</b></td><td>1</td></tr>
+<tr><td style="color:#00AC4D"><b>空气中的视听与幻觉</b></td><td>5</td><td style="color:#000"><b>我的未来不是梦</b></td><td>2</td></tr>
 <tr><td style="color:#AAA">鳟鱼</td><td></td><td style="color:#000"><b>鱼儿离不开水</b></td><td>1</td></tr>
 <tr><td style="color:#AAA">Believe In Music</td><td></td><td style="color:#AAA">毕竟</td><td></td></tr>
 <tr><td style="color:#00AC4D"><b>蜘蛛天空</b></td><td>2</td><td style="color:#AAA">Rootless Tree</td><td></td></tr>
@@ -803,13 +835,13 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#FEC006"><b>左边</b></td><td>4</td><td style="color:#8FC3C1"><b>迟到千年</b></td><td>/</td></tr>
 <tr><td style="color:#8FC3C1"><b>无与伦比的美丽</b></td><td>/</td><td style="color:#AAA">纪念</td><td></td></tr>
 <tr><td style="color:#AAA">白日出没的月球</td><td></td><td style="color:#AAA">漂浮（Soda Version）</td><td></td></tr>
-<tr><td style="color:#FEC006"><b>这天</b></td><td>6</td><td style="color:#AAA">蜘蛛天空（Classical Version）</td><td></td></tr>
+<tr><td style="color:#FEC006"><b>这天</b></td><td>7</td><td style="color:#AAA">蜘蛛天空（Classical Version）</td><td></td></tr>
 <tr><td style="color:#FEC006"><b>简单生活</b></td><td>1</td><td style="color:#979bb2"><b>蓝眼睛</b></td><td>2</td></tr>
-<tr><td style="color:#FEC006"><b>城市</b></td><td>2</td><td style="color:#979bb2"><b>我只在乎你</b></td><td>2</td></tr>
-<tr><td style="color:#FEC006"><b>相信</b></td><td>5</td><td style="color:#979bb2"><b>罗生门</b></td><td>4</td></tr>
+<tr><td style="color:#FEC006"><b>城市</b></td><td>2</td><td style="color:#979bb2"><b>我只在乎你</b></td><td>3</td></tr>
+<tr><td style="color:#FEC006"><b>相信</b></td><td>6</td><td style="color:#979bb2"><b>罗生门</b></td><td>5</td></tr>
 <tr><td style="color:#AAA">我是一棵秋天的树</td><td></td><td style="color:#979bb2"><b>快乐颂</b></td><td>3</td></tr>
 <tr><td style="color:#AAA">灵光</td><td></td><td style="color:#979bb2"><b>被雨伤透</b></td><td>1</td></tr>
-<tr><td style="color:#FEC006"><b>如果你冷</b></td><td>1</td><td style="color:#AAA">游荡~不能遗忘的全部都在左边</td><td></td></tr>
+<tr><td style="color:#FEC006"><b>如果你冷</b></td><td>2</td><td style="color:#AAA">游荡~不能遗忘的全部都在左边</td><td></td></tr>
 <tr><td style="color:#FEC006"><b>无状态</b></td><td>1</td><td style="color:#AAA">在你生命中打一个岔</td><td></td></tr>
 <tr><td style="color:#AAA">担心</td><td></td><td style="color:#AAA">邮轮与冰山</td><td></td></tr>
 <tr><td style="color:#AAA">乱了</td><td></td><td style="color:#979bb2"><b>落寞</b></td><td>3</td></tr>
@@ -845,12 +877,12 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA">喜欢你现在的样子</td><td></td><td style="color:#AAA"></td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2" style="background-color:#F593C2">春·日光（2+6/19）</th><th colspan="2" style="background-color:#7AC65A">夏／狂热（2+10/11）</th></tr>
+<tr><th colspan="2" style="background-color:#F593C2">春·日光（2+6/19）</th><th colspan="2" style="background-color:#7AC65A">夏／狂热（2+11/20）</th></tr>
 </thead>
 <tbody>
 <tr><td style="color:#F593C2"><b>融雪之前</b></td><td>1</td><td style="color:#7AC65A"><b>掌声落下</b></td><td>2</td></tr>
-<tr><td style="color:#F593C2">牧神搭上春色的火车，而</td><td><i>阿龚表演</i></td><td style="color:#7AC65A"><b>他夏了夏天</b></td><td>4</td></tr>
-<tr><td style="color:#8FC3C1"><b>日光</b></td><td>/</td><td style="color:#7AC65A"><b>蝉想</b></td><td>4</td></tr>
+<tr><td style="color:#F593C2">牧神搭上春色的火车，而</td><td><i>阿龚表演</i></td><td style="color:#7AC65A"><b>他夏了夏天</b></td><td>5</td></tr>
+<tr><td style="color:#8FC3C1"><b>日光</b></td><td>/</td><td style="color:#7AC65A"><b>蝉想</b></td><td>5</td></tr>
 <tr><td style="color:#AAA">在我们之间</td><td></td><td style="color:#7AC65A"><b>包围</b></td><td>3</td></tr>
 <tr><td style="color:#AAA">各站停靠：</td><td></td><td style="color:#7AC65A"><b>御花园</b></td><td>2</td></tr>
 <tr><td style="color:#F593C2"><b>一千座喷泉</b></td><td>1</td><td style="color:#7AC65A"><b>彼得与狼</b></td><td>2</td></tr>
@@ -861,7 +893,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA">海洋</td><td></td><td style="color:#7AC65A"><b>近未来</b></td><td>6</td></tr>
 <tr><td style="color:#AAA">月亮使者</td><td></td><td style="color:#7AC65A"><b>开到荼蘼</b></td><td>1</td></tr>
 <tr><td style="color:#F593C2"><b>原谅</b></td><td>2</td><td style="color:#AAA">战</td><td></td></tr>
-<tr><td style="color:#AAA">わすれない</td><td></td><td style="color:#AAA">我在欧洲打电话给你</td><td></td></tr>
+<tr><td style="color:#AAA">わすれない</td><td></td><td style="color:#7AC65A"><b>我在欧洲打电话给你</b></td><td>1</td></tr>
 <tr><td style="color:#F593C2"><b>九月</b></td><td>1</td><td style="color:#AAA">The Blower's Daughter</td><td></td></tr>
 <tr><td style="color:#AAA">美错</td><td></td><td style="color:#AAA">You Oughta Know</td><td></td></tr>
 <tr><td style="color:#AAA">天地记</td><td></td><td style="color:#AAA">Smells Lke Teen Spirit</td><td></td></tr>
@@ -870,20 +902,20 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">Big Dream</td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+6/12）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
+<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+7/12）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
 </thead>
 <tbody>
 <tr><td style="color:#8FC3C1"><b>故事</b></td><td>/</td><td style="color:#8FC3C1"><b>痛快的哀艳</b></td><td>/</td></tr>
-<tr><td style="color:#F2A135"><b>从一片落叶开始</b></td><td>2</td><td style="color:#204C93"><b>对杀人狂指控</b></td><td>1</td></tr>
+<tr><td style="color:#F2A135"><b>从一片落叶开始</b></td><td>3</td><td style="color:#204C93"><b>对杀人狂指控</b></td><td>1</td></tr>
 <tr><td style="color:#AAA">独处的时候</td><td></td><td style="color:#204C93"><b>地平线</b></td><td>2</td></tr>
-<tr><td style="color:#F2A135"><b>我好想你</b></td><td>1</td><td style="color:#AAA">我们不懂</td><td></td></tr>
-<tr><td style="color:#F2A135"><b>偷闲的翅膀</b></td><td>2</td><td style="color:#204C93"><b>博物馆</b></td><td>2</td></tr>
-<tr><td style="color:#F2A135"><b>天天晴朗</b></td><td>5</td><td style="color:#204C93"><b>回车诺比的梦</b></td><td>3</td></tr>
+<tr><td style="color:#F2A135"><b>我好想你</b></td><td>3</td><td style="color:#AAA">我们不懂</td><td></td></tr>
+<tr><td style="color:#F2A135"><b>偷闲的翅膀</b></td><td>3</td><td style="color:#204C93"><b>博物馆</b></td><td>2</td></tr>
+<tr><td style="color:#F2A135"><b>天天晴朗</b></td><td>6</td><td style="color:#204C93"><b>回车诺比的梦</b></td><td>3</td></tr>
 <tr><td style="color:#8FC3C1"><b>说了再见以后</b></td><td>/</td><td style="color:#204C93"><b>下雨的夜晚</b></td><td>5</td></tr>
 <tr><td style="color:#AAA">我们走了一光年</td><td></td><td style="color:#204C93"><b>他举起右手点名</b></td><td>7</td></tr>
 <tr><td style="color:#F2A135"><b>再遇见</b></td><td>6</td><td style="color:#8FC3C1"><b>Everyone</b></td><td>/</td></tr>
-<tr><td style="color:#F2A135"><b>拾穗</b></td><td>3</td><td style="color:#204C93"><b><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></b></td><td>1</td></tr>
-<tr><td style="color:#AAA">你心里最后一个</td><td></td><td style="color:#AAA">未了</td><td></td></tr>
+<tr><td style="color:#F2A135"><b>拾穗</b></td><td>4</td><td style="color:#204C93"><b><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></b></td><td>1</td></tr>
+<tr><td style="color:#F2A135"><b>你心里最后一个</b></td><td>2</td><td style="color:#AAA">未了</td><td></td></tr>
 <tr><td style="color:#AAA">小星星</td><td></td><td style="color:#AAA">Must Keep Singing</td><td></td></tr>
 </tbody>
 <thead>
@@ -901,7 +933,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#3E5C24"><b>先说先赢</b></td><td>3</td><td style="color:#ED7A58"><b>一整天</b></td><td>1</td></tr>
 <tr><td style="color:#AAA">星月花火</td><td></td><td style="color:#AAA">面面相觑</td><td></td></tr>
 <tr><td style="color:#3E5C24"><b>终点起点</b></td><td>4</td><td style="color:#AAA">应许</td><td></td></tr>
-<tr><td style="color:#AAA"></td><td></td><td style="color:#AAA"><i>南京限定未公布</i></td><td></td></tr>
+<tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">饥饿再生</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan="4" style="background-color:#AAA;color:white">其他单曲</th></tr>
@@ -924,7 +956,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <th colspan="2">出现歌曲及场次</th><th>备注</th></tr>
 </thead>
 <tbody>
-<tr><th rowspan="13"><span style="color:#3EAF7C">1</span></th><td rowspan="13">13</td>
+<tr><th rowspan="15"><span style="color:#3EAF7C">1</span></th><td rowspan="15">15</td>
 <td>空气中的视听与幻觉</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>笑闹人间</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
 <tr><td>在世界的尽头大声地说我恨你</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
@@ -938,37 +970,45 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>御花园</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
 <tr><td>小时候</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
 <tr><td>鱼儿离不开水</td><td><span style="color:#EB79AA">上海 9.17</span></td><td><i></i></td></tr>
-<tr><th rowspan="4">2</th><td rowspan="4">4</td>
+<tr><td>我在欧洲打电话给你</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><td>我的未来不是梦</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
+<tr><th rowspan="6">2</th><td rowspan="6">6</td>
 <td>带我走</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>燕窝</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
 <tr><td>我只在乎你</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
 <tr><td>一整天</td><td><span style="color:#EB79AA">上海 9.16</span></td><td><i></i></td></tr>
+<tr><td>天天晴朗</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><td>我好想你</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="3">3</th><td rowspan="3">3</td>
 <td>城市</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>他夏了夏天</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
 <tr><td>吵</td><td><span style="color:#EB79AA">上海 9.17</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">4</th><td rowspan="3">3</td>
+<tr><th rowspan="4">4</th><td rowspan="4">4</td>
 <td>异次元的玫瑰</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
 <tr><td>落寞</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>这天</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
-<tr><th rowspan="2">5</th><td rowspan="2">2</td>
+<tr><td>空气中的视听与幻觉</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
+<tr><th rowspan="3">5</th><td rowspan="3">3</td>
 <td>笑闹人间</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>落寞</td><td><span style="color:#EB79AA">上海 9.16</span></td><td><i></i></td></tr>
-<tr><th rowspan="6"><span style="color:#3EAF7C">6</span></th><td rowspan="6">6</td>
+<tr><td>拾穗</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><th rowspan="7"><span style="color:#3EAF7C">6</span></th><td rowspan="7">7</td>
 <td>这天</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>博物馆</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
 <tr><td>小宇宙</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>是我的海</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>小宇宙</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>他举起右手点名</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
-<tr><th rowspan="6">7</th><td rowspan="6">6</td>
+<tr><td>我只在乎你</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><th rowspan="7">7</th><td rowspan="7">7</td>
 <td>原汁原味</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
 <tr><td>黑猫白猫</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i>青峰自点</i></td></tr>
 <tr><td>我好想你</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>原谅</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
 <tr><td>近未来</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>脑波弱</td><td><span style="color:#ED7A58">重庆 8.18</span></td><td><i></i></td></tr>
-<tr><th rowspan="7">8</th><td rowspan="7">7</td>
+<tr><td>罗生门</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><th rowspan="8">8</th><td rowspan="8">8</td>
 <td>罗生门</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>再遇见</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
 <tr><td>拾穗</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
@@ -976,18 +1016,21 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>我只在乎你</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>掌声落下</td><td><span style="color:#ED7A58">重庆 8.17</span></td><td><i>由王竟力点歌</i></td></tr>
 <tr><td>包围</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">9</th><td rowspan="3">3</td>
+<tr><td>相信</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
+<tr><th rowspan="4">9</th><td rowspan="4">4</td>
 <td>左边</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>是我的海</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
 <tr><td>漂浮</td><td><span style="color:#EB79AA">上海 9.17</span></td><td><i></i></td></tr>
+<tr><td>他夏了夏天</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
 <tr><th rowspan="4">10</th><td rowspan="4">4</td>
 <td>交响梦</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>幸福额度</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
 <tr><td>城市</td><td><span style="color:#ED7A58">重庆 8.17</span></td><td><i></i></td></tr>
 <tr><td>从一片落叶开始</td><td><span style="color:#EB79AA">上海 9.17</span></td><td><i></i></td></tr>
-<tr><th rowspan="2">11</th><td rowspan="2">2</td>
+<tr><th rowspan="3">11</th><td rowspan="3">3</td>
 <td>左边</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>窥</td><td><span style="color:#ED7A58">重庆 8.17</span></td><td><i></i></td></tr>
+<tr><td>你心里最后一个</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
 <tr><th rowspan="4">12</th><td rowspan="4">4</td>
 <td>吵</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
 <tr><td>天天晴朗</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
@@ -997,9 +1040,10 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <td>近未来</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>笑闹人间</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>终点起点</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
-<tr><th rowspan="2">14</th><td rowspan="2">2</td>
+<tr><th rowspan="3">14</th><td rowspan="3">3</td>
 <td>忧愁</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>终点起点</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
+<tr><td>蝉想</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="2">15</th><td rowspan="2">2</td>
 <td>相信</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
 <tr><td>背着你</td><td><span style="color:#EB79AA">上海 9.16</span></td><td><i></i></td></tr>
@@ -1012,12 +1056,13 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>脑波弱</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
 <tr><td>幸福额度</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>安静在沸腾</td><td><span style="color:#EB79AA">上海 9.17</span></td><td><i></i></td></tr>
-<tr><th rowspan="2">18</th><td rowspan="2">2</td>
+<tr><th rowspan="3">18</th><td rowspan="3">3</td>
 <td>再遇见</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>先说先赢</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
+<tr><td>这天</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="1">19</th><td rowspan="1">1</td>
 <td>Sorry 青春</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
-<tr><th rowspan="8"><span style="color:#3EAF7C">20</span><br><span style="color:#56BBC6;font-weight:normal;font-style:italic">北京报批数</span></th><td rowspan="8">8</td>
+<tr><th rowspan="10"><span style="color:#3EAF7C">20</span><br><span style="color:#56BBC6;font-weight:normal;font-style:italic">北京报批数</span></th><td rowspan="10">10</td>
 <td>下雨的夜晚</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>小宇宙</td><td><span style="color:#00B8DE">郑州 5.18</span></td><td><i></i></td></tr>
 <tr><td>如果你冷</td><td><span style="color:#56BBC6">北京 6.22</span></td><td><i></i></td></tr>
@@ -1026,14 +1071,17 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>飞鱼</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
 <tr><td>简单生活</td><td><span style="color:#ED7A58">重庆 8.17</span></td><td><i></i></td></tr>
 <tr><td>掌声落下</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
+<tr><td>偷闲的翅膀</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><td>如果你冷</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="3">21</th><td rowspan="3">3</td>
 <td>他举起右手点名</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>再遇见</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
 <tr><td>这天</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">22</th><td rowspan="3">3</td>
+<tr><th rowspan="4">22</th><td rowspan="4">4</td>
 <td>博物馆</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i>由郭涛点歌</i></td></tr>
 <tr><td>是我的海</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
 <tr><td>相信</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
+<tr><td>你心里最后一个</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="3">23</th><td rowspan="3">2</td>
 <td>终点起点</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
 <tr><td>这天</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
@@ -1049,10 +1097,12 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>先说先赢</td><td><span style="color:#00B8DE">郑州 5.19</span></td><td><i></i></td></tr>
 <tr><td>空气中的视听与幻觉</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
 <tr><td>蝉想</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">27</th><td rowspan="3">3</td>
+<tr><th rowspan="5">27<br><span style="color:#BD9460;font-weight:normal;font-style:italic">南京报批数</span></th><td rowspan="5">5</td>
 <td>下雨的夜晚</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
 <tr><td>如果凝结就是爱</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
 <tr><td>蝉想</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
+<tr><td>我好想你</td><td><span style="color:#BD9460">南京 9.27</span></td><td><i></i></td></tr>
+<tr><td>从一片落叶开始</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
 <tr><th rowspan="3">28</th><td rowspan="3">3</td>
 <td>天天晴朗</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
 <tr><td>先说先赢</td><td><span style="color:#ED7A58">重庆 8.18</span></td><td><i></i></td></tr>
@@ -1170,6 +1220,11 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td rowspan="2">9.17</td><td rowspan="2">1</td><td rowspan="2">鱼儿离不开水</td><td rowspan="2">100</td><td rowspan="2">九月</td><td>44</td><td>梦</td></tr>
 <tr><td>66</td><td>快乐颂</td></tr>
 </tbody>
+<tbody style="color:#BD9460">
+<tr><td rowspan="2">南京<br>1-27</td>
+<td>9.27</td><td>1</td><td>我在欧洲打电话给你</td><td>27</td><td>我好想你</td><td>11</td><td>你心里最后一个</td></tr>
+<tr><td>9.28</td><td>1</td><td>我好想你</td><td>27</td><td>从一片落叶开始</td><td>22</td><td>你心里最后一个</td></tr>
+</tbody>
 </table>
 
 ## 演唱会亲友团观演不完全统计
@@ -1200,10 +1255,10 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>8.18</td><td></td><td></td></tr>
 <tr><td rowspan="2">广州</td><td>8.31</td><td></td><td></td></tr>
 <tr><td>9.1</td><td>吴妈妈</td><td></td></tr>
-<tr><td rowspan="2">上海</td><td>9.16</td><td>Sunny</td><td></td></tr>
-<tr><td>9.17</td><td></td><td></td></tr>
+<tr><td rowspan="2">上海</td><td>9.16</td><td>Sunny、馨仪一家</td><td></td></tr>
+<tr><td>9.17</td><td>馨仪一家</td><td></td></tr>
 <tr><td rowspan="2">南京</td><td>9.27</td><td></td><td></td></tr>
-<tr><td>9.28</td><td></td><td></td></tr>
+<tr><td>9.28</td><td>吴妈妈</td><td></td></tr>
 </tbody>
 </table>
 

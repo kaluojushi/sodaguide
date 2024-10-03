@@ -23,8 +23,8 @@ actions:
     link: /news/
   - text: 二十年一刻🎤
     link: /news/20yike
-  - text: 演唱会南京站（9.27-9.28）🎤
-    link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
+  - text: 观演报告
+    link: https://20yike-report.sodaguide.io/
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
@@ -36,13 +36,9 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【南京站】
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18；2024 年 09 月 04 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>大麦</b>、猫眼、票星球
-        link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
-      - title: 巡演 11 城官宣
+      - title: 2025 巡演官宣
         icon: news
-        details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>广州、郑州、厦门、深圳</b><br><b>重庆、南京、武汉、杭州</b><br><b>成都、北京、上海</b><br>即将登场！
+        details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>台北</b><br>即将登场！
         link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
@@ -53,10 +49,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站 - 苏打绿
-        icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2024 年 09 月 27 日、2024 年 09 月 28 日<br><b>地点：</b>南京青奥体育公园体育馆<br><b>演出信息：</b>每晚 19:00 开始<br><b>开票时间：</b>2024 年 07 月 25 日 12:18；2024 年 09 月 04 日 12:18 二开<br><b>票价：</b>480/680/980/1280/1580（片刻永恒特区），电子票强实名条件退<br><b>购票平台（加粗为总代）：</b><b>大麦</b>、猫眼、票星球
-        link: /news/perform.html#【2024-09-27、2024-09-28】苏打绿二十年一刻巡回演唱会南京站-苏打绿
       - title: 【2024-10-04】合肥 Bubbling&Boiling 喜力·泡泡岛音乐与艺术节·华东站 - 吴青峰
         icon: square-two
         details: <b>类型：</b>音乐节<br><b>时间：</b>2024 年 10 月 04 日<br><b>地点：</b>合肥骆岗公园<br><b>演出信息：</b>19:40-20:30 SOSO STAGE<br><b>开票时间：</b>已开票<br><b>票价：</b>299-769，电子票强实名条件退<br><b>购票平台：</b>创娱小程序、大麦、秀动、猫眼、票星球、纷玩岛、抖音生活服务
@@ -89,6 +81,10 @@ highlights:
       - title: 苏打绿《夏／狂热（苏打绿版）》复刻专辑 CD2 2024.08.30 正式上线！
         icon: icecream
         details: <b>2024.08.30 00:00</b> 全平台数位上线<br><b>同日</b> 实体正式发行<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/0005YyRR07dYdp
+      - title: 苏打绿〈故事（苏打绿版）〉单曲 2024.09.27 正式上线！
+        icon: leaf
+        details: <b>2024.09.27 12:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
         link: https://y.qq.com/n/ryqq/albumDetail/0005YyRR07dYdp
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen.html#复刻计划"><b>什么是复刻计划？</b></a>
