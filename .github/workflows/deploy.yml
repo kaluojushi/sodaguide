@@ -1,12 +1,13 @@
 name: Deploy
 
-#on: [push]
+#on: [push, workflow_dispatch]
 
-# 在master分支发生push事件时触发。
+# 在master分支发生push事件时触发；手动触发
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 env: # 设置环境变量
   TZ: Asia/Shanghai # 时区（设置时区可使页面中的`最近更新时间`使用该时区时间）
