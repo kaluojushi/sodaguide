@@ -1,6 +1,6 @@
 import {defineUserConfig} from 'vuepress';
 import theme from "./theme";
-import {searchProPlugin} from "vuepress-plugin-search-pro";
+import { searchPlugin } from "@vuepress/plugin-search";
 import {viteBundler} from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
@@ -17,8 +17,7 @@ export default defineUserConfig({
   ],
   theme,
   plugins: [
-    searchProPlugin({
-      indexContent: true,
+    searchPlugin({
     }),
   ],
   bundler: viteBundler({
