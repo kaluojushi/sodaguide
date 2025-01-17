@@ -172,11 +172,11 @@ highlights:
 
 你好！我是 **卡洛**。
 
-我喜欢苏打绿 **大概 10 年多** 了。在我上大学——终于有时间有精力追星——的时候，苏打绿休团了。这段时间，一直靠着「考古」支撑自己。
+我喜欢苏打绿 **大概 10 多年** 了。在我上大学——终于有时间有精力追星——的时候，苏打绿休团了。这段时间，一直靠着「考古」支撑自己。
 
 苏打绿是一个很特别的乐团，在看遍了 B 站、知乎、微博、维基百科等各种各样的资料之后，我发现，苏打绿的故事太有意思了。
 
-现在我已经是一个 **前端程序员**，那我就想做一个苏打绿的追星百科，把所有的资料整理起来，让大家能够更好地了解苏打绿。
+现在我已经是一个 **IT 程序员**，那我就想做一个苏打绿的追星百科，把所有的资料整理起来，让大家能够更好地了解苏打绿。
 
 ![苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/sodagreen.jpg =1000x)
 
@@ -190,6 +190,8 @@ highlights:
 
 苏打盖资料搜集自网络，难免有错误和疏漏。如果你也喜欢苏打绿并且熟悉 Git 和 Markdown（会一点前端开发更好！），欢迎你来完善这个项目。
 
-我们推荐你通过 GitHub 的 [Issues](https://github.com/kaluojushi/sodaguide/issues) 和 [Pull Request](https://github.com/kaluojushi/sodaguide/pulls) 来提交你的建议和修改。
+如果你想参与到本项目中，可以查看 [贡献指南](/about/contribution)。
+
+我们推荐你通过 GitHub 的 [Issues](https://github.com/kaluojushi/sodaguide/issues) 和 [Pull requests](https://github.com/kaluojushi/sodaguide/pulls) 来提交你的建议和修改。
 
 如果你不会代码，也没关系！网站所有页面都提供了 **评论功能**，你可以在下面留言。你也可以帮我搜集资料，谢谢啦！打粉老师都是好人～

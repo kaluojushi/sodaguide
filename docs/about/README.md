@@ -13,6 +13,8 @@ title: 关于本站
 
 我希望这个项目能够帮助到更多的苏打绿粉丝，也希望能够帮助到更多的人了解苏打绿。
 
+此外，当我得知本项目还启发了某位杰迷老师创作了 [JayChou's wiki](https://www.jaychou.wiki/) 后，也感到很开心。这也说明了苏打盖 Sodaguide 的价值所在。
+
 苏打盖 Sodaguide 的更新历史请点击 [这里](history) 查看。
 
 如果你想参与到本项目中，可以查看 [贡献指南](contribution)。

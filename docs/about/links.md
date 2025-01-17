@@ -40,7 +40,7 @@ title: 推荐链接
 - [-VanGogh-](https://space.bilibili.com/939387)：梵高老师的 After Summer 录屏拯救了无数考古人
 - [槐序序序](https://space.bilibili.com/1715516)：2015 年左右的资源
 - [陳菊花2](https://space.bilibili.com/11018265)：苏打绿考古合集，很多早期音源试听
-- [野生老树-dfls版](https://space.bilibili.com/14492268)：楊树早老师，内有苏打绿二十年一刻巡演歌单
+- [~~野生老树-dfls版~~ 这天日历2025](https://space.bilibili.com/14492268)：~~楊树早老师，内有苏打绿二十年一刻巡演歌单~~ 楊老师现已化身这天日历 2025
 - [空视幻Exocoetidae](https://space.bilibili.com/8495567)：纯人声制作
 
 ### 解读与创作
@@ -56,4 +56,8 @@ title: 推荐链接
 - [我是肘子啊](https://space.bilibili.com/33972127)：吉他弹唱
 - [watermelonCHANZ](https://space.bilibili.com/33698414)：西瓜老师，吉他翻弹
 - [蘇打蓋](https://space.bilibili.com/2030589714)：与本站同名的 up 主，吉他弹唱
-- [-chiugo-](https://space.bilibili.com/446173771)：吉他弹唱
+- [WinVerde](https://space.bilibili.com/446173771)：吉他弹唱
+
+## 其他
+
+- [JayChou's wiki](https://www.jaychou.wiki/)：杰伦百科资料集，某位杰迷老师基于本站 idea 创作的项目
