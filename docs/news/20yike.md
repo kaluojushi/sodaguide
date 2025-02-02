@@ -1,15 +1,15 @@
 ---
 icon: concert
-title: 苏打绿二十年一刻巡回演唱会专栏
+title: 二十年一刻巡演（2024）
 ---
 
-**此页面最后更新于：2024 年 10 月 4 日。** 本页面信息可能失去时效性，请以官方信息为准。
+**此页面最后更新于：2025 年 2 月 2 日。** 本页面信息可能失去时效性，请以官方信息为准。
 
 **受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
 
 ::: info 提示
 
-点击 [**这里**](https://20yike-report.sodaguide.io/) 查看你的 **观演报告**！！！
+点击 [**这里**](https://20yike-report.sodaguide.io/) 查看你的 **2024 观演报告**！！！
 
 来看看你一共去了多少场，听了多少歌，解锁了什么成就？
 
@@ -41,7 +41,6 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 |    8.31、9.1    |  六、日  |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已结束 |  |
 |   9.16、9.17    |  一、二  |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已结束 |  |
 |   9.27、9.28    |  五、六  |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已结束 |  |
-|       ……       |       |                                     |                                                            |             |                                                                                                                                                                     |     |                                                              |
 
 点 [这里](/news/perform) 查看其他演出情况。
 
@@ -465,7 +464,7 @@ title: 苏打绿二十年一刻巡回演唱会专栏
 </thead>
 <tbody>
 <tr><td rowspan="8">8.3</td><td>01</td><td><span>相信</span></td><td><i>22 号</i></td></tr>
-<tr><td>-</td><td><span><i><del>飞鱼</del></i></span></td><td><i><del>23 号，听错数字</del></i></td></tr>
+<tr><td>-</td><td><span><i><del>飞鱼</del></i></span></td><td><i><del>13 号，大屏幕找错观众</del></i></td></tr>
 <tr><td>02</td><td><span>空气中的视听与幻觉</span></td><td><i>26 号</i></td></tr>
 <tr><td>03</td><td><span>幸福额度</span></td><td><i>10 号</i></td></tr>
 <tr><td>04</td><td><span>左边</span></td><td><i>12 号</i></td></tr>
@@ -917,6 +916,14 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#F2A135"><b>拾穗</b></td><td>4</td><td style="color:#204C93"><b><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></b></td><td>1</td></tr>
 <tr><td style="color:#F2A135"><b>你心里最后一个</b></td><td>2</td><td style="color:#AAA">未了</td><td></td></tr>
 <tr><td style="color:#AAA">小星星</td><td></td><td style="color:#AAA">Must Keep Singing</td><td></td></tr>
+<tr><td style="color:#F2A135"><b>安静在沸腾</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">Where Have All The Cowboys Gone?</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">Be Be Your Love</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">雪の華</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#F2A135"><b>百年孤寂</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">影子</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">夜太黑</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#AAA">恋曲 1990</td><td></td><td style="color:#AAA"></td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan="2" style="background-color:#3E5C24;color:white">池堂怪谈（0+6/11）</th><th colspan="2" style="background-color:#8FC3C1;color:white">一刻限定单曲（5/12）</th></tr>
@@ -941,10 +948,10 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tbody>
 <tr><td style="color:#8FC3C1"><b>Tomorrow will be fine.</b></td><td>/</td><td style="color:#AAA"><b>跟着你到天边</b></td><td>1</td></tr>
 <tr><td style="color:#AAA"><b>沙发里有沙发 Radio</b></td><td>1</td><td style="color:#AAA"><b>你和我的时光</b></td><td>1</td></tr>
-<tr><td style="color:#AAA"><b>非常女</b></td><td>1</td><td style="color:#AAA"><b>百年孤寂</b></td><td>1</td></tr>
-<tr><td style="color:#AAA"><b>女爵</b></td><td>1</td><td style="color:#AAA"><b>那些花儿</b></td><td>1</td></tr>
-<tr><td style="color:#AAA"><b>掉了</b></td><td>1</td><td style="color:#AAA"><b>栅栏间隙偷窥你</b></td><td>1</td></tr>
-<tr><td style="color:#AAA"><b>带我走</b></td><td>2</td><td style="color:#AAA"><b>安静在沸腾</b></td><td>1</td></tr>
+<tr><td style="color:#AAA"><b>非常女</b></td><td>1</td><td style="color:#AAA"><b>那些花儿</b></td><td>1</td></tr>
+<tr><td style="color:#AAA"><b>女爵</b></td><td>1</td><td style="color:#AAA"><b>栅栏间隙偷窥你</b></td><td>1</td></tr>
+<tr><td style="color:#AAA"><b>掉了</b></td><td>1</td><td style="color:#AAA"><b></b></td><td></td></tr>
+<tr><td style="color:#AAA"><b>带我走</b></td><td>2</td><td style="color:#AAA"><b></b></td><td></td></tr>
 </tbody>
 </table>
 
@@ -1036,10 +1043,11 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>天天晴朗</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>左边</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
 <tr><td>空气中的视听与幻觉</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">13</th><td rowspan="3">3</td>
+<tr><th rowspan="4">13</th><td rowspan="4">3</td>
 <td>近未来</td><td><span style="color:#F18E53">成都 5.4</span></td><td><i></i></td></tr>
 <tr><td>笑闹人间</td><td><span style="color:#56BBC6">北京 6.23</span></td><td><i></i></td></tr>
 <tr><td>终点起点</td><td><span style="color:#F9BE00">广州 9.1</span></td><td><i></i></td></tr>
+<tr><td><del>飞鱼</del></td><td><del><span style="color:#B6D44E">厦门 8.3</span></del></td><td><i><del>大屏幕找错观众</del></i></td></tr>
 <tr><th rowspan="3">14</th><td rowspan="3">3</td>
 <td>忧愁</td><td><span style="color:#B6D44E">厦门 8.4</span></td><td><i></i></td></tr>
 <tr><td>终点起点</td><td><span style="color:#F9BE00">广州 8.31</span></td><td><i></i></td></tr>
@@ -1082,10 +1090,9 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td>是我的海</td><td><span style="color:#55B770">武汉 7.20</span></td><td><i></i></td></tr>
 <tr><td>相信</td><td><span style="color:#B6D44E">厦门 8.3</span></td><td><i></i></td></tr>
 <tr><td>你心里最后一个</td><td><span style="color:#BD9460">南京 9.28</span></td><td><i></i></td></tr>
-<tr><th rowspan="3">23</th><td rowspan="3">2</td>
+<tr><th rowspan="2">23</th><td rowspan="2">2</td>
 <td>终点起点</td><td><span style="color:#F18E53">成都 5.5</span></td><td><i></i></td></tr>
 <tr><td>这天</td><td><span style="color:#55B770">武汉 7.21</span></td><td><i></i></td></tr>
-<tr><td><del>飞鱼</del></td><td><del><span style="color:#B6D44E">厦门 8.3</span></del></td><td><i><del>听错数字</del></i></td></tr>
 <tr><th rowspan="1">24</th><td rowspan="1">1</td>
 <td>你和我的时光</td><td><span style="color:#ED7A58">重庆 8.18</span></td><td><i></i></td></tr>
 <tr><th rowspan="2">25</th><td rowspan="2">1</td>
