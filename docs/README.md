@@ -22,12 +22,12 @@ actions:
   - text: 苏打资讯📰
     link: /news/
   - text: 二十年一刻🎤
-    link: /news/20yike
+    link: /news/20yike-2025
   - text: 观演报告
     link: https://20yike-report.sodaguide.io/
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
-    description: 一辈子有多少次相聚，多少个四季？<br>2024 年春 苏打绿<br>二十年一刻 巡回演唱会<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
+    description: 苏打绿《二十年一刻》巡回演唱会，<br>舞台视为大地，音乐流转四季：<br>日光里苏醒、狂热中躁动、故事里多愁、未了的磅礴，<br>在那奇幻的魔方世界里，片刻永恒，寻回二十年的过去与现在。<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
     bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
@@ -36,9 +36,33 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 2025 巡演官宣
-        icon: news
-        details: 巡演官宣！想念，我们就再遇见！<br>苏打绿二十年一刻巡回演唱会在<br><b>台北</b><br>即将登场！
+      - title: 【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 2 月 22 日、2025 年 2 月 23 日<br><b>地点：</b>台北小巨蛋<br><b>演出信息：</b>2 月 22 日 19:30 开始；2 月 23 日 18:30 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>NT$ 5380/4980/4380/3880/3380/2880/2380/1880/800（约合人民币 1183/1095/963/853/743/633/523/413/176），纸质票<br><b>购票平台：</b>拓元
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-03-08】苏打绿二十年一刻巡回演唱会新加坡站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 8 日<br><b>地点：</b>新加坡室內體育館<br><b>演出信息：</b>20:00 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>SG$ 328/288/258/228/198/168（约合人民币 1750/1537/1377/1217/1057/897），纸质票<br><b>购票平台：</b>TicketMaster、LiveNation
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-03-30】苏打绿二十年一刻巡回演唱会悉尼站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 30 日<br><b>地点：</b>ICC Sydney Theatre<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-04-02】苏打绿二十年一刻巡回演唱会墨尔本站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 2 日<br><b>地点：</b>John Cain Arena<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 20 日<br><b>地点：</b>OVO Arena Wembley<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 26 日<br><b>地点：</b>Tempodrom<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
+      - title: 【2025-05-29】苏打绿二十年一刻巡回演唱会东京站
+        icon: concert
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/20yike.html#苏打绿二十年一刻巡回演唱会-list
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
@@ -49,10 +73,34 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2024-10-04】合肥 Bubbling&Boiling 喜力·泡泡岛音乐与艺术节·华东站 - 吴青峰
+      - title: 【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站
+        icon: square-one
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 2 月 22 日、2025 年 2 月 23 日<br><b>地点：</b>台北小巨蛋<br><b>演出信息：</b>2 月 22 日 19:30 开始；2 月 23 日 18:30 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>NT$ 5380/4980/4380/3880/3380/2880/2380/1880/800（约合人民币 1183/1095/963/853/743/633/523/413/176），纸质票<br><b>购票平台：</b>拓元
+        link: /news/perform.html#【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站-苏打绿
+      - title: 【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站
         icon: square-two
-        details: <b>类型：</b>音乐节<br><b>时间：</b>2024 年 10 月 04 日<br><b>地点：</b>合肥骆岗公园<br><b>演出信息：</b>19:40-20:30 SOSO STAGE<br><b>开票时间：</b>已开票<br><b>票价：</b>299-769，电子票强实名条件退<br><b>购票平台：</b>创娱小程序、大麦、秀动、猫眼、票星球、纷玩岛、抖音生活服务
-        link: /news/perform.html#【2024-10-04】合肥-bubbling-boiling-喜力·泡泡岛音乐与艺术节·华东站-吴青峰
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 8 日<br><b>地点：</b>新加坡室內體育館<br><b>演出信息：</b>20:00 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>SG$ 328/288/258/228/198/168（约合人民币 1750/1537/1377/1217/1057/897），纸质票<br><b>购票平台：</b>TicketMaster、LiveNation
+        link: /news/perform.html#【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站-苏打绿
+      - title: 【2025-03-30】苏打绿二十年一刻巡回演唱会悉尼站
+        icon: square-three
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 30 日<br><b>地点：</b>ICC Sydney Theatre<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/perform.html#【2025-03-30】苏打绿二十年一刻巡回演唱会悉尼站-苏打绿
+      - title: 【2025-04-02】苏打绿二十年一刻巡回演唱会墨尔本站
+        icon: square-four
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 2 日<br><b>地点：</b>John Cain Arena<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/perform.html#【2025-04-02】苏打绿二十年一刻巡回演唱会墨尔本站-苏打绿
+      - title: 【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站
+        icon: square-five
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 20 日<br><b>地点：</b>OVO Arena Wembley<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>
+        link: /news/perform.html#【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站-苏打绿
+      - title: 【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站
+        icon: square-six
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 26 日<br><b>地点：</b>Tempodrom<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/perform.html#【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站-苏打绿
+      - title: 【2025-05-29】苏打绿二十年一刻巡回演唱会东京站
+        icon: square-seven
+        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
+        link: /news/perform.html#【2025-05-29】苏打绿二十年一刻巡回演唱会东京站-苏打绿
   - header: 【韦瓦第复刻消息合集】
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
     bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
@@ -85,7 +133,15 @@ highlights:
       - title: 苏打绿〈故事（苏打绿版）〉单曲 2024.09.27 正式上线！
         icon: leaf
         details: <b>2024.09.27 12:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
-        link: https://y.qq.com/n/ryqq/albumDetail/0005YyRR07dYdp
+        link: https://y.qq.com/n/ryqq/albumDetail/003AhjAq13ESOx
+      - title: 苏打绿《秋：故事（苏打绿版）》复刻专辑全专 2024.11.08 正式上线！
+        icon: leaf
+        details: <b>2024.11.08 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/004QF5kp0jgyba
+      - title: 苏打绿〈未了（苏打绿版）〉单曲 2025.01.10 正式上线！
+        icon: snow
+        details: <b>2025.01.10 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/001URXgl2PCrYH
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen.html#复刻计划"><b>什么是复刻计划？</b></a>
     image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg

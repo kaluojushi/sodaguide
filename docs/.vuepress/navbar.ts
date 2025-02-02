@@ -70,6 +70,11 @@ export default [
         icon: 'concert',
         link: '/news/20yike',
       },
+      {
+        text: '二十年一刻 2025',
+        icon: 'concert',
+        link: '/news/20yike-2025',
+      },
     ]
   },
   {

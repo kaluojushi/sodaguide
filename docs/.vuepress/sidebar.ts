@@ -356,6 +356,7 @@ export default {
     "",
     "perform",
     "20yike",
+    "20yike-2025",
   ],
   "/about/": [
     "",
