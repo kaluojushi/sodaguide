@@ -901,7 +901,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">Big Dream</td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+7/12）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
+<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+9/20）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
 </thead>
 <tbody>
 <tr><td style="color:#8FC3C1"><b>故事</b></td><td>/</td><td style="color:#8FC3C1"><b>痛快的哀艳</b></td><td>/</td></tr>
@@ -954,6 +954,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA"><b>带我走</b></td><td>2</td><td style="color:#AAA"><b></b></td><td></td></tr>
 </tbody>
 </table>
+
 
 ### 点歌排行榜（数字看板）
 
