@@ -1,4 +1,4 @@
-import {hopeTheme} from "vuepress-theme-hope";
+import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
@@ -14,15 +14,15 @@ export default hopeTheme({
   copyright: "Copyright © Carlo 2023-now",
   displayFooter: true,
   fullscreen: true,
+  markdown: {
+    figure: true,
+    imgLazyload: true,
+    imgSize: true,
+    footnote: true,
+  },
   plugins: {
     icon: {
       assets: "//at.alicdn.com/t/c/font_4078802_3xhrlhuvebh.css",
-    },
-    mdEnhance: {
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      footnote: true,
     },
     comment: {
       provider: "Waline",
