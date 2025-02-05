@@ -16,10 +16,6 @@ export default defineUserConfig({
     ['meta', {name: 'referrer', content: 'no-referrer'}],
   ],
   theme,
-  plugins: [
-    searchPlugin({
-    }),
-  ],
   bundler: viteBundler({
     viteOptions: {},
     vuePluginOptions: {},

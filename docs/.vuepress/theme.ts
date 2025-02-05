@@ -35,5 +35,10 @@ export default hopeTheme({
         "VidStack",
       ],
     },
+    docsearch: {
+      appId: "1A59SMGF0G",
+      apiKey: "83c67aa7820b9e4b02e624f561f329e0",
+      indexName: "sodaguide",
+    },
   }
 });
