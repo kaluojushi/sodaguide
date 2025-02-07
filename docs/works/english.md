@@ -469,7 +469,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由苏打绿在《夏／狂热（苏打绿版）》MV 和 Apple Music 海外版给出。
+以上翻译由 Apple Music 海外版给出。
 
 :::
 
@@ -607,6 +607,8 @@ title: 歌名的英文
 
 ## 《秋：故事》 Autumn: Story
 
+### 《秋：故事》原版
+
 〈故事〉 The Story
 
 〈从一片落叶开始〉 Starting from a Fallen Leaf
@@ -645,6 +647,70 @@ title: 歌名的英文
 
 :::
 
+### 《秋：故事（苏打绿版）》CD1
+
+〈故事〉 The Story
+
+〈从一片落叶开始〉 Begins with a Fallen Leaf
+
+〈：〉
+
+〈独处的时候〉 In My Solitude
+
+〈我好想你〉 I Miss You So
+
+〈：：〉
+
+〈偷闲的翅膀〉 The Restful Wings
+
+〈天天晴朗〉 Brighten the Sky Day by Day
+
+〈：：：〉
+
+〈说了再见以后〉 After the Farewell
+
+〈我们走了一光年〉 We Walked a Light-Year
+
+〈再遇见〉 And, We Met Again
+
+〈：：：：〉
+
+〈拾穗〉 Gleaning
+
+〈你心里最后一个〉 The Last Piece of Your Mind
+
+〈小星星〉 Twinkling
+
+::: info 提示
+
+以上翻译由苏打绿在《秋：故事（苏打绿版）》MV 和 Apple Music 海外版给出。
+
+:::
+
+### 《夏／狂热（苏打绿版）》CD2
+
+〈安静在沸腾〉 Quietness is Boiling
+
+〈Where Have All The Cowboys Gone?〉
+
+〈Be Be Your Love〉
+
+〈雪の華〉 Snow Flower
+
+〈百年孤寂〉 One Hundred Years of Solitude
+
+〈影子〉 Shadow
+
+〈夜太黑〉 The Night is too dark
+
+〈恋曲 1990〉 Love Song 1990
+
+::: info 提示
+
+以上翻译由 Apple Music 海外版给出。
+
+:::
+
 ## 《It Began With A Fallen Leaf》
 
 〈It Began With A Fallen Leaf〉
@@ -665,7 +731,7 @@ title: 歌名的英文
 
 ::: info 提示
 
-以上翻译由苏打绿在《陪我歌唱（苏打绿版）》MV 和电影 [《百日告别》](https://movie.douban.com/subject/26022253/)中给出。
+以上翻译由苏打绿在《陪我歌唱（苏打绿版）》MV 和电影 [《百日告别》](https://movie.douban.com/subject/26022253/) 中给出。
 
 :::
 
