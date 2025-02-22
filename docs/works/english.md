@@ -359,7 +359,7 @@ title: 歌名的英文
 
 :::
 
-## 《夏／狂热》 Summer／Fever
+## 《夏／狂热》／《夏／狂热（苏打绿版）》 Summer／Fever
 
 ### 《夏／狂热》原版
 
@@ -605,7 +605,7 @@ title: 歌名的英文
 
 :::
 
-## 《秋：故事》 Autumn: Story
+## 《秋：故事》／《秋：故事（苏打绿版）》 Autumn: Story
 
 ### 《秋：故事》原版
 
@@ -687,7 +687,7 @@ title: 歌名的英文
 
 :::
 
-### 《夏／狂热（苏打绿版）》CD2
+### 《秋：故事（苏打绿版）》CD2
 
 〈安静在沸腾〉 Quietness is Boiling
 
@@ -735,47 +735,63 @@ title: 歌名的英文
 
 :::
 
-## 《冬　未了》 Winter Endless
+## 《冬　未了》／《冬　未了（苏打绿版）》 Winter Endless
 
-〈痛快的哀艳〉 Violently Sad and Beautiful
+### 《冬　未了》CD1／《冬　未了（苏打绿版）》CD1
 
-〈对杀人狂指控〉 Accusations to the Homidal Maniac
+〈痛快的哀艳〉 Violently, the Sorrowful Glamour
 
-〈地平线〉 Horizon
+〈对杀人狂指控〉 Accusing to a Crazy Murderer
 
-〈X (Silent Track)〉
+〈地平线〉 Of the Horizon
+
+〈X (Silent Track)〉／〈：〉
 
 〈我们不懂〉 We Don't Understand
 
-〈博物馆〉 Museum
+〈博物馆〉 The Museum
 
-〈回车诺比的梦〉 Dream of Return to Chernobyl
+〈回车诺比的梦〉 And Its Dream of Returning to Chernobyl
 
-〈XX (Silent Track)〉
+〈XX (Silent Track)〉／〈／〉
 
 〈下雨的夜晚〉 Rainy Night
 
-〈他举起右手点名〉 He Raised His Right Hand
+〈他举起右手点名〉 He Raised His Right Hand and Does a Roll Call
 
 〈Everyone〉
 
-〈XXX (Silent Track)〉
+〈XXX (Silent Track)〉／〈·〉
 
-〈墙外的风景〉 The Scenery Outside the Wall
+〈墙外的风景〉 The View Outside the Wall
 
 〈未了〉 Endless
 
 〈Must Keep Singing〉
 
-龚钰祺 第一号钢琴协奏曲 冬之颂 Yu Chi Kung - Piano Concerto No.1 - Ode to Winter
+::: info 提示
 
-〈第一乐章 适度的快板〉 First Movement: Allegro Moderato
+以上翻译由苏打绿在《冬　未了（苏打绿版）》MV 和 Apple Music 海外版给出。
 
-〈第二乐章 慢板〉 Second Movement: Adagio
+在原版〈痛快的哀艳〉MV 中，「痛快的哀艳」被翻译为「Violently Sad and Beautiful」。
 
-〈第三乐章 活泼的快板〉 Third Movement: Allegro Vivace
+在 [《冬　未了》Daily](https://www.bilibili.com/video/BV1N7411w758/) 中，「痛快的哀艳」被翻译为「Sadly Beautiful」（即只翻译了「哀艳」）。
 
-〈第四乐章 有精神的快板-庄严的快板〉 Fourth Movement: Allegro Con Spirito - Allegro Maestoso
+:::
+
+### 《冬　未了（苏打绿版）》CD2／《冬　未了（苏打绿版）》CD2
+
+龚钰祺：第一号钢琴协奏曲《冬之颂》
+
+KUNG YU-CHI: Piano Concerto No.1 "Ode to Winter"
+
+〈冬之颂：第一乐章 适度的快板〉 Ode to Winder: I. Allegro moderato
+
+〈冬之颂：第二乐章 慢板〉 Ode to Winder: II. Adagio
+
+〈冬之颂：第三乐章 活泼的快板〉 Ode to Winder: III. Allegro vivace
+
+〈冬之颂：第四乐章 有精神的快板-庄严的快板〉 Ode to Winder: IV. Allegro con brio - Allegro maestoso
 
 〈Cold Star〉
 
@@ -783,13 +799,49 @@ title: 歌名的英文
 
 〈Four Seasons〉
 
+龚钰祺：第二号钢琴协奏曲《哼唱光年》
+
+KUNG YU-CHI: Piano Concerto No.2 "Singing Light Years"
+
+〈哼唱光年：第一乐章 穿梭〉 Singing Light Years: I. Time Travel
+
+〈哼唱光年：第二乐章 光年〉 Singing Light Years: II. Light Years
+
+〈哼唱光年：第三乐章 梦境〉 Singing Light Years: III. Dreamland
+
+〈哼唱光年：第四乐章 在我们之间〉 Singing Light Years: IV. Between Us
+
 ::: info 提示
 
-以上翻译除〈痛快的哀艳〉外非官方翻译。如果你认为有更好的翻译，欢迎告诉我们。
+以上翻译由 Apple Music 海外版给出。
 
-「痛快的哀艳」的翻译来自〈痛快的哀艳〉MV。
+:::
 
-在 [《冬　未了》Daily](https://www.bilibili.com/video/BV1N7411w758/) 中，「痛快的哀艳」被翻译为「Sadly Beautiful」（即只翻译了「哀艳」），此处采用原 MV 的翻译。
+### 《冬　未了（苏打绿版）》CD3
+
+故事未了版 Endless Story Version
+
+〈故事〉 The Story
+
+〈蝉想〉 The Sound of Cicada's Thoughts
+
+〈融雪之前〉 Before the Snow Melts
+
+〈你心里最后一个〉 The Last Piece of Your Mind
+
+〈后悔莫及〉 Regret
+
+〈吵〉 Noisy
+
+〈小情歌〉 Little Love Song
+
+〈你在烦恼什么〉 What's the Trouble on Your Mind
+
+〈小星群〉 A Small Constellation
+
+::: info 提示
+
+以上翻译由 Apple Music 海外版给出。
 
 :::
 
