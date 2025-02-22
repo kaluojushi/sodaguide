@@ -174,7 +174,7 @@ title: 二十年一刻巡演（2024）
 <tr><td>Ending</td><td><span style="color:#8FC3C1">十年一刻</span></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">散场：萍聚</span></th></tr>
+<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">散场：萍聚（cover 李翊君）</span></th></tr>
 </thead>
 </table>
 
@@ -395,7 +395,7 @@ title: 二十年一刻巡演（2024）
 <tr><td>-</td><td><span><i>博物馆</i></span></td><td><i>淘汰</i></td></tr>
 </tbody>
 <tbody>
-<tr><td rowspan="10">6.2</td><td>01</td><td><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></td><td></td></tr>
+<tr><td rowspan="10">6.2</td><td>01</td><td><span style="background:linear-gradient(135deg,red,orange,yellow,green,cyan,blue,violet);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:saturate(200%)">墙外的风景</span></td><td></td></tr>
 <tr><td>02</td><td><span>小宇宙</span></td><td></td></tr>
 <tr><td>03</td><td><span>包围</span></td><td></td></tr>
 <tr><td>04</td><td><span>空气中的视听与幻觉</span></td><td></td></tr>
@@ -596,6 +596,8 @@ title: 二十年一刻巡演（2024）
 
 ### 点歌排行榜（单曲看板）
 
+以下信息只包含 2024 年。2025 年统计信息请点击 [这里](/news/20yike-2025#点歌排行榜-单曲看板)。
+
 <table style="text-align: center">
 <thead>
 <tr><th>歌曲</th><th>点歌次数</th>
@@ -726,7 +728,7 @@ title: 二十年一刻巡演（2024）
 <td><span style="color:#00B8DE">郑州 5.19（4/10=40.0%）</span></td></tr>
 <tr><td>融雪之前</td><td>1</td>
 <td><span style="color:#767CBA">深圳 6.1（1/8=12.5%）</span></td></tr>
-<tr><td><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></td><td>1</td>
+<tr><td><span style="background:linear-gradient(135deg,red,orange,yellow,green,cyan,blue,violet);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:saturate(200%)">墙外的风景</span></td><td>1</td>
 <td><span style="color:#767CBA">深圳 6.2（1/9=11.1%）</span></td></tr>
 <tr><td>窥、简单生活、一千座喷泉</td><td>1</td>
 <td><span style="color:#ED7A58">重庆 8.17（3/9=33.3%）</span></td></tr>
@@ -794,6 +796,8 @@ title: 二十年一刻巡演（2024）
 </table>
 
 ### 点歌排行榜（专辑看板）
+
+以下信息只包含 2024 年。2025 年统计信息请点击 [这里](/news/20yike-2025#点歌排行榜-专辑看板)。
 
 A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首歌是被点歌点到的。
 
@@ -901,7 +905,7 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">Big Dream</td><td></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+9/20）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/12）</th></tr>
+<tr><th colspan="2" style="background-color:#F2A135">秋：故事（2+9/20）</th><th colspan="2" style="background-color:#204C93;color:white">冬　未了（2+7/21）</th></tr>
 </thead>
 <tbody>
 <tr><td style="color:#8FC3C1"><b>故事</b></td><td>/</td><td style="color:#8FC3C1"><b>痛快的哀艳</b></td><td>/</td></tr>
@@ -913,17 +917,18 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><td style="color:#8FC3C1"><b>说了再见以后</b></td><td>/</td><td style="color:#204C93"><b>下雨的夜晚</b></td><td>5</td></tr>
 <tr><td style="color:#AAA">我们走了一光年</td><td></td><td style="color:#204C93"><b>他举起右手点名</b></td><td>7</td></tr>
 <tr><td style="color:#F2A135"><b>再遇见</b></td><td>6</td><td style="color:#8FC3C1"><b>Everyone</b></td><td>/</td></tr>
-<tr><td style="color:#F2A135"><b>拾穗</b></td><td>4</td><td style="color:#204C93"><b><span style="color:red">墙</span><span style="color:orange">外</span><span style="color:darkgoldenrod">的</span><span style="color:green">风</span><span style="color:blue">景</span></b></td><td>1</td></tr>
+<tr><td style="color:#F2A135"><b>拾穗</b></td><td>4</td><td style="color:#204C93"><b><span style="background:linear-gradient(135deg,red,orange,yellow,green,cyan,blue,violet);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:saturate(200%)">墙外的风景</span></b></td><td>1</td></tr>
 <tr><td style="color:#F2A135"><b>你心里最后一个</b></td><td>2</td><td style="color:#AAA">未了</td><td></td></tr>
 <tr><td style="color:#AAA">小星星</td><td></td><td style="color:#AAA">Must Keep Singing</td><td></td></tr>
-<tr><td style="color:#F2A135"><b>安静在沸腾</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">Where Have All The Cowboys Gone?</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">Be Be Your Love</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">雪の華</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#F2A135"><b>百年孤寂</b></td><td>1</td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">影子</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">夜太黑</td><td></td><td style="color:#AAA"></td><td></td></tr>
-<tr><td style="color:#AAA">恋曲 1990</td><td></td><td style="color:#AAA"></td><td></td></tr>
+<tr><td style="color:#F2A135"><b>安静在沸腾</b></td><td>1</td><td style="color:#AAA">冬之颂：第一乐章 适度的快板</td><td></td></tr>
+<tr><td style="color:#AAA">Where Have All The Cowboys Gone?</td><td></td><td style="color:#AAA">冬之颂：第二乐章 慢板</td><td></td></tr>
+<tr><td style="color:#AAA">Be Be Your Love</td><td></td><td style="color:#AAA">冬之颂：第三乐章 活泼的快板</td><td></td></tr>
+<tr><td style="color:#AAA">雪の華</td><td></td><td style="color:#AAA">冬之颂：第四乐章 有精神的快板-庄严的快板</td><td></td></tr>
+<tr><td style="color:#F2A135"><b>百年孤寂</b></td><td>1</td><td style="color:#AAA">哼唱光年：第一乐章 穿梭</td><td></td></tr>
+<tr><td style="color:#AAA">影子</td><td></td><td style="color:#AAA">哼唱光年：第二乐章 光年</td><td></td></tr>
+<tr><td style="color:#AAA">夜太黑</td><td></td><td style="color:#AAA">哼唱光年：第三乐章 梦境</td><td></td></tr>
+<tr><td style="color:#AAA">恋曲 1990</td><td></td><td style="color:#AAA">哼唱光年：第四乐章 在我们之间</td><td></td></tr>
+<tr><td style="color:#AAA"></td><td></td><td style="color:#AAA">小星群</td><td></td></tr>
 </tbody>
 <thead>
 <tr><th colspan="2" style="background-color:#3E5C24;color:white">池堂怪谈（0+6/11）</th><th colspan="2" style="background-color:#8FC3C1;color:white">一刻限定单曲（5/12）</th></tr>
@@ -957,6 +962,8 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 
 
 ### 点歌排行榜（数字看板）
+
+以下信息只包含 2024 年。2025 年统计信息请点击 [这里](/news/20yike-2025#点歌排行榜-数字看板)。
 
 <table style="text-align: center">
 <thead>
