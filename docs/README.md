@@ -36,10 +36,6 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 2 月 22 日、2025 年 2 月 23 日<br><b>地点：</b>台北小巨蛋<br><b>演出信息：</b>2 月 22 日 19:30 开始；2 月 23 日 18:30 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>NT$ 5380/4980/4380/3880/3380/2880/2380/1880/800（约合人民币 1183/1095/963/853/743/633/523/413/176），纸质票<br><b>购票平台：</b>拓元
-        link: /news/20yike-2025.html#苏打绿二十年一刻巡回演唱会-list
       - title: 【2025-03-08】苏打绿二十年一刻巡回演唱会新加坡站
         icon: concert
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 8 日<br><b>地点：</b>新加坡室內體育館<br><b>演出信息：</b>20:00 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>SG$ 328/288/258/228/198/168（约合人民币 1750/1537/1377/1217/1057/897），纸质票<br><b>购票平台：</b>TicketMaster、LiveNation
@@ -73,32 +69,28 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站
-        icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 2 月 22 日、2025 年 2 月 23 日<br><b>地点：</b>台北小巨蛋<br><b>演出信息：</b>2 月 22 日 19:30 开始；2 月 23 日 18:30 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>NT$ 5380/4980/4380/3880/3380/2880/2380/1880/800（约合人民币 1183/1095/963/853/743/633/523/413/176），纸质票<br><b>购票平台：</b>拓元
-        link: /news/perform.html#【2025-02-22、2025-02-23】苏打绿二十年一刻巡回演唱会台北站-苏打绿
       - title: 【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站
-        icon: square-two
+        icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 8 日<br><b>地点：</b>新加坡室內體育館<br><b>演出信息：</b>20:00 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>SG$ 328/288/258/228/198/168（约合人民币 1750/1537/1377/1217/1057/897），纸质票<br><b>购票平台：</b>TicketMaster、LiveNation
         link: /news/perform.html#【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站-苏打绿
       - title: 【2025-03-30】苏打绿二十年一刻巡回演唱会悉尼站
-        icon: square-three
+        icon: square-two
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 30 日<br><b>地点：</b>ICC Sydney Theatre<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/perform.html#【2025-03-30】苏打绿二十年一刻巡回演唱会悉尼站-苏打绿
       - title: 【2025-04-02】苏打绿二十年一刻巡回演唱会墨尔本站
-        icon: square-four
+        icon: square-three
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 2 日<br><b>地点：</b>John Cain Arena<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/perform.html#【2025-04-02】苏打绿二十年一刻巡回演唱会墨尔本站-苏打绿
       - title: 【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站
-        icon: square-five
+        icon: square-four
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 20 日<br><b>地点：</b>OVO Arena Wembley<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>
         link: /news/perform.html#【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站-苏打绿
       - title: 【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站
-        icon: square-six
+        icon: square-five
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 26 日<br><b>地点：</b>Tempodrom<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/perform.html#【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站-苏打绿
       - title: 【2025-05-29】苏打绿二十年一刻巡回演唱会东京站
-        icon: square-seven
+        icon: square-six
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/perform.html#【2025-05-29】苏打绿二十年一刻巡回演唱会东京站-苏打绿
   - header: 【韦瓦第复刻消息合集】
