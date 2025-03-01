@@ -88,7 +88,7 @@ title: 著作权纠纷始末
 ::: details Line 对话截图（模拟），左为林暐哲，右为吴青峰
 
 ![Line 对话截图（模拟），左为林暐哲，右为吴青峰
-](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/copyright/line2018.jpg)
+](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/copyright/line2018.jpg)
 
 :::
 
@@ -108,7 +108,7 @@ title: 著作权纠纷始末
 
 ::: details 共同声明全文
 
-![2018 年 12 月 31 日吴青峰和林暐哲发布的共同声明](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/declare2018.jpg)
+![2018 年 12 月 31 日吴青峰和林暐哲发布的共同声明](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/declare2018.jpg)
 
 :::
 

@@ -3,7 +3,7 @@ icon: bass
 title: 谢馨仪（馨仪，香我）
 ---
 
-![馨仪](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xinyi.jpg)
+![馨仪](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi.jpg)
 
 **谢馨仪**（Claire Hsieh，1982 年 4 月 16 日—），昵称 **馨仪**，分身名 **香我**，生于台北市，是苏打绿创始团员及贝斯手、和声，乐团内唯一的女性成员，亦负责乐团的行政管理和演唱会的制作协力。
 
@@ -49,7 +49,7 @@ title: 谢馨仪（馨仪，香我）
 
 2004 年 7 月 17 日，苏打绿发行第 2 张单曲《飞鱼》。该单曲以馨仪的照片为封面，彼时的馨仪 22 岁。
 
-![《飞鱼》封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xinyi-feiyu.jpg =400x)
+![《飞鱼》封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-feiyu.jpg =400x)
 
 2007 年 4 月 4 日，苏打绿发行单曲《蓝眼睛》。〈蓝眼睛〉由青峰与张韶涵合唱，馨仪编曲。
 
@@ -57,7 +57,7 @@ title: 谢馨仪（馨仪，香我）
 
 2012 年，馨仪上榜 FHM 全球百大性感美女，编号 **139**。同年 4 月 6 日，苏打绿发行单曲《不甘寂寞》，该歌曲是青峰为了给馨仪拉票而改编了〈喜欢寂寞〉的歌词，完全根据馨仪特征所写。馨仪最终获得了第 5 名。
 
-![团员为馨仪拉票](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xinyi-sexy.jpg =500x)
+![团员为馨仪拉票](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg =500x)
 
 2013 年 9 月 18 日，在苏打绿第 9 张专辑《秋：故事》的歌曲〈偷闲的翅膀〉中，馨仪主唱，青峰和声。这首歌曲是馨仪在苏打绿首次发表作品。
 
@@ -127,4 +127,4 @@ title: 谢馨仪（馨仪，香我）
 
 2018 年 11 月，馨仪的儿子小坚果出生，2021 年 9 月，馨仪的女儿小贝果出生。 
 
-![馨仪和小坚果、小贝果](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xinyi-kids.jpg)
+![馨仪和小坚果、小贝果](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-kids.jpg)

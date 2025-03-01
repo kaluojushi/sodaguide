@@ -7,8 +7,8 @@ heroText: 苏打盖 Sodaguide
 tagline: 苏打绿 aka 鱼丁糸、吴青峰的观光导览地图🧭
 heroImage: /images/logo.jpg
 heroAlt: 苏打绿 aka 鱼丁糸、吴青峰的观光导览地图
-bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/4-light.svg
-bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/4-dark.svg
+bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/4-light.svg
+bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/4-dark.svg
 bgImageStyle:
   background-attachment: fixed
 actions:
@@ -28,9 +28,9 @@ actions:
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 苏打绿《二十年一刻》巡回演唱会，<br>舞台视为大地，音乐流转四季：<br>日光里苏醒、狂热中躁动、故事里多愁、未了的磅礴，<br>在那奇幻的魔方世界里，片刻永恒，寻回二十年的过去与现在。<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/ershinianyike.jpg
+    image: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/ershinianyike.jpg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/ershinianyike.jpg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/ershinianyike.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -62,14 +62,14 @@ highlights:
         link: /news/20yike-2025.html#苏打绿二十年一刻巡回演唱会-list
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/perform2023.jpg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/perform2023.jpg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/perform2023.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站
+      - title: 【2025-03-08】苏打绿二十年一刻巡回演唱会新加坡站
         icon: square-one
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 3 月 8 日<br><b>地点：</b>新加坡室內體育館<br><b>演出信息：</b>20:00 开始<br><b>开票时间：</b>已开票<br><b>票价：</b>SG$ 328/288/258/228/198/168（约合人民币 1750/1537/1377/1217/1057/897），纸质票<br><b>购票平台：</b>TicketMaster、LiveNation
         link: /news/perform.html#【2025-03-08】苏打绿二十年quarters巡回演唱会新加坡站-苏打绿
@@ -94,9 +94,9 @@ highlights:
         details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>待开票<br><b>票价：</b>无<br><b>购票平台：</b>无
         link: /news/perform.html#【2025-05-29】苏打绿二十年一刻巡回演唱会东京站-苏打绿
   - header: 【韦瓦第复刻消息合集】
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-spring.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/fuke-vivaldi.jpg
+    image: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/fuke-vivaldi-album.jpg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/fuke-vivaldi-concept.jpg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/fuke-vivaldi-concept.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -134,11 +134,15 @@ highlights:
         icon: snow
         details: <b>2025.01.10 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
         link: https://y.qq.com/n/ryqq/albumDetail/001URXgl2PCrYH
+      - title: 苏打绿《冬　未了（苏打绿版）》复刻专辑全专 2025.02.18 正式上线！
+        icon: snow
+        details: <b>2025.02.18 00:00</b> 全平台数位上线<br><b>点击进入 QQ 音乐收听链接</b>
+        link: https://y.qq.com/n/ryqq/albumDetail/001QbVyC3Kg0pz
   - header: 【复刻计划全面正名：苏打绿版】
     description: 苏打绿的音乐 死了都叫苏打绿<br>二十年前如此 二十年后仍然<br><a href="/start/sodagreen/oaeen.html#复刻计划"><b>什么是复刻计划？</b></a>
-    image: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg
+    image: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/sodaversion.jpg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/sodaversion.jpg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/sodaversion.jpg
     bgImageStyle:
       opacity: 0.3
       background-repeat: repeat
@@ -158,8 +162,8 @@ highlights:
         link: https://www.kuwo.cn/playlist_detail/3520999728?continueFlag=71a4366dbfa42f32ca48461ec1db7a1d
   - header: 认识苏打绿团员
     description: 从这里开始了解 <a href="/start/sodagreen/"><b>苏打绿</b></a> 团员
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-light.svg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/3-dark.svg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/3-light.svg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/3-dark.svg
     features:
       - title: 无忧无虑吴青峰
         icon: microphone
@@ -187,8 +191,8 @@ highlights:
         details: 工作与游乐都能忘却烦恼地哼着歌
   - header: 认识吴青峰
     description: 从这里开始了解 <a href="/start/wuqingfeng/"><b>吴青峰</b></a>
-    bgImage: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/6-light.svg
-    bgImageDark: https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/6-dark.svg
+    bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/6-light.svg
+    bgImageDark: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/6-dark.svg
     features:
       - title: 吴青峰
         icon: microphone
@@ -226,7 +230,7 @@ highlights:
 
 现在我已经是一个 **IT 程序员**，那我就想做一个苏打绿的追星百科，把所有的资料整理起来，让大家能够更好地了解苏打绿。
 
-![苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/sodagreen.jpg =1000x)
+![苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodagreen.jpg =1000x)
 
 这一天是 2016 年 12 月 17 日，苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站，在武汉客厅，我第一次看到了苏打绿。
 

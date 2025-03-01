@@ -3,7 +3,7 @@ icon: keyboard
 title: 龚钰祺（阿龚，金八）
 ---
 
-![阿龚](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/agong.jpg)
+![阿龚](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/agong.jpg)
 
 **龚钰祺**（Yu-Chi Kung，1980 年 12 月 16 日-），昵称 **阿龚（龚习惯念作 gǒng）**，分身名 **金八**，生于台北市，乐团键盘手和中提琴手。
 

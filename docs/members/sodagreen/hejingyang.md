@@ -3,7 +3,7 @@ icon: guitar
 title: 何景扬（阿福，可田）
 ---
 
-![阿福](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/afu.jpg)
+![阿福](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/afu.jpg)
 
 **何景扬**（Afu Ho，1982 年 4 月 4 日-），昵称 **阿福**，分身名 **可田**，乐团木吉他手。
 

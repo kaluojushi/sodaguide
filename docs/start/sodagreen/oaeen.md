@@ -7,11 +7,11 @@ title: 关于鱼丁糸
 
 其实，鱼丁糸既是苏打绿，也不是苏打绿。
 
-![鱼丁糸](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-intro.jpg)
+![鱼丁糸](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-intro.jpg)
 
 ## 「鱼丁糸」是怎么来的？
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-origin.jpg =300x)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-origin.jpg =300x)
 
 「鱼丁糸」（yú dīng mì）来源于「苏打绿」的繁体「蘇打綠」的拆解。
 
@@ -19,7 +19,7 @@ title: 关于鱼丁糸
 
 ## 苏打绿时期
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-early.jpg)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-early.jpg)
 
 2005 年 6 月 17 日，苏打绿于女巫店表演时，以鱼丁糸的名字发行了《鱼丁糸首张专辑试听吸滴》，收录 9 首歌，全长约 7 分钟，为《OH OH OH OH! 夏天来听苏打绿乐团唱歌》试听单曲前身，专辑为纯手工压制。
 
@@ -59,11 +59,11 @@ title: 关于鱼丁糸
 
 2020 年 7 月 3 日，因陷入与前经纪人林暐哲的版权与商标权纠纷，苏打绿宣布以分身「鱼丁糸」（Oaeen）的名义出道。鼓手八女（小威）表示鱼丁糸的唯一指导原则是不能像苏打绿，透露将展现出与苏打绿完全不同的面貌。
 
-![鱼丁糸正式出道](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-start.jpg =400x)
+![鱼丁糸正式出道](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-start.jpg =400x)
 
 同时，团员们也取了全新的艺名，阿福是可田、家凯是豕豆、小威是八女、阿龚是金八、馨仪是香我、青峰是日出，各人拥有自己的代表符号。此外，粉丝称为「浮萍」，粉丝后援会成了「池堂」。
 
-![团员们的艺名和符号](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-names.png)
+![团员们的艺名和符号](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-names.png)
 
 ::: info 团员们艺名的由来
 
@@ -76,7 +76,7 @@ title: 关于鱼丁糸
 
 在〈在世界的尽头大声地说我恨你〉MV 中，团员们展示了艺名与原名的对应关系。
 
-![〈在世界的尽头大声地说我恨你〉MV](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-names-origin.png)
+![〈在世界的尽头大声地说我恨你〉MV](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-names-origin.png)
 
 :::
 
@@ -122,7 +122,7 @@ title: 关于鱼丁糸
 
 2021 年 11 月，鱼丁糸宣布了「全新糸列 复刻计划」，将会把苏打绿时期的作品全部重新录制并发行，每张专辑采双 CD 形式，CD2 是一些过去从未发表过的歌曲（即苏打绿「In Summer」演唱会的翻唱录音）。
 
-![鱼丁糸「全新糸列 复刻计划」](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-reproduce.jpeg)
+![鱼丁糸「全新糸列 复刻计划」](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-reproduce.jpeg)
 
 2022 年至今，苏打绿（鱼丁糸）已经发行了《同名专辑（苏打绿版）》《小宇宙（苏打绿版）》《无与伦比的美丽（苏打绿版）》《陪我歌唱（苏打绿版）》《十年一刻（苏打绿版）》《你在烦恼什么（苏打绿版）》6 张复刻专辑。
 
@@ -134,13 +134,13 @@ title: 关于鱼丁糸
 
 至此，鱼丁糸名下仅剩《池堂怪谈》一张专辑和出道单曲《沙发里有沙发 Radio》。
 
-![苏打绿版](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/bg/sodaversion.jpg)
+![苏打绿版](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/sodaversion.jpg)
 
 ::: important 重要！
 
 虽然「苏打绿」的名字已由苏打绿取得，但原来的歌曲录音母带仍在前经纪人林暐哲手中。2023 年 3 月 4 日，吴青峰在 Facebook 发文呼吁大家，不要听苏打绿的歌。
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/oaeen-don't-listen.jpeg =400x)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-don't-listen.jpeg =400x)
 
 我们也在此呼吁各位新老打粉：
 

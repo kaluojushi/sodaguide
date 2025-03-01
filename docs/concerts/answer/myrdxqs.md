@@ -5,7 +5,7 @@ title: 牧羊人的星期三（2023）
 
 ## 演出信息
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231115-myrdxqs.png)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20231115-myrdxqs.png)
 
 - **类型：** Livehouse
 - **时间：** 2023 年 11 月 15 日、2023 年 11 月 22 日、2023 年 11 月 29 日、2023 年 12 月 06 日
@@ -198,7 +198,7 @@ title: 牧羊人的星期三（2023）
 
 不知道的粉丝请速速去考古。
 
-![没事儿别老学我叫](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-mengmian.jpg =500x)
+![没事儿别老学我叫](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-mengmian.jpg =500x)
 
 :::
 
@@ -367,7 +367,7 @@ title: 牧羊人的星期三（2023）
 
 《兔姨民间故事》是青峰为兔姨举办的《啊勒！！前天不是才39岁吗！》大寿演唱会暨《奇迹の一瞬》荒唐摄影展限定周边商品，首刷限量 500 本。现已绝版。
 
-![兔姨民间故事](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-tuyi.jpg =500x)
+![兔姨民间故事](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tuyi.jpg =500x)
 
 《邪恶的纯真》是青峰学妹王小苗的诗集。
 
@@ -392,15 +392,15 @@ title: 牧羊人的星期三（2023）
 
 早期，苏打绿演出时，青峰使用的是白色的麦克风。当后来以个人身份演出时，一般使用 **蓝色** 的麦克风（小蓝）。
 
-![青峰和小蓝](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-blue.jpg =500x)
+![青峰和小蓝](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-blue.jpg =500x)
 
 在随鱼丁糸演出时，青峰一般使用粉红色的麦克风（小粉）。
 
-![青峰和小粉](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-pink.jpg =500x)
+![青峰和小粉](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-pink.jpg =500x)
 
 2023 年 2 月 18 日，鱼丁糸于「池堂影夜」演唱会中，宣布夺回苏打绿团名，正式回归。青峰在演唱会上开心地高高举起绿色的麦克风（小绿）。青峰说，小绿是在苏打绿三年前官宣回归的时候特别定制的，但后来遭遇商标权问题，就赶快订做了一只粉红色的，小绿一直被尘封在防潮箱里。对此青峰幽默地表示：“今天要进行一个点灯模式，小绿辛苦了，这三年你都躺在防潮箱里，很干吧！让我把你用湿吧！我终于可以用这只绿色麦克风了，它是属于苏打绿的！”
 
-![青峰和小绿](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-green.jpg =500x)
+![青峰和小绿](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-green.jpg =500x)
 
 :::
 
@@ -723,7 +723,7 @@ title: 牧羊人的星期三（2023）
 
 吴青峰的「太空备忘记」演唱会以四面台的形式，打造一场零距离、无死角的演出。
 
-![2019 年吴青峰「太空备忘记」巡回演唱会合肥站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/tkbwj.jpg)
+![2019 年吴青峰「太空备忘记」巡回演唱会合肥站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/tkbwj.jpg)
 
 :::
 
@@ -784,15 +784,15 @@ title: 牧羊人的星期三（2023）
 
 2023 年 8 月 25 日，在李宇春演唱会上，青峰担任嘉宾，并与李宇春转圈圈。（其实二者在 2019 年就曾转过圈圈）
 
-![青峰和李宇春转圈圈](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-liyuchun.jpg =500x)
+![青峰和李宇春转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-liyuchun.jpg =500x)
 
 青峰没有与欧若拉在正式演出时转过圈圈，但在拍摄〈Storm〉MV 花絮中与欧若拉转过圈圈。
 
-![青峰和欧若拉转圈圈](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-aurora.png =500x)
+![青峰和欧若拉转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-aurora.png =500x)
 
 2018 年 6 月 3 日，在 2018 Hito 流行音乐奖颁奖典礼上，青峰与田馥甄表演了 27 首歌曲的串烧并转圈圈。
 
-![青峰与田馥甄转圈圈](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-tianfuzhen.jpg =500x)
+![青峰与田馥甄转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tianfuzhen.jpg =500x)
 
 :::
 
@@ -807,7 +807,7 @@ title: 牧羊人的星期三（2023）
 
 **C. 吉他**
 
-![〈（……棕发少女）〉MV](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-xyls-guitar1.jpg)
+![〈（……棕发少女）〉MV](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-xyls-guitar1.jpg)
 
 :::
 
@@ -824,7 +824,7 @@ title: 牧羊人的星期三（2023）
 
 显然，青峰的大声公是红色的。
 
-![青峰和大声公](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-dashenggong.jpg =500x)
+![青峰和大声公](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-dashenggong.jpg =500x)
 
 :::
 
@@ -843,7 +843,7 @@ title: 牧羊人的星期三（2023）
 
 〈费洛蒙小姐〉MV 由青峰、陈雪甄（饰演费洛蒙小姐）和 30 位舞者、4 位乐手、两只猫共同演出。
 
-![感受一下〈费洛蒙小姐〉的大阵仗](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-feiluomeng.png)
+![感受一下〈费洛蒙小姐〉的大阵仗](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-feiluomeng.png)
 
 〈（……海妖沙龙）〉MV 只有青峰和山田葵（饰演海妖）两人演出。
 
@@ -868,7 +868,7 @@ title: 牧羊人的星期三（2023）
 
 这里收看小威打电动的视频：[穿墙人_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vr4y1j7UY)
 
-![〈穿墙人〉中小威打电动](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/myrdxqs-chuanqiangren.png)
+![〈穿墙人〉中小威打电动](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-chuanqiangren.png)
 
 :::
 

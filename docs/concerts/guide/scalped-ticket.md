@@ -37,9 +37,9 @@ title: 关于黄牛票
 
 :::
 
-![苏打绿 aka 鱼丁糸的微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/sdg-no-scalped-ticket.png)
+![苏打绿 aka 鱼丁糸的微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/sdg-no-scalped-ticket.png)
 
-![吴青峰的微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/wqf-no-scalped-ticket.png)
+![吴青峰的微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/wqf-no-scalped-ticket.png)
 
 2016 年 9 月 7 日，吴青峰在微博发文斥责黄牛高价卖票，直接表明了苏打绿对黄牛票的态度，引发了广泛的讨论。
 
@@ -53,7 +53,7 @@ title: 关于黄牛票
 
 在大家的共同抵制中，黄牛没有市场会将票回流给主办方，主办方会继续放票，这样就会有更多的粉丝能够买到票。当年「太空备忘记」的上海站、深圳站都有二次放票和内场选座。大家一起努力！
 
-![打粉老师制作的抵制黄牛海报](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/fans-no-scalped-ticket.jpg =300x)
+![打粉老师制作的抵制黄牛海报](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/fans-no-scalped-ticket.jpg =300x)
 
 ## 正确的转票收票指南
 

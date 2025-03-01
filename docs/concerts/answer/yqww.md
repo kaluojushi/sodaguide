@@ -5,7 +5,7 @@ title: 一起 Wall Wall（2023）
 
 ## 演出信息
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20231026-yqww.png)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20231026-yqww.png)
 
 - **类型：** 演唱会（快闪演出）
 - **时间：** 2023 年 10 月 26 日、2023 年 10 月 30 日
@@ -71,7 +71,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 **绿蓝红**（也叫红绿蓝、3EP）是苏打绿发行第 1 张专辑前按次序发行的 3 张单曲，分别是《空气中的视听与幻觉》《飞鱼》《Believe in Music》。
 
-![从左到右依次为：《空气中的视听与幻觉》《飞鱼》《Believe in Music》](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-3ep.jpg)
+![从左到右依次为：《空气中的视听与幻觉》《飞鱼》《Believe in Music》](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-3ep.jpg)
 
 :::
 
@@ -120,11 +120,11 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 2006 年 12 月，苏打绿为宣传《小宇宙》曾在 The Wall 连续举办八场各团员主题演出。其中在小威主场，伍佰与苏打绿合作演唱了 [〈夏夜晚风〉](https://www.bilibili.com/video/BV11L411Y7ER)。
 
-![苏打绿和伍佰同台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-wubai.jpeg)
+![苏打绿和伍佰同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-wubai.jpeg)
 
 2010 年 8 月 28 日，在苏打绿「各站停靠」巡回演唱会台中站，苏打绿邀请了徐乃麟并与其合作演唱 [〈红鞋女孩〉](https://www.bilibili.com/video/BV1T94y1h79N)。
 
-![苏打绿和徐乃麟同台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-xunailin.jpg)
+![苏打绿和徐乃麟同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-xunailin.jpg)
 
 在上述提到的八场 The Wall 中，苏打绿原计划邀请陈雷，但因开价没谈成而作罢[^3]。后来苏打绿也曾表演过陈雷的歌曲〈欢喜就好〉。
 
@@ -132,7 +132,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 2008 年 3 月 1 日，苏打绿应邀参加了尚雯婕的北京演唱会，并合作演唱了 [〈我的未来不是梦〉](https://weibo.com/2132122452/FDGlqgoJd)。随后苏打绿演唱了〈无与伦比的美丽〉和〈小情歌〉。值得一提的是，这是苏打绿第一次在大陆演出，这场演出对苏打绿有着重要的意义。
 
-![苏打绿和尚雯婕同台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-shangwenjie1.png =500x)
+![苏打绿和尚雯婕同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-shangwenjie1.png =500x)
 
 :::
 
@@ -193,7 +193,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 2012 年，[馨仪](/members/sodagreen/xiexinyi.html#苏打绿时期) 上榜 FHM 全球百大性感美女，编号 **139**。同年 4 月 6 日，苏打绿发行单曲《不甘寂寞》，该歌曲是青峰为了给馨仪拉票而改编了〈喜欢寂寞〉的歌词，完全根据馨仪特征所写。馨仪最终获得了第 5 名。
 
-![团员为馨仪拉票](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xinyi-sexy.jpg =500x)
+![团员为馨仪拉票](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg =500x)
 
 :::
 

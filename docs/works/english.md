@@ -397,7 +397,7 @@ title: 歌名的英文
 
 ::: details 苏打志 6
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/works/sodazine6.jpg)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/works/sodazine6.jpg)
 
 :::
 

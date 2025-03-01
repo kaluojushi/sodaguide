@@ -3,7 +3,7 @@ icon: drum
 title: 史俊威（小威，八女）
 ---
 
-![小威](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xiaowei.jpg)
+![小威](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei.jpg)
 
 **史俊威**（Wei Shi，1979 年 8 月 26 日—），昵称 **小威**，分身名 **八女**，生于台湾，是苏打绿创始团员及鼓手，乐团内继青峰后的主要词曲创作者。
 
@@ -79,7 +79,7 @@ title: 史俊威（小威，八女）
 
 小威还是一个摄影师。2014 年，小威出版个人摄影集《With or Without You》。2015 年，小威举办个人首场摄影展《Halo》。
 
-![青峰为小威《Halo》摄影展站台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xiaowei-halo.jpg =500x)
+![青峰为小威《Halo》摄影展站台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei-halo.jpg =500x)
 
 ### 休团时期
 
@@ -91,7 +91,7 @@ title: 史俊威（小威，八女）
 
 2018 年，小威创办洗沐用品品牌「乐沐LeMood」，并推出洗发水产品。
 
-![小威与「乐沐」洗发水](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xiaowei-lemood.jpg)
+![小威与「乐沐」洗发水](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei-lemood.jpg)
 
 2019 年，因陷入与前经纪人林暐哲的版权与商标权纠纷，苏打绿创办「鱼丁糸有限公司」，并由小威担任董事长。
 
@@ -173,4 +173,4 @@ title: 史俊威（小威，八女）
 
 2015 年 10 月，小威宣布自己的第一个孩子小 Star 在医院降生。2017 年 12 月，小威公布二胎喜讯，孩子取名为小 Moon。两个孩子均为男孩。
 
-![小威一家（从左至右依次为小 Star、Sunny、小威、小 Moon）](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/xiaowei-family.jpg)
+![小威一家（从左至右依次为小 Star、Sunny、小威、小 Moon）](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei-family.jpg)

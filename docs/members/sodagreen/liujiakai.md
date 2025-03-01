@@ -3,7 +3,7 @@ icon: e-guitar
 title: 刘家凯（家凯，豕豆）
 ---
 
-![家凯](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/jiakai.jpg)
+![家凯](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/jiakai.jpg)
 
 ::: note 施工中……
 

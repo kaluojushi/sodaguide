@@ -13,7 +13,7 @@ title: 二十年一刻香港站团票答题总结（2024）
 
 ## 演出信息
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/news/perform/20240322-esnyk-hk.jpg =500x)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240322-esnyk-hk.jpg =500x)
 
 - **类型：** 演唱会
 - **时间：** 2024 年 03 月 22 日、2024 年 03 月 23 日、2024 年 03 月 24 日
@@ -306,11 +306,11 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 2006 年 12 月，苏打绿为宣传《小宇宙》曾在 The Wall 连续举办八场各团员主题演出。其中在小威主场，伍佰与苏打绿合作演唱了 [〈夏夜晚风〉](https://www.bilibili.com/video/BV11L411Y7ER)。
 
-![苏打绿和伍佰同台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-wubai.jpeg)
+![苏打绿和伍佰同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-wubai.jpeg)
 
 2008 年 3 月 1 日，苏打绿应邀参加了尚雯婕的北京演唱会，并合作演唱了 [〈我的未来不是梦〉](https://weibo.com/2132122452/FDGlqgoJd)。随后苏打绿演唱了〈无与伦比的美丽〉和〈小情歌〉。值得一提的是，这是苏打绿第一次在大陆演出，这场演出对苏打绿有着重要的意义。
 
-![苏打绿和尚雯婕同台](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/exam/yqww-shangwenjie1.png =500x)
+![苏打绿和尚雯婕同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-shangwenjie1.png =500x)
 
 吴青峰曾多次和陈粒同台过，包括《蒙面唱将猜猜猜第三季》第 11 期（2018.12.30）、《歌手 2019》第 13 期（2019.4.5）、天津泡泡岛音乐节（2023.7.23）等。但是 **苏打绿没有和陈粒同台过**。
 

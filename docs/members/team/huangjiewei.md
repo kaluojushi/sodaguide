@@ -3,7 +3,7 @@ icon: microphone
 title: 黄玠玮（玠玮）
 ---
 
-![玠玮](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/team/jiewei.jpg)
+![玠玮](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/team/jiewei.jpg)
 
 **黄玠玮**（Zooey Wonder，1991年02月11日—），台湾创作女歌手，毕业于台北商专、台湾艺术大学。
 

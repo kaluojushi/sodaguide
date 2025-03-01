@@ -9,7 +9,7 @@ title: 吴青峰
 
 :::
 
-![2019 年吴青峰「太空备忘记」巡回演唱会高雄站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/wuqingfeng/wuqingfeng-intro.jpg =x500)
+![2019 年吴青峰「太空备忘记」巡回演唱会高雄站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/wuqingfeng/wuqingfeng-intro.jpg =x500)
 
 **吴青峰**（Qingfeng Wu，1982 年 —），台湾创作歌手、作词人、作曲人、编曲人，昵称 **青峰**，生于台北市。
 

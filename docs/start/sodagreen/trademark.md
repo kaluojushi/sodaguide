@@ -41,7 +41,7 @@ title: 商标权纠纷始末
 
 2007 年 8 月 3 日，林暐哲音乐社提出注册「苏打绿 Sodagreen」商标，苏打绿团员曾出具 **商标注册同意书**。2008 年 5 月至 9 月，林暐哲音乐社陆续取得 5 件「苏打绿 Sodagreen」商标权。
 
-![林暐哲音乐社于 2007 年 8 月 3 日注册商标](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/01.png)
+![林暐哲音乐社于 2007 年 8 月 3 日注册商标](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/01.png)
 
 ::: info 提示
 
@@ -63,7 +63,7 @@ title: 商标权纠纷始末
 
 2013 年 3 月 5 日，林暐哲音乐社有限公司继续注册「苏打绿 Sodagreen」商标，同样取得苏打绿团员的 **商标注册同意书** ~~*（另有说法称此商标苏打绿团员不知情）*~~。同年，林暐哲音乐社有限公司取得 1 件「苏打绿 Sodagreen」商标权。
 
-![林暐哲音乐社有限公司于 2013 年 3 月 5 日注册商标](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/02.png)
+![林暐哲音乐社有限公司于 2013 年 3 月 5 日注册商标](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/02.png)
 
 ::: info 提示
 
@@ -85,7 +85,7 @@ title: 商标权纠纷始末
 
 ::: details 共同声明全文
 
-![2018 年 12 月 31 日青峰和林暐哲发布的共同声明](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/declare2018.jpg)
+![2018 年 12 月 31 日青峰和林暐哲发布的共同声明](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/declare2018.jpg)
 
 :::
 
@@ -105,7 +105,7 @@ title: 商标权纠纷始末
 
 2020 年 6 月 24 日，苏打绿有限公司提出申请「鱼丁糸」商标，涵盖 11 类商品。此商标于同年 12 月 1 日取得。
 
-![苏打绿有限公司于 2020 年 6 月 24 日注册商标](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/04.png)
+![苏打绿有限公司于 2020 年 6 月 24 日注册商标](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/04.png)
 
 2020 年 7 月 3 日，鱼丁糸官宣出道，此后，苏打绿以鱼丁糸的名义活动。
 
@@ -197,7 +197,7 @@ title: 商标权纠纷始末
 
 ::: details 声明全文
 
-![2022 年 5 月 30 日林暐哲发布的声明](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/declare2022.jpg)
+![2022 年 5 月 30 日林暐哲发布的声明](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/declare2022.jpg)
 
 :::
 
@@ -221,7 +221,7 @@ title: 商标权纠纷始末
 
 2022 年 10 月 7 日，苏打绿有限公司提出新申请「苏打绿」商标（以下简称 **商标 B**）。
 
-![苏打绿有限公司所申请的商标 A 和商标 B](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/trademark/03.png)
+![苏打绿有限公司所申请的商标 A 和商标 B](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/trademark/03.png)
 
 ::: info 提示
 

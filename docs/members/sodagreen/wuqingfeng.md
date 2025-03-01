@@ -11,7 +11,7 @@ title: 吴青峰（青峰，日出）
 
 :::
 
-![青峰](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/members/sodagreen/qingfeng.jpg)
+![青峰](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/qingfeng.jpg)
 
 **吴青峰**（Qingfeng Wu，1982 年 —），昵称 **青峰**，分身名 **日出**，生于台北市，是苏打绿创始团员及主唱，乐团内主要的词曲创作者。
 

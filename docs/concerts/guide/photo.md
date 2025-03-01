@@ -37,7 +37,7 @@ title: 关于拍照
 
 所以表演者要求入场的观众不准摄影摄像，是完全合情合理合法的。
 
-![苏打绿 aka 鱼丁糸的微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/sdg-no-photo.png)
+![苏打绿 aka 鱼丁糸的微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/sdg-no-photo.png)
 
 ::: tip 青峰在「After Summer」北京站唱〈oh oh oh oh……〉时
 
@@ -59,7 +59,7 @@ title: 关于拍照
 
 :::
 
-![把眼睛留给他们，而不是镜头](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/midou.jpg)
+![把眼睛留给他们，而不是镜头](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/midou.jpg)
 
 ## 不允许拍照，我该怎么发朋友圈、微博？
 
@@ -77,7 +77,7 @@ title: 关于拍照
 
 陈粒去看青峰的演唱会，也没有拍照：
 
-![陈粒微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/chenli.png)
+![陈粒微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/chenli.png)
 
 ## 青峰在「太空备忘记」巡回演唱会期间的微博表态
 

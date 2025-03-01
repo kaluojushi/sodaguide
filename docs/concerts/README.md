@@ -3,7 +3,7 @@ icon: concert
 title: 演唱会
 ---
 
-![2023 年苏打绿「Round 2」演唱会](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/round2.jpg)
+![2023 年苏打绿「Round 2」演唱会](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/round2.jpg)
 
 ## 我们为什么如此需要演唱会？
 
@@ -17,7 +17,7 @@ title: 演唱会
 
 我想让妈妈和我一起去看，但她很犹豫。突然有一天，她说，我们去吧。我问她为什么这么快就决定了？妈妈说：「我很犹豫，但你爸说，无论如何也要让你去看。」因为很多很多年前，我们一家出去玩，临走的那天，酒店旁边的体育场有一场很重要的足球赛，那是爸爸最喜欢的球队，他很想去看，但因为各种安排最后放弃了，之后他就再也没机会去看那支球队的现场比赛了。那之后，爸爸就觉得，想做什么就要立刻去做，因为你不知道下一次还有没有机会。
 
-![2019 年吴青峰「太空备忘记」巡回演唱会合肥站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/tkbwj.jpg)
+![2019 年吴青峰「太空备忘记」巡回演唱会合肥站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/tkbwj.jpg)
 
 :::
 
@@ -29,7 +29,7 @@ title: 演唱会
 
 2014 年 10 月，我刚刚进入大学，那是我人生中听的第一场演唱会。安可前，全场合唱《我只在乎你》，然后青峰从后台出来加入合唱，我和邻座的姐姐唱着唱着都忍不住哽咽起来，我们相视一笑，她拉过我的手用力握了一下。
 
-![2014 年苏打绿「空气中的视听与幻觉」10 周年巡回演唱会成都站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/ksh.jpeg)
+![2014 年苏打绿「空气中的视听与幻觉」10 周年巡回演唱会成都站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/ksh.jpeg)
 
 :::
 

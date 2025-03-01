@@ -31,7 +31,7 @@ title: 演唱会指南
 
 不要 **接机**，如果与他们偶遇，可以打招呼聊天，不要 **偷拍**。
 
-![不要偷拍](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/concerts/guide/no-photo-secretly.png)
+![不要偷拍](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/no-photo-secretly.png)
 
 演唱会或有特定要求的音乐节，**不要夜排**。
 

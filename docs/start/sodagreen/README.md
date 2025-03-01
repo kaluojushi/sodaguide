@@ -3,7 +3,7 @@ icon: band
 title: 苏打绿 aka 鱼丁糸
 ---
 
-![2014 年苏打绿「空气中的视听与幻觉」10 周年巡回演唱会新加坡站](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/start/sodagreen/sodagreen-intro.jpg)
+![2014 年苏打绿「空气中的视听与幻觉」10 周年巡回演唱会新加坡站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/sodagreen-intro.jpg)
 
 ::: info 提示
 
