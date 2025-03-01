@@ -13,7 +13,7 @@ title: 苏打盖观光导览地图
 
 ## 简介
 
-![苏打盖观光导览地图封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/g.jpg)
+![苏打盖观光导览地图封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/g.jpg)
 
 苏打盖观光导览地图于 2011 年 11 月 11 日随苏打绿第 8 张专辑《你在烦恼什么》预购发行。
 

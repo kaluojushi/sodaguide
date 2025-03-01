@@ -46,3 +46,13 @@ title: 音乐资源
 ## 没有烟抽的日子
 
 链接：<https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3>
+
+<VidStack src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3" title="没有烟抽的日子"/>
+
+::: info 提示
+
+因资源敏感，该资源无法上传到境内服务器供大家下载。
+
+如果你无法访问，请更改网络环境，或自行寻找资源。
+
+:::

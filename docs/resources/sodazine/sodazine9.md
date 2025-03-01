@@ -9,6 +9,6 @@ title: 苏打志 9
 
 ## 简介
 
-![苏打志 9 与之前所有苏打志](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/9.jpg)
+![苏打志 9 与之前所有苏打志](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/9.jpg)
 
 苏打志 9 于 2015 年 11 月 4 日随苏打绿第 10 张专辑《冬　未了》预购发行。

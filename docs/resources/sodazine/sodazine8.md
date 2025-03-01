@@ -9,6 +9,6 @@ title: 苏打志 8
 
 ## 简介
 
-![苏打志 8 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/8.jpg)
+![苏打志 8 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/8.jpg)
 
 苏打志 8 于 2013 年 9 月 18 日随苏打绿第 9 张专辑《秋：故事》预购发行。

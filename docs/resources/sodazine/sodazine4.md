@@ -9,7 +9,7 @@ title: 苏打志 4
 
 ## 简介
 
-![苏打志 4 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/4.jpg)
+![苏打志 4 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/4.jpg)
 
 苏打志 4 于 2008 年 8 月 7 日随苏打绿《苏打绿THAT MOMENT小巨蛋现场全纪实 2007 Taipei Arena Concert 4 Live DVDs》发行。
 

@@ -21,7 +21,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="soda-drink" /> 苏打志 1
 
-![苏打志 1 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/1.jpg)
+![苏打志 1 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/1.jpg)
 
 苏打志 1 于 2005 年 9 月 3 日随苏打绿第 1 张专辑《苏打绿》（同名专辑）预购发行。
 
@@ -29,7 +29,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="universe" /> 苏打志 2
 
-![苏打志 2 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/2.jpg)
+![苏打志 2 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/2.jpg)
 
 苏打志 2 于 2006 年 10 月 20 日随苏打绿第 2 张专辑《小宇宙》预购发行。
 
@@ -39,7 +39,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="butterfly" /> 苏打志 3
 
-![苏打志 3 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/3.jpg)
+![苏打志 3 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/3.jpg)
 
 苏打志 3 于 2007 年 12 月 8 日发行。2007 年 11 月 2 日，苏打绿发行第 3 张专辑《无与伦比的美丽》，并在次日（11 月 3 日）举办「无与伦比的美丽」小巨蛋演唱会，同时开放演唱会周边商品预购，包括苏打志 3。
 
@@ -49,7 +49,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="sleep" /> 苏打志 4
 
-![苏打志 4 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/4.jpg)
+![苏打志 4 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/4.jpg)
 
 苏打志 4 于 2008 年 8 月 7 日随苏打绿《苏打绿THAT MOMENT小巨蛋现场全纪实 2007 Taipei Arena Concert 4 Live DVDs》发行。
 
@@ -65,7 +65,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="sapling" /> 苏打志 5
 
-![苏打志 5 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/5.jpg)
+![苏打志 5 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/5.jpg)
 
 苏打志 5 于 2009 年 5 月 8 日随苏打绿第 5 张专辑《春·日光》预购发行。
 
@@ -73,7 +73,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="icecream" /> 苏打志 6
 
-![苏打志 6 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/6.jpg)
+![苏打志 6 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/6.jpg)
 
 苏打志 6 于 2009 年 9 月 11 日随苏打绿第 6 张专辑《夏／狂热》预购发行。
 
@@ -81,7 +81,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="mask" /> 苏打志 7
 
-![苏打志 7 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/7.jpg)
+![苏打志 7 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/7.jpg)
 
 苏打志 7 于 2010 年 8 月 27 日随苏打绿第 7 张专辑《十年一刻》预购发行。
 
@@ -89,7 +89,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="sad" /> 苏打盖观光导览地图
 
-![苏打盖观光导览地图封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/g.jpg)
+![苏打盖观光导览地图封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/g.jpg)
 
 苏打盖观光导览地图于 2011 年 11 月 11 日随苏打绿第 8 张专辑《你在烦恼什么》预购发行。
 
@@ -99,7 +99,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="leaf" /> 苏打志 8
 
-![苏打志 8 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/8.jpg)
+![苏打志 8 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/8.jpg)
 
 苏打志 8 于 2013 年 9 月 18 日随苏打绿第 9 张专辑《秋：故事》预购发行。
 
@@ -107,7 +107,7 @@ title: 苏打志 Sodazine
 
 ## <FontIcon icon="snow" /> 苏打志 9
 
-![苏打志 9 与之前所有苏打志](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/9.jpg)
+![苏打志 9 与之前所有苏打志](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/9.jpg)
 
 苏打志 9 于 2015 年 11 月 4 日随苏打绿第 10 张专辑《冬　未了》预购发行。
 

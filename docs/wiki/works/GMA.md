@@ -50,7 +50,7 @@ title: 金曲奖
 
 ## 第 18 届金曲奖（2007.6.16）
 
-![第 18 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA18.jpg)
+![第 18 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA18.jpg)
 
 苏打绿凭借第 2 张专辑《小宇宙》在第 18 届金曲奖狂揽 7 项提名，并最终获得两项大奖。
 
@@ -76,7 +76,7 @@ title: 金曲奖
 
 ## 第 19 届金曲奖（2008.7.5）
 
-![第 19 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA19.jpeg)
+![第 19 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA19.jpeg)
 
 苏打绿凭借第 3 张专辑《无与伦比的美丽》在第 19 届金曲奖狂揽 6 项提名，并最终斩获最佳乐团奖。**这是金曲奖史上第一个、也是目前唯一一个蝉联最佳乐团的团体。**
 
@@ -99,7 +99,7 @@ title: 金曲奖
 
 ## 第 21 届金曲奖（2010.6.26）
 
-![第 21 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA21.jpg)
+![第 21 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA21.jpg)
 
 苏打绿凭借第 5 张专辑《春·日光》和第 6 张专辑《夏／狂热》在第 21 届金曲奖收获 5 项提名，更是 **凭两张专辑同时提名最佳乐团奖**，最终获得最佳音乐录影带奖。
 
@@ -179,7 +179,7 @@ title: 金曲奖
 
 ## 第 27 届金曲奖（2016.6.25）
 
-![第 27 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA27.jpg)
+![第 27 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA27.jpg)
 
 苏打绿凭借第 10 张专辑《冬　未了》在第 27 届金曲奖狂揽 8 项提名，为本届入围大赢家。吴青峰更是 **凭两首歌曲同时提名最佳作词人奖**。最终斩获 5 项大奖。
 
@@ -227,7 +227,7 @@ title: 金曲奖
 
 ## 第 31 届金曲奖（2020.10.3）
 
-![第 31 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA31.jpeg =600x)
+![第 31 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA31.jpeg =600x)
 
 吴青峰凭借首张专辑《太空人》在第 31 届金曲奖收获 4 项提名，并最终斩获最佳国语男歌手奖。
 
@@ -250,7 +250,7 @@ title: 金曲奖
 
 在第 31 届金曲奖颁奖典礼上，鱼丁糸作为颁奖嘉宾，为最佳演唱组合奖、最佳乐团奖颁奖。
 
-![第 31 届金曲奖，鱼丁糸作为颁奖嘉宾](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA31-2.jpeg)
+![第 31 届金曲奖，鱼丁糸作为颁奖嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA31-2.jpeg)
 
 ## 第 32 届金曲奖（2021.8.21）
 
@@ -276,15 +276,15 @@ title: 金曲奖
 
 在第 32 届金曲奖颁奖典礼上，吴青峰同时作为颁奖嘉宾，为最佳华语女歌手奖颁奖。
 
-![第 32 届金曲奖，吴青峰作为颁奖嘉宾](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA32.jpeg =600x)
+![第 32 届金曲奖，吴青峰作为颁奖嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA32.jpeg =600x)
 
 鱼丁糸作为表演嘉宾演唱〈我就奇怪〉〈空气中的视听与幻觉〉〈终点起点〉。
 
-![第 32 届金曲奖，鱼丁糸作为表演嘉宾](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA32-2.jpeg)
+![第 32 届金曲奖，鱼丁糸作为表演嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA32-2.jpeg)
 
 ## 第 34 届金曲奖（2023.7.1）
 
-![第 34 届金曲奖](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA34.jpg =600x)
+![第 34 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34.jpg =600x)
 
 吴青峰凭借第 3 张专辑《马拉美的星期二》在第 34 届金曲奖狂揽 7 项提名，并最终斩获年度专辑奖。至此，吴青峰已 **三度入围最佳华语男歌手奖**，并已 **取得金曲奖所有专辑类最高奖项**，包括：
 
@@ -318,7 +318,7 @@ title: 金曲奖
 
 在第 34 届金曲奖颁奖典礼上，刘家凯作为颁奖嘉宾，为演奏类最佳作曲人奖、演奏类最佳专辑制作人奖、演奏类最佳专辑奖颁奖。
 
-![第 34 届金曲奖，刘家凯作为颁奖嘉宾](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/GMA34-2.jpg =600x)
+![第 34 届金曲奖，刘家凯作为颁奖嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34-2.jpg =600x)
 
 ## 第 35 届金曲奖（2024.6.29）
 

@@ -3,7 +3,7 @@ icon: four
 title: 韦瓦第计划
 ---
 
-![「韦瓦第计划」四张专辑](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/vivaldi-project.jpeg =500x500)
+![「韦瓦第计划」四张专辑](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/vivaldi-project.jpeg =500x500)
 
 「韦瓦第计划」（Project Vivaldi），是由苏打绿发起的一项音乐计划，苏打绿计划用四张专辑，分别以四季为主题，来表达不同季节的音乐感受。
 
@@ -21,7 +21,7 @@ title: 韦瓦第计划
 
 ### 安东尼奥·维瓦尔第
 
-![安东尼奥·维瓦尔第](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/vivaldi.jpeg =300x)
+![安东尼奥·维瓦尔第](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/vivaldi.jpeg =300x)
 
 安东尼奥·卢奇奥·维瓦尔第（台湾译作韦瓦第）是 18 世纪意大利著名的作曲家、小提琴家。
 

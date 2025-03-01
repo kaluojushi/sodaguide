@@ -9,6 +9,6 @@ title: 苏打志 5
 
 ## 简介
 
-![苏打志 5 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/5.jpg)
+![苏打志 5 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/5.jpg)
 
 苏打志 5 于 2009 年 5 月 8 日随苏打绿第 5 张专辑《春·日光》预购发行。

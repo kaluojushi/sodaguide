@@ -3,7 +3,7 @@ icon: notes
 title: 演唱会纸条
 ---
 
-![苏打绿「无与伦比的美丽」小巨蛋演唱会](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/story-and-text/xiaojudan.jpeg)
+![苏打绿「无与伦比的美丽」小巨蛋演唱会](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/story-and-text/xiaojudan.jpeg)
 
 2007 年 11 月 3 日，苏打绿在台北小巨蛋举办了「无与伦比的美丽」演唱会，成为了第一个在台北小巨蛋开唱的独立音乐艺人。
 

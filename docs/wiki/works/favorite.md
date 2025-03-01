@@ -68,7 +68,7 @@ title: 老吴最喜欢的歌
 
 其实青峰早在 [2015 年](https://weibo.com/1822796164/D7w0w2HG0)，就已经表达了对〈未了〉的喜欢。
 
-![青峰的微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/weiliao.png)
+![青峰的微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/weiliao.png)
 
 来看，〈未了〉。
 
@@ -188,9 +188,9 @@ title: 老吴最喜欢的歌
 
 〈太空人〉早在 2013 年就写好了。青峰在 2013 年 1 月 18 日 00:00 的微博里，发了手写的这句歌词。这句歌词也成为了 6 年来打粉们常用的应援口号。直到 2019 年，这句歌词才终于完整地呈现在大家面前。
 
-![青峰的微博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/taikongren1.jpg)
+![青峰的微博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/taikongren1.jpg)
 
-![手写歌词原图](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/taikongren2.jpg)
+![手写歌词原图](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/taikongren2.jpg)
 
 一起来看〈太空人〉的歌词！
 

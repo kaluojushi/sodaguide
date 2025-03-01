@@ -7,7 +7,7 @@ title: 歌迷
 
 **「打粉」** 是苏打绿歌迷的自称，据传是「苏打粉」（也是一种化学品）的简称。
 
-![生活处处有打粉](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dafen.jpg =300x)
+![生活处处有打粉](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dafen.jpg =300x)
 
 ## 打粉老师／dfls
 
@@ -17,7 +17,7 @@ title: 歌迷
 
 其实是因为苏打绿的粉丝遍布各行各业，大家都很厉害，所以才会有这个称号～
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/dfls.jpg =300x)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dfls.jpg =300x)
 
 ## 浮萍／池堂
 
@@ -37,13 +37,13 @@ title: 歌迷
 
 同年春节期间，王源晒出了最近的歌单，包含青峰在《歌手》节目中唱的〈我们〉，青峰本人评论表示开心。然后王源用了「吹峰机」这个梗，青峰表示不可思议。
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/chuifengji.jpg)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/chuifengji.jpg)
 
 ## 善心人士以及其他称呼
 
 **「善心人士」** 是吴青峰为自己的粉丝取的名字。起因是在 2020 年 5 月 18 日，吴青峰发微博与大家每周一聊，随后有粉丝在微博下留言询求青峰给粉丝统一一下称呼，随后青峰回应提问并将粉丝取名为「善心人士」。
 
-![](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/shanxinrenshi.jpg)
+![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/shanxinrenshi.jpg)
 
 科普一下上图中其他粉丝称呼来源：
 
@@ -55,7 +55,7 @@ title: 歌迷
 
 - **啵啵鲨**：2020 年 1 月 10 日，吴青峰「太空备忘记」演唱会深圳场中，偷拍的观众很多，青峰当晚很不开心，少唱了一首歌并在微博发了 [长文](https://weibo.com/1822796164/IoTLF2nuQ)。1 月 11 日的演唱会开场前观众入座时，粉丝们自发提醒大家不要拍照。青峰在后台听见了，并在演唱会 talking 时讲到大家母爱爆棚，赞赏大家是彪悍的「啵啵鲨」，说感觉要是有人偷拍会不会被大家丢出去。
 
-  <VidStack src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/bobosha.mp4" title="演唱会开场前观众入座时"/>
+  <VidStack src="https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/bobosha.mp4" title="演唱会开场前观众入座时"/>
 
 - **倾听者**、**聆听者**：青峰在 2019 年发表了〈歌颂者〉，歌词中说“我想我很值得，当一个歌颂者”，之后青峰在微博简介中称自己是「歌颂者」。因此粉丝们自称为「倾听者」或「聆听者」。
 

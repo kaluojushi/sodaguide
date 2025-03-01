@@ -11,7 +11,7 @@ title: 好无情
 
 ## 〈小情歌〉
 
-![〈小情歌〉MV](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/xiaoqingge.jpg)
+![〈小情歌〉MV](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/xiaoqingge.jpg)
 
 〈小情歌〉发表于 2006 年，是苏打绿第 2 张专辑《小宇宙》的主打歌。
 
@@ -75,13 +75,13 @@ title: 好无情
 
 〈歌颂者〉中，青峰化用了〈小情歌〉的歌词和旋律。有网友在弹幕中指责青峰抄袭苏打绿。
 
-![〈歌颂者〉弹幕](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/gesongzhe.png)
+![〈歌颂者〉弹幕](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/gesongzhe.png)
 
 网友回应道：“脑子用不着可以捐给需要的人”、“我不是苏打绿的粉丝都知道吴青峰就是苏打绿的主唱”、“这是智商堪忧吗” 、“活久见了”、“是要笑死我吗，请回去补补课再来评价”。
 
 ## 〈无与伦比的美丽〉
 
-![〈无与伦比的美丽〉MV](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/wylbdml.jpg)
+![〈无与伦比的美丽〉MV](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/wylbdml.jpg)
 
 〈无与伦比的美丽〉发表于 2007 年，是苏打绿第 3 张专辑《无与伦比的美丽》的主打歌。
 
@@ -111,7 +111,7 @@ title: 好无情
 
 ## 〈我好想你〉
 
-![〈我好想你〉MV](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/wohaoxiangni.jpeg)
+![〈我好想你〉MV](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/wohaoxiangni.jpeg)
 
 〈我好想你〉发表于 2013 年，是苏打绿第 9 张专辑《秋：故事》的主打歌。同时是电影《小时代》《小时代2：青木时代》的主题曲。
 

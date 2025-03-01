@@ -9,6 +9,6 @@ title: 苏打志 7
 
 ## 简介
 
-![苏打志 7 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/7.jpg)
+![苏打志 7 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/7.jpg)
 
 苏打志 7 于 2010 年 8 月 27 日随苏打绿第 7 张专辑《十年一刻》预购发行。

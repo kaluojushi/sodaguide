@@ -9,6 +9,6 @@ title: 苏打志 1
 
 ## 简介
 
-![苏打志 1 封面](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/sodazine/1.jpg)
+![苏打志 1 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/1.jpg)
 
 苏打志 1 于 2005 年 9 月 3 日随苏打绿第 1 张专辑《苏打绿》（同名专辑）预购发行。

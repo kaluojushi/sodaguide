@@ -5,13 +5,13 @@ title: 后援会
 
 ## 苏打绿游乐园／苏打绿_aka_鱼丁糸官方后援会
 
-![「苏打绿游乐园」 logo](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/youleyuan.jpg =200x200)
+![「苏打绿游乐园」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/youleyuan.jpg =200x200)
 
 **「苏打绿游乐园」** 成立于 2007 年 11 月 23 日，是全国最大的苏打绿歌迷交流社区。
 
 「苏打绿游乐园」的曾任园长是 **徐文博**（「博博鱼」），2019 年《歌手》节目中，他作为吴青峰的经纪人出现在节目中。现为安溥执行经纪人。
 
-![《歌手》中的徐文博](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/xuwenbo.png)
+![《歌手》中的徐文博](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/xuwenbo.png)
 
 2009 年，苏打绿第一次上《快乐大本营》节目时，「苏打绿游乐园」成员「牛奶很白」在节目中唱了一首原创歌曲〈写给绿的情书〉。
 
@@ -24,7 +24,7 @@ title: 后援会
 
 ## 苏打绿绿人村
 
-![「苏打绿绿人村」 logo](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/lvrencun.jpg =200x200)
+![「苏打绿绿人村」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/lvrencun.jpg =200x200)
 
 **「苏打绿绿人村」** 成立于 2006 年，是自由无限制打粉团体，苏打绿大型粉丝后援会之一。
 
@@ -43,7 +43,7 @@ title: 后援会
 
 ## 吴青峰新人站
 
-![「吴青峰新人站」 logo](https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/wiki/xinrenzhan.jpg =200x200)
+![「吴青峰新人站」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/xinrenzhan.jpg =200x200)
 
 **「吴青峰新人站」** 成立于 2018 年 5 月 17 日，是吴青峰官方后援会。吴青峰于 2018 年春天正式对外宣告以个人身份重返乐坛，新人站也随之成立。
 
