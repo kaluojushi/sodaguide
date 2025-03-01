@@ -5,7 +5,7 @@ title: 苏打志 3
 
 <PDF url="/pdf/sodazine3-压缩.pdf" />
 
-如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](/pdf/sodazine3-压缩.pdf) 查看或下载。
+如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](https://resources-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodazine/sodazine3-压缩.pdf) 查看或下载。
 
 ## 简介
 
