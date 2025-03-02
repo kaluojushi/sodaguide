@@ -17,9 +17,9 @@ title: 苏打志 Sodazine
 
 快速阅读：
 
-[<FontIcon icon="soda-drink" /> 苏打志 1](sodazine1)；[<FontIcon icon="universe" /> 苏打志 2](sodazine2)；[<FontIcon icon="butterfly" /> 苏打志 3](sodazine3)；[<FontIcon icon="sleep" /> 苏打志 4](sodazine4)；[<FontIcon icon="sapling" /> 苏打志 5](sodazine5)；[<FontIcon icon="icecream" /> 苏打志 6](sodazine6)；[<FontIcon icon="mask" /> 苏打志 7](sodazine7)；[<FontIcon icon="sad" /> 苏打盖观光导览地图](sodaguide)；[<FontIcon icon="leaf" /> 苏打志 8](sodazine8)；[<FontIcon icon="snow" /> 苏打志 9](sodazine9)
+[<VPIcon icon="soda-drink" /> 苏打志 1](sodazine1)；[<VPIcon icon="universe" /> 苏打志 2](sodazine2)；[<VPIcon icon="butterfly" /> 苏打志 3](sodazine3)；[<VPIcon icon="sleep" /> 苏打志 4](sodazine4)；[<VPIcon icon="sapling" /> 苏打志 5](sodazine5)；[<VPIcon icon="icecream" /> 苏打志 6](sodazine6)；[<VPIcon icon="mask" /> 苏打志 7](sodazine7)；[<VPIcon icon="sad" /> 苏打盖观光导览地图](sodaguide)；[<VPIcon icon="leaf" /> 苏打志 8](sodazine8)；[<VPIcon icon="snow" /> 苏打志 9](sodazine9)
 
-## <FontIcon icon="soda-drink" /> 苏打志 1
+## <VPIcon icon="soda-drink" /> 苏打志 1
 
 ![苏打志 1 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/1.jpg)
 
@@ -27,7 +27,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine1) 阅读苏打志 1。
 
-## <FontIcon icon="universe" /> 苏打志 2
+## <VPIcon icon="universe" /> 苏打志 2
 
 ![苏打志 2 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/2.jpg)
 
@@ -37,7 +37,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine2) 阅读苏打志 2。
 
-## <FontIcon icon="butterfly" /> 苏打志 3
+## <VPIcon icon="butterfly" /> 苏打志 3
 
 ![苏打志 3 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/3.jpg)
 
@@ -47,7 +47,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine3) 阅读苏打志 3。
 
-## <FontIcon icon="sleep" /> 苏打志 4
+## <VPIcon icon="sleep" /> 苏打志 4
 
 ![苏打志 4 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/4.jpg)
 
@@ -63,7 +63,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine4) 阅读苏打志 4。
 
-## <FontIcon icon="sapling" /> 苏打志 5
+## <VPIcon icon="sapling" /> 苏打志 5
 
 ![苏打志 5 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/5.jpg)
 
@@ -71,7 +71,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine5) 阅读苏打志 5。
 
-## <FontIcon icon="icecream" /> 苏打志 6
+## <VPIcon icon="icecream" /> 苏打志 6
 
 ![苏打志 6 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/6.jpg)
 
@@ -79,7 +79,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine6) 阅读苏打志 6。
 
-## <FontIcon icon="mask" /> 苏打志 7
+## <VPIcon icon="mask" /> 苏打志 7
 
 ![苏打志 7 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/7.jpg)
 
@@ -87,7 +87,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine7) 阅读苏打志 7。
 
-## <FontIcon icon="sad" /> 苏打盖观光导览地图
+## <VPIcon icon="sad" /> 苏打盖观光导览地图
 
 ![苏打盖观光导览地图封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/g.jpg)
 
@@ -97,7 +97,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodaguide) 阅读苏打盖观光导览地图。
 
-## <FontIcon icon="leaf" /> 苏打志 8
+## <VPIcon icon="leaf" /> 苏打志 8
 
 ![苏打志 8 封面](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/8.jpg)
 
@@ -105,7 +105,7 @@ title: 苏打志 Sodazine
 
 点击 [这里](sodazine8) 阅读苏打志 8。
 
-## <FontIcon icon="snow" /> 苏打志 9
+## <VPIcon icon="snow" /> 苏打志 9
 
 ![苏打志 9 与之前所有苏打志](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/resources/sodazine/9.jpg)
 

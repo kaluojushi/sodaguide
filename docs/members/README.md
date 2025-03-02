@@ -5,33 +5,33 @@ title: 成员
 
 ## 目录
 
-### <FontIcon icon="band" /> 绿团／鱼团成员
+### <VPIcon icon="band" /> 绿团／鱼团成员
 
-[<FontIcon icon="microphone" /> 吴青峰（青峰，日出）](sodagreen/wuqingfeng)
+[<VPIcon icon="microphone" /> 吴青峰（青峰，日出）](sodagreen/wuqingfeng)
 
-[<FontIcon icon="bass" /> 谢馨仪（馨仪，香我）](sodagreen/xiexinyi)
+[<VPIcon icon="bass" /> 谢馨仪（馨仪，香我）](sodagreen/xiexinyi)
 
-[<FontIcon icon="drum" /> 史俊威（小威，八女）](sodagreen/shijunwei)
+[<VPIcon icon="drum" /> 史俊威（小威，八女）](sodagreen/shijunwei)
 
-[<FontIcon icon="guitar" /> 何景扬（阿福，可田）](sodagreen/hejingyang)
+[<VPIcon icon="guitar" /> 何景扬（阿福，可田）](sodagreen/hejingyang)
 
-[<FontIcon icon="e-guitar" /> 刘家凯（家凯，豕豆）](sodagreen/liujiakai)
+[<VPIcon icon="e-guitar" /> 刘家凯（家凯，豕豆）](sodagreen/liujiakai)
 
-[<FontIcon icon="keyboard" /> 龚钰祺（阿龚，金八）](sodagreen/gongyuqi)
+[<VPIcon icon="keyboard" /> 龚钰祺（阿龚，金八）](sodagreen/gongyuqi)
 
-### <FontIcon icon="partner" /> 打绿合作伙伴
+### <VPIcon icon="partner" /> 打绿合作伙伴
 
-[<FontIcon icon="e-guitar" /> 钟承洋（小洋）](partner/zhongchengyang)
+[<VPIcon icon="e-guitar" /> 钟承洋（小洋）](partner/zhongchengyang)
 
-[<FontIcon icon="guitar" /> 石博元（赤木）](partner/shiboyuan)
+[<VPIcon icon="guitar" /> 石博元（赤木）](partner/shiboyuan)
 
-### <FontIcon icon="team" /> 峰峰战队
+### <VPIcon icon="team" /> 峰峰战队
 
-[<FontIcon icon="microphone" /> 黄玠玮（玠玮）](team/huangjiewei)
+[<VPIcon icon="microphone" /> 黄玠玮（玠玮）](team/huangjiewei)
 
-[<FontIcon icon="keyboard" /> 张少瑜（少瑜）](team/zhangshaoyu)
+[<VPIcon icon="keyboard" /> 张少瑜（少瑜）](team/zhangshaoyu)
 
-[<FontIcon icon="drum" /> 黄亮杰（亮杰）](team/huangliangjie)
+[<VPIcon icon="drum" /> 黄亮杰（亮杰）](team/huangliangjie)
 
-[<FontIcon icon="drum" /> 潘维瀚（小潘）](team/panweihan)
+[<VPIcon icon="drum" /> 潘维瀚（小潘）](team/panweihan)
 

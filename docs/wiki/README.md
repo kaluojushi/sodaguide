@@ -27,18 +27,18 @@ title: 苏打百科
 
 ## 目录
 
-### <FontIcon icon="album" /> 作品相关
+### <VPIcon icon="album" /> 作品相关
 
-[<FontIcon icon="four" /> 韦瓦第计划](works/vivaldi)
+[<VPIcon icon="four" /> 韦瓦第计划](works/vivaldi)
 
-[<FontIcon icon="xinsui" /> 好无情](works/haowuqing)
+[<VPIcon icon="xinsui" /> 好无情](works/haowuqing)
 
-[<FontIcon icon="favorite" /> 老吴最喜欢的歌](works/favorite)
+[<VPIcon icon="favorite" /> 老吴最喜欢的歌](works/favorite)
 
-[<FontIcon icon="award" /> 金曲奖](works/GMA)
+[<VPIcon icon="award" /> 金曲奖](works/GMA)
 
-### <FontIcon icon="fans" /> 粉丝相关
+### <VPIcon icon="fans" /> 粉丝相关
 
-[<FontIcon icon="fans" /> 歌迷](fans/fans)
+[<VPIcon icon="fans" /> 歌迷](fans/fans)
 
-[<FontIcon icon="fans-club" /> 后援会](fans/club)
+[<VPIcon icon="fans-club" /> 后援会](fans/club)

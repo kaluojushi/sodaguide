@@ -102,7 +102,7 @@ title: 二十年一刻香港站团票答题总结（2024）
 
 **B. 27**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="award" /> 金曲奖 # 第 27 届金曲奖（2016.6.25）](/wiki/works/GMA.html#第-27-届金曲奖-2016-6-25)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="award" /> 金曲奖 # 第 27 届金曲奖（2016.6.25）](/wiki/works/GMA.html#第-27-届金曲奖-2016-6-25)。
 
 苏打绿凭借第 10 张专辑《冬　未了》在第 27 届金曲奖狂揽 8 项提名，为本届入围大赢家。吴青峰更是凭两首歌曲同时提名最佳作词人奖。最终斩获 5 项大奖。
 
@@ -369,7 +369,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **B. 2005**
 
-详见 [<FontIcon icon="start" /> 开始 / <FontIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <FontIcon icon="fish" /> 关于鱼丁糸 # 苏打绿时期](/start/sodagreen/oaeen.html#苏打绿时期)。
+详见 [<VPIcon icon="start" /> 开始 / <VPIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <VPIcon icon="fish" /> 关于鱼丁糸 # 苏打绿时期](/start/sodagreen/oaeen.html#苏打绿时期)。
 
 2005 年 6 月 17 日，苏打绿于女巫店表演时，以 **鱼丁糸** 的名字发行了《鱼丁糸首张专辑试听吸滴》，收录 9 首歌，全长约 7 分钟，为《OH OH OH OH! 夏天来听苏打绿乐团唱歌》试听单曲前身，专辑为纯手工压制。
 
@@ -470,7 +470,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **C. 小威**
 
-详见 [<FontIcon icon="start" /> 开始 / <FontIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <FontIcon icon="trademark" /> 商标权纠纷始末 # 商标权纠纷及苏打绿败诉（2019 年—2022 年）](/start/sodagreen/trademark.html#商标权纠纷及苏打绿败诉-2019-年—2022-年)。
+详见 [<VPIcon icon="start" /> 开始 / <VPIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <VPIcon icon="trademark" /> 商标权纠纷始末 # 商标权纠纷及苏打绿败诉（2019 年—2022 年）](/start/sodagreen/trademark.html#商标权纠纷及苏打绿败诉-2019-年—2022-年)。
 
 2019 年 8 月 23 日，苏打绿成立 **苏打绿有限公司** 及 **鱼丁糸有限公司**，代表人均为史俊威。
 
@@ -750,7 +750,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **小情歌**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="award" /> 金曲奖](/wiki/works/GMA)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="award" /> 金曲奖](/wiki/works/GMA)。
 
 〈无与伦比的美丽〉提名了第 19 届金曲奖最佳作曲人奖，但未获奖。
 
@@ -822,7 +822,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **12.12**
 
-详见 [<FontIcon icon="start" /> 开始 / <FontIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <FontIcon icon="fish" /> 关于鱼丁糸 # 商标权回归](/start/sodagreen/oaeen.html#商标权回归)。
+详见 [<VPIcon icon="start" /> 开始 / <VPIcon icon="band" /> 苏打绿 aka 鱼丁糸 / <VPIcon icon="fish" /> 关于鱼丁糸 # 商标权回归](/start/sodagreen/oaeen.html#商标权回归)。
 
 2023 年 12 月 12 日，鱼丁糸将所有复刻专辑由「鱼版」更名为「苏打绿版」（同时将「鱼 in summer」更名为「sodagreen in summer」），更换了专辑封面文字为「苏打绿」，并将所有复刻专辑移至苏打绿名下。同时，苏打绿（鱼丁糸）宣布，为庆祝苏打绿二十年一刻，「复刻计划」全面正名为「苏打绿版」。
 
@@ -843,7 +843,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **他举起右手点名**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="award" /> 金曲奖](/wiki/works/GMA)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="award" /> 金曲奖](/wiki/works/GMA)。
 
 〈无与伦比的美丽〉提名了第 19 届金曲奖最佳作曲人奖，但未获奖。
 
@@ -1045,7 +1045,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **牧神潘**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
 
 ::: tip 〈未了〉
 
@@ -1146,7 +1146,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **故事**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
 
 每张专辑的主打歌歌词会包含下张专辑的名称。
 
@@ -1229,7 +1229,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 青峰 25 岁生日 这
 
 **《我们走了一光年》**
 
-详见 [<FontIcon icon="wiki" /> 苏打百科 / <FontIcon icon="album" /> 作品相关 / <FontIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
+详见 [<VPIcon icon="wiki" /> 苏打百科 / <VPIcon icon="album" /> 作品相关 / <VPIcon icon="four" /> 韦瓦第计划 # 专辑间的联系](/wiki/works/vivaldi.html#专辑间的联系)。
 
 ::: tip 秋：故事
 
