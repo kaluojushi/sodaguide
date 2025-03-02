@@ -39,10 +39,10 @@ title: 关于本站
 - 框架：[VuePress](https://v2.vuepress.vuejs.org/zh/)
 - 主题：[vuepress-theme-hope](https://theme-hope.vuejs.press/zh/)
 - 页面托管：[GitHub Pages](https://pages.github.com/)
-- CDN：[jsDelivr](https://www.jsdelivr.com/)
+- CDN：~~[jsDelivr](https://www.jsdelivr.com/)~~ [腾讯云 COS](https://cloud.tencent.com/product/cos)
 - 域名注册商：[腾讯云](https://cloud.tencent.com/)
 
-本项目为爱发电，域名费用由我个人承担。本项目不会以任何方式向粉丝收取费用。
+本项目为爱发电，COS 和域名费用由我个人承担。本项目不会以任何方式向粉丝收取费用。
 
 ## 关于作者
 
