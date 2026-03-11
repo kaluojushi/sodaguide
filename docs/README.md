@@ -24,7 +24,7 @@ actions:
   - text: 二十年一刻🎤
     link: /news/20yike-2025
   - text: 观演报告
-    link: https://20yike-report.sodaguide.io/
+    link: https://2024.sodagreen.me/
 highlights:
   - header: 【苏打绿二十年一刻巡回演唱会消息合集】
     description: 苏打绿《二十年一刻》巡回演唱会，<br>舞台视为大地，音乐流转四季：<br>日光里苏醒、狂热中躁动、故事里多愁、未了的磅礴，<br>在那奇幻的魔方世界里，片刻永恒，寻回二十年的过去与现在。<br><a href="https://weibo.com/u/7889590866" target="_blank"><b>微博</b></a>、<a href="https://www.facebook.com/20thSG.Tour" target="_blank"><b>Facebook</b></a>、<a href="https://www.instagram.com/sodagreen.20th/" target="_blank"><b>Instagram</b></a>、<a href="https://www.xiaohongshu.com/user/profile/5ff1b5b1000000000100511c" target="_blank"><b>小红书</b></a>、<a href="https://space.bilibili.com/3546653889923355" target="_blank"><b>Bilibili</b></a>
