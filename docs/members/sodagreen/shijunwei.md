@@ -79,7 +79,7 @@ title: 史俊威（小威，八女）
 
 小威还是一个摄影师。2014 年，小威出版个人摄影集《With or Without You》。2015 年，小威举办个人首场摄影展《Halo》。
 
-![青峰为小威《Halo》摄影展站台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei-halo.jpg =500x)
+![青峰为小威《Halo》摄影展站台 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xiaowei-halo.jpg)
 
 ### 休团时期
 

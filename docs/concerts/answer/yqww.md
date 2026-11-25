@@ -132,7 +132,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 2008 年 3 月 1 日，苏打绿应邀参加了尚雯婕的北京演唱会，并合作演唱了 [〈我的未来不是梦〉](https://weibo.com/2132122452/FDGlqgoJd)。随后苏打绿演唱了〈无与伦比的美丽〉和〈小情歌〉。值得一提的是，这是苏打绿第一次在大陆演出，这场演出对苏打绿有着重要的意义。
 
-![苏打绿和尚雯婕同台](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-shangwenjie1.png =500x)
+![苏打绿和尚雯婕同台 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/yqww-shangwenjie1.png)
 
 :::
 
@@ -193,7 +193,7 @@ weekly 首期更新于 2007 年 8 月 30 日（也就是 **青峰 25 岁生日**
 
 2012 年，[馨仪](/members/sodagreen/xiexinyi.html#苏打绿时期) 上榜 FHM 全球百大性感美女，编号 **139**。同年 4 月 6 日，苏打绿发行单曲《不甘寂寞》，该歌曲是青峰为了给馨仪拉票而改编了〈喜欢寂寞〉的歌词，完全根据馨仪特征所写。馨仪最终获得了第 5 名。
 
-![团员为馨仪拉票](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg =500x)
+![团员为馨仪拉票 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg)
 
 :::
 

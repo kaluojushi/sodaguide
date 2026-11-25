@@ -379,7 +379,7 @@ title: 数字故事线
 
 2012 年，[馨仪](/members/sodagreen/xiexinyi.html#苏打绿时期) 上榜 FHM 全球百大性感美女，编号 **139**。同年 4 月 6 日，苏打绿发行单曲《不甘寂寞》，该歌曲是青峰为了给馨仪拉票而改编了〈喜欢寂寞〉的歌词，完全根据馨仪特征所写。馨仪最终获得了第 5 名。
 
-![团员为馨仪拉票](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg =500x)
+![团员为馨仪拉票 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/members/sodagreen/xinyi-sexy.jpg)
 
 ## 530
 

@@ -5,7 +5,7 @@ title: 后援会
 
 ## 苏打绿游乐园／苏打绿_aka_鱼丁糸官方后援会
 
-![「苏打绿游乐园」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/youleyuan.jpg =200x200)
+![「苏打绿游乐园」 logo =200x200](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/youleyuan.jpg)
 
 **「苏打绿游乐园」** 成立于 2007 年 11 月 23 日，是全国最大的苏打绿歌迷交流社区。
 
@@ -24,7 +24,7 @@ title: 后援会
 
 ## 苏打绿绿人村
 
-![「苏打绿绿人村」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/lvrencun.jpg =200x200)
+![「苏打绿绿人村」 logo =200x200](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/lvrencun.jpg)
 
 **「苏打绿绿人村」** 成立于 2006 年，是自由无限制打粉团体，苏打绿大型粉丝后援会之一。
 
@@ -43,7 +43,7 @@ title: 后援会
 
 ## 吴青峰新人站
 
-![「吴青峰新人站」 logo](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/xinrenzhan.jpg =200x200)
+![「吴青峰新人站」 logo =200x200](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/xinrenzhan.jpg)
 
 **「吴青峰新人站」** 成立于 2018 年 5 月 17 日，是吴青峰官方后援会。吴青峰于 2018 年春天正式对外宣告以个人身份重返乐坛，新人站也随之成立。
 

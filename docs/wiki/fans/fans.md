@@ -7,7 +7,7 @@ title: 歌迷
 
 **「打粉」** 是苏打绿歌迷的自称，据传是「苏打粉」（也是一种化学品）的简称。
 
-![生活处处有打粉](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dafen.jpg =300x)
+![生活处处有打粉 =300x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dafen.jpg)
 
 ## 打粉老师／dfls
 
@@ -17,7 +17,7 @@ title: 歌迷
 
 其实是因为苏打绿的粉丝遍布各行各业，大家都很厉害，所以才会有这个称号～
 
-![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dfls.jpg =300x)
+![ =300x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/dfls.jpg)
 
 ## 浮萍／池堂
 

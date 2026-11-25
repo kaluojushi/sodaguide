@@ -53,7 +53,7 @@ title: 关于黄牛票
 
 在大家的共同抵制中，黄牛没有市场会将票回流给主办方，主办方会继续放票，这样就会有更多的粉丝能够买到票。当年「太空备忘记」的上海站、深圳站都有二次放票和内场选座。大家一起努力！
 
-![打粉老师制作的抵制黄牛海报](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/fans-no-scalped-ticket.jpg =300x)
+![打粉老师制作的抵制黄牛海报 =300x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/guide/fans-no-scalped-ticket.jpg)
 
 ## 正确的转票收票指南
 

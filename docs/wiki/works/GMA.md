@@ -227,7 +227,7 @@ title: 金曲奖
 
 ## 第 31 届金曲奖（2020.10.3）
 
-![第 31 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA31.jpeg =600x)
+![第 31 届金曲奖 =600x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA31.jpeg)
 
 吴青峰凭借首张专辑《太空人》在第 31 届金曲奖收获 4 项提名，并最终斩获最佳国语男歌手奖。
 
@@ -276,7 +276,7 @@ title: 金曲奖
 
 在第 32 届金曲奖颁奖典礼上，吴青峰同时作为颁奖嘉宾，为最佳华语女歌手奖颁奖。
 
-![第 32 届金曲奖，吴青峰作为颁奖嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA32.jpeg =600x)
+![第 32 届金曲奖，吴青峰作为颁奖嘉宾 =600x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA32.jpeg)
 
 鱼丁糸作为表演嘉宾演唱〈我就奇怪〉〈空气中的视听与幻觉〉〈终点起点〉。
 
@@ -284,7 +284,7 @@ title: 金曲奖
 
 ## 第 34 届金曲奖（2023.7.1）
 
-![第 34 届金曲奖](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34.jpg =600x)
+![第 34 届金曲奖 =600x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34.jpg)
 
 吴青峰凭借第 3 张专辑《马拉美的星期二》在第 34 届金曲奖狂揽 7 项提名，并最终斩获年度专辑奖。至此，吴青峰已 **三度入围最佳华语男歌手奖**，并已 **取得金曲奖所有专辑类最高奖项**，包括：
 
@@ -318,7 +318,7 @@ title: 金曲奖
 
 在第 34 届金曲奖颁奖典礼上，刘家凯作为颁奖嘉宾，为演奏类最佳作曲人奖、演奏类最佳专辑制作人奖、演奏类最佳专辑奖颁奖。
 
-![第 34 届金曲奖，刘家凯作为颁奖嘉宾](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34-2.jpg =600x)
+![第 34 届金曲奖，刘家凯作为颁奖嘉宾 =600x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/GMA34-2.jpg)
 
 ## 第 35 届金曲奖（2024.6.29）
 

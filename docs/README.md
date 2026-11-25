@@ -188,7 +188,7 @@ highlights:
 
 ::: tip Sodazine 苏打志番外特刊之 Sodaguide 苏打盖（听苏打绿臭盖）观光导览地图
 
-![苏打盖封面](/images/sodaguide.jpg =300x300)
+![苏打盖封面 =300x300](/images/sodaguide.jpg)
 
 :::
 
@@ -206,7 +206,7 @@ highlights:
 
 现在我已经是一个 **IT 程序员**，那我就想做一个苏打绿的追星百科，把所有的资料整理起来，让大家能够更好地了解苏打绿。
 
-![苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodagreen.jpg =1000x)
+![苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站 =1000x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodagreen.jpg)
 
 这一天是 2016 年 12 月 17 日，苏打绿「After Summer」苏打绿专辑巡回演唱会《秋：故事》武汉站，在武汉客厅，我第一次看到了苏打绿。
 

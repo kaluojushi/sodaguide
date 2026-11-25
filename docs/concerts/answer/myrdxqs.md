@@ -198,7 +198,7 @@ title: 牧羊人的星期三（2023）
 
 不知道的粉丝请速速去考古。
 
-![没事儿别老学我叫](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-mengmian.jpg =500x)
+![没事儿别老学我叫 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-mengmian.jpg)
 
 :::
 
@@ -367,7 +367,7 @@ title: 牧羊人的星期三（2023）
 
 《兔姨民间故事》是青峰为兔姨举办的《啊勒！！前天不是才39岁吗！》大寿演唱会暨《奇迹の一瞬》荒唐摄影展限定周边商品，首刷限量 500 本。现已绝版。
 
-![兔姨民间故事](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tuyi.jpg =500x)
+![兔姨民间故事 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tuyi.jpg)
 
 《邪恶的纯真》是青峰学妹王小苗的诗集。
 
@@ -392,15 +392,15 @@ title: 牧羊人的星期三（2023）
 
 早期，苏打绿演出时，青峰使用的是白色的麦克风。当后来以个人身份演出时，一般使用 **蓝色** 的麦克风（小蓝）。
 
-![青峰和小蓝](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-blue.jpg =500x)
+![青峰和小蓝 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-blue.jpg)
 
 在随鱼丁糸演出时，青峰一般使用粉红色的麦克风（小粉）。
 
-![青峰和小粉](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-pink.jpg =500x)
+![青峰和小粉 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-pink.jpg)
 
 2023 年 2 月 18 日，鱼丁糸于「池堂影夜」演唱会中，宣布夺回苏打绿团名，正式回归。青峰在演唱会上开心地高高举起绿色的麦克风（小绿）。青峰说，小绿是在苏打绿三年前官宣回归的时候特别定制的，但后来遭遇商标权问题，就赶快订做了一只粉红色的，小绿一直被尘封在防潮箱里。对此青峰幽默地表示：“今天要进行一个点灯模式，小绿辛苦了，这三年你都躺在防潮箱里，很干吧！让我把你用湿吧！我终于可以用这只绿色麦克风了，它是属于苏打绿的！”
 
-![青峰和小绿](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-green.jpg =500x)
+![青峰和小绿 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-green.jpg)
 
 :::
 
@@ -784,15 +784,15 @@ title: 牧羊人的星期三（2023）
 
 2023 年 8 月 25 日，在李宇春演唱会上，青峰担任嘉宾，并与李宇春转圈圈。（其实二者在 2019 年就曾转过圈圈）
 
-![青峰和李宇春转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-liyuchun.jpg =500x)
+![青峰和李宇春转圈圈 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-liyuchun.jpg)
 
 青峰没有与欧若拉在正式演出时转过圈圈，但在拍摄〈Storm〉MV 花絮中与欧若拉转过圈圈。
 
-![青峰和欧若拉转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-aurora.png =500x)
+![青峰和欧若拉转圈圈 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-aurora.png)
 
 2018 年 6 月 3 日，在 2018 Hito 流行音乐奖颁奖典礼上，青峰与田馥甄表演了 27 首歌曲的串烧并转圈圈。
 
-![青峰与田馥甄转圈圈](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tianfuzhen.jpg =500x)
+![青峰与田馥甄转圈圈 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-tianfuzhen.jpg)
 
 :::
 
@@ -824,7 +824,7 @@ title: 牧羊人的星期三（2023）
 
 显然，青峰的大声公是红色的。
 
-![青峰和大声公](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-dashenggong.jpg =500x)
+![青峰和大声公 =500x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/concerts/exam/myrdxqs-dashenggong.jpg)
 
 :::
 

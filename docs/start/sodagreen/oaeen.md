@@ -11,7 +11,7 @@ title: 关于鱼丁糸
 
 ## 「鱼丁糸」是怎么来的？
 
-![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-origin.jpg =300x)
+![ =300x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-origin.jpg)
 
 「鱼丁糸」（yú dīng mì）来源于「苏打绿」的繁体「蘇打綠」的拆解。
 
@@ -59,7 +59,7 @@ title: 关于鱼丁糸
 
 2020 年 7 月 3 日，因陷入与前经纪人林暐哲的版权与商标权纠纷，苏打绿宣布以分身「鱼丁糸」（Oaeen）的名义出道。鼓手八女（小威）表示鱼丁糸的唯一指导原则是不能像苏打绿，透露将展现出与苏打绿完全不同的面貌。
 
-![鱼丁糸正式出道](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-start.jpg =400x)
+![鱼丁糸正式出道 =400x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-start.jpg)
 
 同时，团员们也取了全新的艺名，阿福是可田、家凯是豕豆、小威是八女、阿龚是金八、馨仪是香我、青峰是日出，各人拥有自己的代表符号。此外，粉丝称为「浮萍」，粉丝后援会成了「池堂」。
 
@@ -142,7 +142,7 @@ title: 关于鱼丁糸
 
 虽然「苏打绿」的名字已由苏打绿取得，但原来的歌曲录音母带仍在前经纪人林暐哲手中。2023 年 3 月 4 日，吴青峰在 Facebook 发文呼吁大家，不要听苏打绿的歌。
 
-![](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-don't-listen.jpeg =400x)
+![ =400x](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/start/sodagreen/oaeen-don't-listen.jpeg)
 
 我们也在此呼吁各位新老打粉：
 
