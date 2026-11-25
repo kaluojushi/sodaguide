@@ -3,7 +3,7 @@ icon: soda-drink
 title: 苏打志 1
 ---
 
-<PDF url="/pdf/sodazine1.pdf" />
+<PDFViewer src="/pdf/sodazine1.pdf" />
 
 如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](https://resources-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodazine/sodazine1.pdf) 查看或下载。
 

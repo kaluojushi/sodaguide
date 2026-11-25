@@ -49,13 +49,13 @@ title: 歌迷
 
 - **啵啵鱼**：青峰在一次采访中，称粉丝像公园里的鱼，给了饵料会“啵啵啵”。
 
-  <BiliBili bvid="BV1n7411h7Vk" width="75%" />
+  <BiliBiliEmbed bvid="BV1n7411h7Vk" width="75%" />
 
   2019 年 12 月 30 日，青峰在莫文蔚演唱会担任嘉宾后，在微博中说：“啵啵啵，我也當過池子裡的魚呢，哈哈。”将自己早年追星经历（参加莫文蔚演唱会）也比喻成「啵啵鱼」。
 
 - **啵啵鲨**：2020 年 1 月 10 日，吴青峰「太空备忘记」演唱会深圳场中，偷拍的观众很多，青峰当晚很不开心，少唱了一首歌并在微博发了 [长文](https://weibo.com/1822796164/IoTLF2nuQ)。1 月 11 日的演唱会开场前观众入座时，粉丝们自发提醒大家不要拍照。青峰在后台听见了，并在演唱会 talking 时讲到大家母爱爆棚，赞赏大家是彪悍的「啵啵鲨」，说感觉要是有人偷拍会不会被大家丢出去。
 
-  <VidStack src="https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/bobosha.mp4" title="演唱会开场前观众入座时"/>
+  <VideoPlayer src="https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/wiki/bobosha.mp4" title="演唱会开场前观众入座时" />
 
 - **倾听者**、**聆听者**：青峰在 2019 年发表了〈歌颂者〉，歌词中说“我想我很值得，当一个歌颂者”，之后青峰在微博简介中称自己是「歌颂者」。因此粉丝们自称为「倾听者」或「聆听者」。
 

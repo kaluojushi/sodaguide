@@ -18,7 +18,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [20.x]
+        node-version: [22.x]
 
     steps:
       - name: Checkout # 步骤1
@@ -34,7 +34,7 @@ jobs:
           user_name=`git log -1 --pretty=format:'%an'`
           user_email=`git log -1 --pretty=format:'%ae'`
           deploy_branch=gh-pages
-          npm install
+          npm ci
           npm run docs:build
           cd docs/.vuepress/dist
           echo 'sodaguide.cn' > CNAME

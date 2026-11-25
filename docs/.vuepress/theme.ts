@@ -28,17 +28,16 @@ export default hopeTheme({
       provider: "Waline",
       serverURL: "https://comments.sodaguide.cn/",
     },
-    components: {
-      components: [
-        "BiliBili",
-        "PDF",
-        "VidStack",
-      ],
+    media: {
+      embeds: ["bilibili"],
+      pdf: true,
+      videojs: true,
+      videojsAudio: true,
     },
     docsearch: {
       appId: "1A59SMGF0G",
       apiKey: "83c67aa7820b9e4b02e624f561f329e0",
-      indexName: "sodaguide",
+      indices: ["sodaguide"],
     },
   }
 });

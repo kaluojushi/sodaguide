@@ -19,7 +19,7 @@ title: 老吴最喜欢的歌
 
 :::
 
-<BiliBili bvid="BV1fJ411v7Zo" width="75%" />
+<BiliBiliEmbed bvid="BV1fJ411v7Zo" width="75%" />
 
 演出播出当天，青峰在微博发表了 [歌手笔记之四](https://weibo.com/1822796164/HeGx6cQjc)。
 
@@ -310,7 +310,7 @@ title: 老吴最喜欢的歌
 
 2017 年，青峰与家凯在冰岛旅游时，表演了这首歌。
 
-<BiliBili bvid="BV1Vx411E7Gg" width="75%" />
+<BiliBiliEmbed bvid="BV1Vx411E7Gg" width="75%" />
 
 欣赏一下青峰称之为墓志铭的歌词吧！
 

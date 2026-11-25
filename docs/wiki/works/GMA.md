@@ -17,15 +17,15 @@ title: 金曲奖
 
 以下整理了苏打绿、吴青峰等团员的金曲奖相关内容。
 
-<BiliBili bvid="BV1rs41177oY" width="100%" />
+<BiliBiliEmbed bvid="BV1rs41177oY" width="100%" />
 
 <https://www.bilibili.com/video/BV1rs41177oY>
 
-<BiliBili bvid="BV1o4411j71q" width="100%" />
+<BiliBiliEmbed bvid="BV1o4411j71q" width="100%" />
 
 <https://www.bilibili.com/video/BV1o4411j71q>
 
-<BiliBili bvid="BV1fM4m167yR" width="100%" />
+<BiliBiliEmbed bvid="BV1fM4m167yR" width="100%" />
 
 <https://www.bilibili.com/video/BV1fM4m167yR>
 

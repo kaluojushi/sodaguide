@@ -1,6 +1,5 @@
 import { defineUserConfig } from 'vuepress';
 import theme from "./theme";
-import { searchPlugin } from "@vuepress/plugin-search";
 import { viteBundler } from '@vuepress/bundler-vite';
 
 export default defineUserConfig({

@@ -3,7 +3,7 @@ icon: snow
 title: 苏打志 9
 ---
 
-<PDF url="/pdf/sodazine9.pdf" />
+<PDFViewer src="/pdf/sodazine9.pdf" />
 
 如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](https://resources-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodazine/sodazine9.pdf) 查看或下载。
 

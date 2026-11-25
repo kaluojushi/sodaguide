@@ -3,7 +3,7 @@ icon: sapling
 title: 苏打志 5
 ---
 
-<PDF url="/pdf/sodazine5.pdf" />
+<PDFViewer src="/pdf/sodazine5.pdf" />
 
 如果你的浏览器不支持在线阅读 PDF，你可以点击 [这里](https://resources-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/sodazine/sodazine5.pdf) 查看或下载。
 

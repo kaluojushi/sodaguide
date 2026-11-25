@@ -47,7 +47,7 @@ title: 音乐资源
 
 链接：<https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3>
 
-<VidStack src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3" title="没有烟抽的日子"/>
+<AudioPlayer src="https://cdn.jsdelivr.net/gh/kaluojushi/sodaguide@picbed/resources/TDWS.mp3" title="没有烟抽的日子" />
 
 ::: info 提示
 
