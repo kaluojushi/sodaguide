@@ -109,7 +109,7 @@ title: 二十年一刻巡演（2024）
 
 <table style="text-align: center">
 <thead>
-<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">开场：Sodagreen</span></th></tr>
+<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">开场：Spring Prelude（Sodagreen）</span></th></tr>
 </thead>
 <thead>
 <tr><th colspan="2"><span style="color:#F593C2">篇章：春</span></th></tr>
@@ -122,7 +122,7 @@ title: 二十年一刻巡演（2024）
 <tr><td>05</td><td><span style="color:#F593C2">小情歌</span></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">春夏转场：〈他夏了夏天〉前奏表演</span></th></tr>
+<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">春夏转场：Summer Interlude（〈他夏了夏天〉前奏表演）</span></th></tr>
 </thead>
 <thead>
 <tr><th colspan="2"><span style="color:#7AC65A">篇章：夏</span></th></tr>
@@ -130,12 +130,12 @@ title: 二十年一刻巡演（2024）
 <tbody>
 <tr><td>06</td><td><span style="color:#7AC65A">狂热</span></td></tr>
 <tr><td>07</td><td><span style="color:#7AC65A">控制狂</span></td></tr>
-<tr><td>08</td><td><span style="color:#7AC65A">无眠 *</span></td></tr>
+<tr><td>08</td><td><span style="color:#7AC65A">无眠 <sup>*</sup></span></td></tr>
 <tr><td>09</td><td><span style="color:#7AC65A">当我们一起走过</span></td></tr>
 <tr><td>10</td><td><span style="color:#7AC65A">频率</span></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">夏秋转场：二胡 + 自鸣钟</span></th></tr>
+<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">夏秋转场：Autumn Interlude（二胡 + 自鸣钟）</span></th></tr>
 </thead>
 <thead>
 <tr><th colspan="2"><span style="color:#F2A135">篇章：秋</span></th></tr>
@@ -148,7 +148,7 @@ title: 二十年一刻巡演（2024）
 <tr><td>15</td><td><span style="color:#F2A135">无与伦比的美丽</span></td></tr>
 </tbody>
 <thead>
-<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">秋冬转场：阿龚钢琴独奏：<a href="https://www.youtube.com/watch?v=2um3FmPXbKs" target="_blank">乐夏星空</a>（二十周年演唱会特别版） **</span></th></tr>
+<tr><th colspan="2"><span style="font-weight:normal;font-style:italic">秋冬转场：Winter Interlude <a href="https://www.youtube.com/watch?v=2um3FmPXbKs" target="_blank">乐夏星空</a>（Inspired by Endless）（阿龚钢琴独奏：乐夏星空 二十周年演唱会特别版） <sup>**</sup></span></th></tr>
 </thead>
 <thead>
 <tr><th colspan="2"><span style="color:#204C93">篇章：冬</span></th></tr>
@@ -156,7 +156,7 @@ title: 二十年一刻巡演（2024）
 <tbody>
 <tr><td>16</td><td><span style="color:#204C93">Everyone</span></td></tr>
 <tr><td>17</td><td><span style="color:#204C93">喜欢寂寞</span></td></tr>
-<tr><td>18</td><td><span style="color:#204C93">追追追 ***</span></td></tr>
+<tr><td>18</td><td><span style="color:#204C93">追追追 <sup>***</sup></span></td></tr>
 <tr><td>19</td><td><span style="color:#204C93">痛快的哀艳</span></td></tr>
 <tr><td>20</td><td><span style="color:#204C93">Tomorrow will be fine.</span></td></tr>
 </tbody>
@@ -255,6 +255,12 @@ title: 二十年一刻巡演（2024）
 </tr>
 </tbody>
 </table>
+
+::: info 提示
+
+2025 年 7 月 25 日，苏打绿发行《二十站一刻》Live 专辑数位 CD 1；8 月 12 日，苏打绿发行《二十站一刻》Live 专辑实体及数位 CD 2。数位 CD 1 收录了上述前 10 首单曲的现场录音，数位 CD 2 收录了上述后 2 首单曲的现场录音。
+
+:::
 
 ### 一刻限定单曲及点歌歌单
 
