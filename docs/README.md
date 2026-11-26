@@ -35,19 +35,6 @@ highlights:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
-    features:
-      - title: 【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 20 日<br><b>地点：</b>OVO Arena Wembley<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/20yike-2025.html#苏打绿二十年一刻巡回演唱会-list
-      - title: 【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 26 日<br><b>地点：</b>Tempodrom<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/20yike-2025.html#苏打绿二十年一刻巡回演唱会-list
-      - title: 【2025-05-29】苏打绿二十年一刻巡回演唱会东京站
-        icon: concert
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/20yike-2025.html#苏打绿二十年一刻巡回演唱会-list
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
     bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/perform2023.jpg
@@ -56,19 +43,6 @@ highlights:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
-    features:
-      - title: 【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站
-        icon: square-one
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 20 日<br><b>地点：</b>OVO Arena Wembley<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/perform.html#【2025-04-20】苏打绿二十年一刻巡回演唱会伦敦站-苏打绿
-      - title: 【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站
-        icon: square-two
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 4 月 26 日<br><b>地点：</b>Tempodrom<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/perform.html#【2025-04-26】苏打绿二十年一刻巡回演唱会柏林站-苏打绿
-      - title: 【2025-05-29】苏打绿二十年一刻巡回演唱会东京站
-        icon: square-three
-        details: <b>类型：</b>演唱会<br><b>时间：</b>2025 年 5 月 29 日<br><b>地点：</b>日本武道館<br><b>演出信息：</b>无<br><b>开票时间：</b>已开票<br><b>票价：</b>无<br><b>购票平台：</b>无
-        link: /news/perform.html#【2025-05-29】苏打绿二十年一刻巡回演唱会东京站-苏打绿
   - header: 【韦瓦第复刻消息合集】
     image: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/fuke-vivaldi-album.jpg
     bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/fuke-vivaldi-concept.jpg
