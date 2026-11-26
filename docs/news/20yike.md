@@ -3,13 +3,11 @@ icon: concert
 title: 二十年一刻巡演（2024）
 ---
 
-**此页面最后更新于：2025 年 2 月 2 日。** 本页面信息可能失去时效性，请以官方信息为准。
-
-**受精力所限，本页面可能不会及时更新。你可以在评论区浏览或帮助我发布最新消息。**
+**该巡回演唱会已收官，相关信息仅供参考。**
 
 ::: info 提示
 
-点击 [**这里**](https://20yike-report.sodaguide.io/) 查看你的 **2024 观演报告**！！！
+点击 [**这里**](https://2024.sodagreen.me/) 查看你的 **2024 观演报告**！！！
 
 来看看你一共去了多少场，听了多少歌，解锁了什么成就？
 
@@ -27,39 +25,39 @@ title: 二十年一刻巡演（2024）
 
 ### 演出信息
 
-|       时间       |  星期   | 城市 |                             地点                             |    演出信息     |                                                                             票务信息（加粗为总代）                                                                             | 状态  |                             更多                             |
-|:--------------:|:-----:| :---------------------------------: |:----------------------------------------------------------:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:| :----------------------------------------------------------: |
-| 3.22、3.23、3.24 | 五、六、日 |              **香港**               |      [香港红磡体育馆](https://www.amap.com/place/B0FFI7BSIL)      | 每晚 20:15 开始 |                                                                               **URBTIX**                                                                                | 已结束 |                                                              |
-|   4.13、4.14    |  六、日  |              **杭州**               |     [杭州奥体中心体育馆](https://www.amap.com/place/B0G1LH6QE1)     | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=771485183793)、[猫眼](https://www.gewara.com/detail/308959)、[票星球](https://m.piaoxingqiu.com/content/65e095767a15cb0001c659d4) | 已结束 |                                                              |
-|    5.4、5.5     |  六、日  |              **成都**               |  [成都凤凰山体育公园综合体育馆](https://www.amap.com/place/B0IGMC83OZ)   | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=772167630881)、[猫眼](https://www.gewara.com/detail/310695)、[票星球](https://m.piaoxingqiu.com/content/65e95ddadbafcf0001caec8e) | 已结束 |                                                              |
-|   5.18、5.19    |  六、日  |              **郑州**               |     [郑州奥体中心体育馆](https://www.amap.com/place/B0J21LDCZ2)     | 每晚 19:30 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=769999283601)、[猫眼](https://www.gewara.com/detail/308911)、[票星球](https://m.piaoxingqiu.com/content/65dd9309ea6cef00018c92f9) | 已结束 |                                                              |
-|    6.1、6.2     |  六、日  |              **深圳**               | [深圳湾体育中心体育馆（春茧体育馆）](https://www.amap.com/place/B02F38TGNN) | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=785421839703)、[猫眼](https://www.gewara.com/detail/320723)、[票星球](https://m.piaoxingqiu.com/content/6620c14c4138080001309754) | 已结束 |                                                              |
-|   6.22、6.23    |  六、日  |              **北京**               |   [北京华熙 LIVE·五棵松](https://www.amap.com/place/B0FFICWKRD)   | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=782127192850)、[猫眼](https://www.gewara.com/detail/320924)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe) | 已结束 |                                                              |
-|   7.20、7.21    |  六、日  |              **武汉**               |    [武汉光谷国际网球中心](https://www.amap.com/place/B0FFF3OPZ3)     | 每晚 19:30 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803041709404)、[猫眼](https://www.gewara.com/detail/331667)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe) | 已结束 |   |
-|    8.3、8.4     |  六、日  |              **厦门**               |    [厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)    | 每晚 19:00 开始 |    [**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240803-esnyk-xm-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803442436900)     | 已结束 |  |
-|   8.17、8.18    |  六、日  |              **重庆**               |   [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 |    [**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240817-esnyk-cq-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803084177251)     | 已结束 |  |
-|    8.31、9.1    |  六、日  |              **广州**               |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 | [**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f) | 已结束 |  |
-|   9.16、9.17    |  一、二  |              **上海**               |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   |      每晚 19:00 开始      |   [**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)   | 已结束 |  |
-|   9.27、9.28    |  五、六  |              **南京**               |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 | [**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762) | 已结束 |  |
+|       时间       |  星期   |                           城市                           |                             地点                             |    演出信息     | 票务信息（加粗为总代） | 状态  | 更多 |
+|:--------------:|:-----:|:------------------------------------------------------:|:----------------------------------------------------------:|:-----------:|:-----------:|:---:|:--:|
+| 3.22、3.23、3.24 | 五、六、日 | <span style="color:#007CC2;font-weight:bold">香港</span> |      [香港红磡体育馆](https://www.amap.com/place/B0FFI7BSIL)      | 每晚 20:15 开始 | **URBTIX**  | 已结束 |    |
+|   4.13、4.14    |  六、日  | <span style="color:#509779;font-weight:bold">杭州</span> |     [杭州奥体中心体育馆](https://www.amap.com/place/B0G1LH6QE1)     | 每晚 19:00 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=771485183793)、[猫眼](https://www.gewara.com/detail/308959)、[票星球](https://m.piaoxingqiu.com/content/65e095767a15cb0001c659d4)| 已结束 |    |
+|    5.4、5.5     |  六、日  | <span style="color:#F18E53;font-weight:bold">成都</span> |  [成都凤凰山体育公园综合体育馆](https://www.amap.com/place/B0IGMC83OZ)   | 每晚 19:00 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=772167630881)、[猫眼](https://www.gewara.com/detail/310695)、[票星球](https://m.piaoxingqiu.com/content/65e95ddadbafcf0001caec8e)| 已结束 |    |
+|   5.18、5.19    |  六、日  | <span style="color:#00B8DE;font-weight:bold">郑州</span> |     [郑州奥体中心体育馆](https://www.amap.com/place/B0J21LDCZ2)     | 每晚 19:30 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=769999283601)、[猫眼](https://www.gewara.com/detail/308911)、[票星球](https://m.piaoxingqiu.com/content/65dd9309ea6cef00018c92f9)| 已结束 |    |
+|    6.1、6.2     |  六、日  | <span style="color:#767CBA;font-weight:bold">深圳</span> | [深圳湾体育中心体育馆（春茧体育馆）](https://www.amap.com/place/B02F38TGNN) | 每晚 19:00 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=785421839703)、[猫眼](https://www.gewara.com/detail/320723)、[票星球](https://m.piaoxingqiu.com/content/6620c14c4138080001309754)| 已结束 |    |
+|   6.22、6.23    |  六、日  | <span style="color:#56BBC6;font-weight:bold">北京</span> |   [北京华熙 LIVE·五棵松](https://www.amap.com/place/B0FFICWKRD)   | 每晚 19:00 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=782127192850)、[猫眼](https://www.gewara.com/detail/320924)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe)| 已结束 |    |
+|   7.20、7.21    |  六、日  | <span style="color:#55B770;font-weight:bold">武汉</span> |    [武汉光谷国际网球中心](https://www.amap.com/place/B0FFF3OPZ3)     | 每晚 19:30 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=803041709404)、[猫眼](https://www.gewara.com/detail/331667)、[票星球](https://m.piaoxingqiu.com/content/6621e9b84d74d300018ae6fe)| 已结束 |    |
+|    8.3、8.4     |  六、日  | <span style="color:#B6D44E;font-weight:bold">厦门</span> |    [厦门奥体中心凤凰体育馆](https://www.amap.com/place/B0JBNZZFN8)    | 每晚 19:00 开始 |[**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240803-esnyk-xm-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803442436900)| 已结束 |    |
+|   8.17、8.18    |  六、日  | <span style="color:#ED7A58;font-weight:bold">重庆</span> |   [重庆华熙 LIVE·鱼洞](https://www.amap.com/place/B0FFHO5LGI)    | 每晚 19:00 开始 |[**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240817-esnyk-cq-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=803084177251)| 已结束 |    |
+|    8.31、9.1    |  六、日  | <span style="color:#F9BE00;font-weight:bold">广州</span> |   [宝能广州国际体育演艺中心](https://www.amap.com/place/B0FFLBXH0M)    | 每晚 19:00 开始 |[**猫眼**](https://www.gewara.com/detail/332951)、[大麦](https://detail.damai.cn/item.htm?id=805301106700)、[票星球](https://m.piaoxingqiu.com/content/666952fae715da00010df42f)| 已结束 |    |
+|   9.16、9.17    |  一、二  | <span style="color:#EB79AA;font-weight:bold">上海</span> |   [上海梅赛德斯-奔驰文化中心](https://www.amap.com/place/B00155QXTH)   | 每晚 19:00 开始 |[**纷玩岛**](https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/news/perform/20240915-esnyk-sh-fwd.jpg)、[**大麦**](https://detail.damai.cn/item.htm?id=824903545101)| 已结束 |    |
+|   9.27、9.28    |  五、六  | <span style="color:#BD9460;font-weight:bold">南京</span> |    [南京青奥体育公园体育馆](https://www.amap.com/place/B0HKOSGHPJ)    | 每晚 19:00 开始 |[**大麦**](https://detail.damai.cn/item.htm?id=803793969262)、[猫眼](https://www.gewara.com/detail/332279)、[票星球](https://m.piaoxingqiu.com/content/6662bceca1bf540001c85762)| 已结束 |    |
 
 点 [这里](/news/perform) 查看其他演出情况。
 
 ### 开票时间汇总
 
-|   城市   |      官宣       |                  一开                   |      二开       |                三四开／临开                |                                    主题色公布                                     |       演出        |
-|:------:|:-------------:|:-------------------------------------:|:-------------:|:------------------------------------:|:----------------------------------------------------------------------------:|:---------------:|
-| **香港** | 1.3（周三）12:00  |             1.23（周二）10:00             | 1.30（周二）10:00 |               演出当天有放票                | 3.21（周四）14:00<br><span style="color:#007CC2;font-weight:bold">#007CC2</span> | 3.22-3.24（周五-日） |
-| **杭州** | 3.7（周四）12:18  |             3.12（周二）12:18             | 3.23（周六）12:18 |         约3.27开始持续回流；4.11开始候补         | 4.11（周四）18:00<br><span style="color:#509779;font-weight:bold">#509779</span> | 4.13-4.14（周六-日） |
-| **成都** | 3.18（周一）12:18 |             4.1（周一）12:18              | 4.24（周三）12:18 |              约演出前一周持续回流              | 5.2（周四）12:00<br><span style="color:#F18E53;font-weight:bold">#F18E53</span>  |  5.4-5.5（周六-日）  |
-| **郑州** | 3.18（周一）12:18 |             4.12（周五）12:18             | 4.29（周一）12:18 |              约演出前一周持续回流              | 5.16（周四）12:00<br><span style="color:#00B8DE;font-weight:bold">#00B8DE</span> | 5.18-5.19（周六-日） |
-| **深圳** | 4.22（周一）12:19 |             5.9（周四）12:18              | 5.18（周六）12:18 |               约演出前一天回流               | 5.30（周四）12:09<br><span style="color:#767CBA;font-weight:bold">#767CBA</span> |  6.1-6.2（周六-日）  |
-| **北京** | 5.17（周五）12:33 |             5.27（周一）12:18             | 6.14（周五）12:18 | 6.22（周六）10:00 三开<br>6.23（周日）11:00 四开 | 6.20（周四）12:00<br><span style="color:#56BBC6;font-weight:bold">#56BBC6</span> | 6.22-6.23（周六-日） |
-| **武汉** | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  |           7.19（周五）22:00 三开           | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
-| **厦门** | 6.27（周四）12:18 |             7.10（周三）12:18             |       无       |              约演出前两周持续回流              | 8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>  |  8.3-8.4（周六-日）  |
-| **重庆** | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |             开票后一直在回流／可购              | 8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span> | 8.17-8.18（周六-日） |
-| **广州** | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |               约演出前两天回流               | 8.29（周四）12:00<br><span style="color:#F9BE00;font-weight:bold">#F9BE00</span> | 8.31-9.1（周六-日）  |
-| **上海** | 7.19（周五）12:28 |             8.20（周二）12:18              | 9.7（周六）20:30  |         纷玩岛开票当天可候补；演出延期后持续放票         | 9.13（周五）12:00<br><span style="color:#EB79AA;font-weight:bold">#EB79AA</span> | 9.16-9.17（周一-二） |
-| **南京** | 7.19（周五）12:28 |             7.25（周四）12:18              | 9.4（周三）12:18  |           9.26（周四）19:30 三开           |                                9.25（周三）12:00<br><span style="color:#BD9460;font-weight:bold">#BD9460</span>                                 | 9.27-9.28（周五-六） |
+|                           城市                           |      官宣       |                  一开                   |      二开       |                三四开／临开                |                                    主题色公布                                     |       演出        |
+|:------------------------------------------------------:|:-------------:|:-------------------------------------:|:-------------:|:------------------------------------:|:----------------------------------------------------------------------------:|:---------------:|
+| <span style="color:#007CC2;font-weight:bold">香港</span> | 1.3（周三）12:00  |             1.23（周二）10:00             | 1.30（周二）10:00 |               演出当天有放票                | 3.21（周四）14:00<br><span style="color:#007CC2;font-weight:bold">#007CC2</span> | 3.22-3.24（周五-日） |
+| <span style="color:#509779;font-weight:bold">杭州</span> | 3.7（周四）12:18  |             3.12（周二）12:18             | 3.23（周六）12:18 |         约3.27开始持续回流；4.11开始候补         | 4.11（周四）18:00<br><span style="color:#509779;font-weight:bold">#509779</span> | 4.13-4.14（周六-日） |
+| <span style="color:#F18E53;font-weight:bold">成都</span> | 3.18（周一）12:18 |             4.1（周一）12:18              | 4.24（周三）12:18 |              约演出前一周持续回流              | 5.2（周四）12:00<br><span style="color:#F18E53;font-weight:bold">#F18E53</span>  |  5.4-5.5（周六-日）  |
+| <span style="color:#00B8DE;font-weight:bold">郑州</span> | 3.18（周一）12:18 |             4.12（周五）12:18             | 4.29（周一）12:18 |              约演出前一周持续回流              | 5.16（周四）12:00<br><span style="color:#00B8DE;font-weight:bold">#00B8DE</span> | 5.18-5.19（周六-日） |
+| <span style="color:#767CBA;font-weight:bold">深圳</span> | 4.22（周一）12:19 |             5.9（周四）12:18              | 5.18（周六）12:18 |               约演出前一天回流               | 5.30（周四）12:09<br><span style="color:#767CBA;font-weight:bold">#767CBA</span> |  6.1-6.2（周六-日）  |
+| <span style="color:#56BBC6;font-weight:bold">北京</span> | 5.17（周五）12:33 |             5.27（周一）12:18             | 6.14（周五）12:18 | 6.22（周六）10:00 三开<br>6.23（周日）11:00 四开 | 6.20（周四）12:00<br><span style="color:#56BBC6;font-weight:bold">#56BBC6</span> | 6.22-6.23（周六-日） |
+| <span style="color:#55B770;font-weight:bold">武汉</span> | 6.15（周六）12:18 | 6.25（周二）12:18（07-20 场）、13:18（07-21 场） | 7.9（周二）12:18  |           7.19（周五）22:00 三开           | 7.18（周四）18:00<br><span style="color:#55B770;font-weight:bold">#55B770</span> | 7.20-7.21（周六-日） |
+| <span style="color:#B6D44E;font-weight:bold">厦门</span> | 6.27（周四）12:18 |             7.10（周三）12:18             |       无       |              约演出前两周持续回流              | 8.1（周四）14:00<br><span style="color:#B6D44E;font-weight:bold">#B6D44E</span>  |  8.3-8.4（周六-日）  |
+| <span style="color:#ED7A58;font-weight:bold">重庆</span> | 6.12（周三）15:20 |             6.19（周三）12:18             |       无       |             开票后一直在回流／可购              | 8.15（周四）18:59<br><span style="color:#ED7A58;font-weight:bold">#ED7A58</span> | 8.17-8.18（周六-日） |
+| <span style="color:#F9BE00;font-weight:bold">广州</span> | 7.25（周五）12:18 |             8.7（周三）12:18              | 8.21（周三）12:18 |               约演出前两天回流               | 8.29（周四）12:00<br><span style="color:#F9BE00;font-weight:bold">#F9BE00</span> | 8.31-9.1（周六-日）  |
+| <span style="color:#EB79AA;font-weight:bold">上海</span> | 7.19（周五）12:28 |             8.20（周二）12:18             | 9.7（周六）20:30  |         纷玩岛开票当天可候补；演出延期后持续放票         | 9.13（周五）12:00<br><span style="color:#EB79AA;font-weight:bold">#EB79AA</span> | 9.16-9.17（周一-二） |
+| <span style="color:#BD9460;font-weight:bold">南京</span> | 7.19（周五）12:28 |             7.25（周四）12:18             | 9.4（周三）12:18  |           9.26（周四）19:30 三开           | 9.25（周三）12:00<br><span style="color:#BD9460;font-weight:bold">#BD9460</span> | 9.27-9.28（周五-六） |
 
 \* 官宣时间和主题色公布时间为 Facebook 动态发布时间。
 
@@ -1249,30 +1247,30 @@ A+B/C 表示在专辑的 C 首歌里，有 A 首歌是固定歌单，有 B 首�
 <tr><th>城市</th><th>时间</th><th>亲人</th><th>朋友</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="3">香港</td><td>3.22</td><td>小威一家</td><td></td></tr>
+<tr><td rowspan="3"><span style="color:#007CC2;font-weight:bold">香港</span></td><td>3.22</td><td>小威一家</td><td></td></tr>
 <tr><td>3.23</td><td>小威一家</td><td></td></tr>
 <tr><td>3.24</td><td>小威一家</td><td></td></tr>
-<tr><td rowspan="2">杭州</td><td>4.13</td><td>阿福一家</td><td>乃万</td></tr>
+<tr><td rowspan="2"><span style="color:#509779;font-weight:bold">杭州</span></td><td>4.13</td><td>阿福一家</td><td>乃万</td></tr>
 <tr><td>4.14</td><td>阿福一家</td><td>陈粒</td></tr>
-<tr><td rowspan="2">成都</td><td>5.4</td><td></td><td>郭涛</td></tr>
+<tr><td rowspan="2"><span style="color:#F18E53;font-weight:bold">成都</span></td><td>5.4</td><td></td><td>郭涛</td></tr>
 <tr><td>5.5</td><td>吴妈妈</td><td>韦伟</td></tr>
-<tr><td rowspan="2">郑州</td><td>5.18</td><td></td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#00B8DE;font-weight:bold">郑州</span></td><td>5.18</td><td></td><td></td></tr>
 <tr><td>5.19</td><td></td><td></td></tr>
-<tr><td rowspan="2">深圳</td><td>6.1</td><td></td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#767CBA;font-weight:bold">深圳</span></td><td>6.1</td><td></td><td></td></tr>
 <tr><td>6.2</td><td></td><td></td></tr>
-<tr><td rowspan="2">北京</td><td>6.22</td><td>馨仪一家、小威一家</td><td>张洢豪</td></tr>
+<tr><td rowspan="2"><span style="color:#56BBC6;font-weight:bold">北京</span></td><td>6.22</td><td>馨仪一家、小威一家</td><td>张洢豪</td></tr>
 <tr><td>6.23</td><td>吴妈妈</td><td>李宇春、郭涛、焦迈奇、刘胡轶、周扬</td></tr>
-<tr><td rowspan="2">武汉</td><td>7.20</td><td></td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#55B770;font-weight:bold">武汉</span></td><td>7.20</td><td></td><td></td></tr>
 <tr><td>7.21</td><td></td><td>刘胡轶</td></tr>
-<tr><td rowspan="2">厦门</td><td>8.3</td><td></td><td>刘胡轶</td></tr>
+<tr><td rowspan="2"><span style="color:#B6D44E;font-weight:bold">厦门</span></td><td>8.3</td><td></td><td>刘胡轶</td></tr>
 <tr><td>8.4</td><td></td><td>王大陆</td></tr>
-<tr><td rowspan="2">重庆</td><td>8.17</td><td>小威一家</td><td>王竟力</td></tr>
+<tr><td rowspan="2"><span style="color:#ED7A58;font-weight:bold">重庆</span></td><td>8.17</td><td>小威一家</td><td>王竟力</td></tr>
 <tr><td>8.18</td><td></td><td></td></tr>
-<tr><td rowspan="2">广州</td><td>8.31</td><td></td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#F9BE00;font-weight:bold">广州</span></td><td>8.31</td><td></td><td></td></tr>
 <tr><td>9.1</td><td>吴妈妈</td><td></td></tr>
-<tr><td rowspan="2">上海</td><td>9.16</td><td>Sunny、馨仪一家</td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#EB79AA;font-weight:bold">上海</span></td><td>9.16</td><td>Sunny、馨仪一家</td><td></td></tr>
 <tr><td>9.17</td><td>馨仪一家</td><td></td></tr>
-<tr><td rowspan="2">南京</td><td>9.27</td><td></td><td></td></tr>
+<tr><td rowspan="2"><span style="color:#BD9460;font-weight:bold">南京</span></td><td>9.27</td><td></td><td></td></tr>
 <tr><td>9.28</td><td>吴妈妈</td><td></td></tr>
 </tbody>
 </table>
