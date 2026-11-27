@@ -35,6 +35,15 @@ highlights:
       opacity: 0.3
       background-repeat: repeat
       background-size: initial
+    features:
+      - title: 2024（12 站）
+        icon: concert
+        details: <b>2024.03–09</b> 香港、杭州、成都、郑州、深圳、北京、武汉、厦门、重庆、广州、上海、南京<br><b>点击查看演出信息、歌单与点歌排行</b>
+        link: /news/20yike
+      - title: 2025（8 站）
+        icon: concert
+        details: <b>2025.02–08</b> 台北、新加坡、悉尼、墨尔本、伦敦、柏林、东京、高雄<br><b>点击查看演出信息、歌单与点歌排行</b>
+        link: /news/20yike-2025
   - header: 【近期演出消息】
     description: 点击卡片查看详情，点击 <a href="/news/perform"><b>这里</b></a> 查看更多
     bgImage: https://picbed-1300227887.cos.ap-shanghai.myqcloud.com/sodaguide/bg/perform2023.jpg
